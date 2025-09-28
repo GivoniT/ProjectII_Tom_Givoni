@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "World map placeholder using external TopoJSON data.",
+  "width": 900,
+  "height": 500,
+  "projection": {"type": "equirectangular"},
+  "data": {
+    "url": "https://vega.github.io/editor/data/world-110m.json",
+    "format": {"type": "topojson", "feature": "countries"}
+  },
+  "mark": {
+    "type": "geoshape",
+    "fill": "#3f88c5",
+    "stroke": "white",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "tooltip": [
+      {
+        "field": "properties.name",
+        "type": "nominal",
+        "title": "Country"
+      }
+    ]
+  }
+}

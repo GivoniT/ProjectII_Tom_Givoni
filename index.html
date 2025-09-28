@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>World Map Preview</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      background-color: #f7f7f7;
+      color: #222;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem 1rem 3rem;
+      gap: 1.5rem;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.8rem, 2.4vw + 1rem, 2.6rem);
+      text-align: center;
+    }
+
+    #map {
+      width: min(900px, 90vw);
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+      padding: 1rem;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+</head>
+<body>
+  <h1>Global Map Overview</h1>
+  <div id="map"></div>
+
+  <script>
+    const embedOptions = {
+      renderer: "canvas",
+      actions: false,
+    };
+
+    vegaEmbed("#map", "map.json", embedOptions).catch((error) => {
+      console.error("Failed to load the Vega-Lite visualisation:", error);
+    });
+  </script>
+</body>
+</html>
