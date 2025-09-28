@@ -1,26 +1,31 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "World map placeholder using external TopoJSON data.",
+  "description": "Australian school locations overlayed on the country's outline.",
   "width": 900,
-  "height": 500,
-  "projection": {"type": "equirectangular"},
-  "data": {
-    "url": "https://vega.github.io/editor/data/world-110m.json",
-    "format": {"type": "topojson", "feature": "countries"}
-  },
-  "mark": {
-    "type": "geoshape",
-    "fill": "#3f88c5",
-    "stroke": "white",
-    "strokeWidth": 0.5
-  },
-  "encoding": {
-    "tooltip": [
-      {
-        "field": "properties.name",
-        "type": "nominal",
-        "title": "Country"
+  "height": 600,
+  "projection": {"type": "mercator", "center": [134, -28], "scale": 1200},
+  "layer": [
+    {
+      "data": {
+        "url": "https://vega.github.io/editor/data/world-110m.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "transform": [{"filter": "datum.id == 36"}],
+      "mark": {"type": "geoshape", "fill": "#e0f3f8", "stroke": "#8a8a8a", "strokeWidth": 0.8}
+    },
+    {
+      "data": {"url": "data/project_data.csv"},
+      "transform": [
+        {"calculate": "toNumber(datum.Latitude)", "as": "lat"},
+        {"calculate": "toNumber(datum.Longitude)", "as": "lon"},
+        {"filter": "isValid(datum.lat) && isValid(datum.lon)"}
+      ],
+      "mark": {"type": "circle", "color": "#d73027", "opacity": 0.85, "size": 30},
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"},
+        "tooltip": {"field": "School Name", "type": "nominal", "title": "School"}
       }
-    ]
-  }
+    }
+  ]
 }
