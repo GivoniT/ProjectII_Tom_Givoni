@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>World Map Preview</title>
+  <title>Australian School Map</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
   <style>
     :root {
@@ -23,10 +23,13 @@
       gap: 1.5rem;
     }
 
-    h1 {
+    h1, p {
       margin: 0;
-      font-size: clamp(1.8rem, 2.4vw + 1rem, 2.6rem);
       text-align: center;
+    }
+
+    h1 {
+      font-size: clamp(1.8rem, 2.4vw + 1rem, 2.6rem);
     }
 
     #map {
@@ -42,7 +45,8 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
 </head>
 <body>
-  <h1>Global Map Overview</h1>
+  <h1>Australian School Map</h1>
+  <p>Each dot represents a school; hover to see the name.</p>
   <div id="map"></div>
 
   <script>

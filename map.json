@@ -1,9 +1,15 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Australian school locations overlayed on the country's outline.",
+  "description": "Australian schools coloured by ICSEA score.",
   "width": 900,
-  "height": 600,
-  "projection": {"type": "mercator", "center": [134, -28], "scale": 1200},
+  "height": 650,
+  "projection": {
+    "type": "albers",
+    "parallels": [-18, -36],
+    "rotate": [-132, 0],
+    "center": [0, -27],
+    "scale": 1300
+  },
   "layer": [
     {
       "data": {
@@ -11,20 +17,44 @@
         "format": {"type": "topojson", "feature": "countries"}
       },
       "transform": [{"filter": "datum.id == 36"}],
-      "mark": {"type": "geoshape", "fill": "#e0f3f8", "stroke": "#8a8a8a", "strokeWidth": 0.8}
+      "mark": {
+        "type": "geoshape",
+        "fill": "#eef3fb",
+        "stroke": "#8a8a8a",
+        "strokeWidth": 0.6
+      }
     },
     {
       "data": {"url": "data/project_data.csv"},
       "transform": [
         {"calculate": "toNumber(datum.Latitude)", "as": "lat"},
         {"calculate": "toNumber(datum.Longitude)", "as": "lon"},
-        {"filter": "isValid(datum.lat) && isValid(datum.lon)"}
+        {"calculate": "toNumber(datum.ICSEA)", "as": "icsea_value"},
+        {
+          "calculate": "datum['School Sector_profile'] ? datum['School Sector_profile'] : datum['School Sector_location']",
+          "as": "school_sector"
+        },
+        {"filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.icsea_value)"}
       ],
-      "mark": {"type": "circle", "color": "#d73027", "opacity": 0.85, "size": 30},
+      "mark": {
+        "type": "circle",
+        "size": 28,
+        "opacity": 0.5
+      },
       "encoding": {
         "longitude": {"field": "lon", "type": "quantitative"},
         "latitude": {"field": "lat", "type": "quantitative"},
-        "tooltip": {"field": "School Name", "type": "nominal", "title": "School"}
+        "color": {
+          "field": "icsea_value",
+          "type": "quantitative",
+          "scale": {"scheme": "blues"},
+          "legend": {"title": "ICSEA"}
+        },
+        "tooltip": [
+          {"field": "School Name", "type": "nominal", "title": "School"},
+          {"field": "icsea_value", "type": "quantitative", "title": "ICSEA"},
+          {"field": "school_sector", "type": "nominal", "title": "Sector"}
+        ]
       }
     }
   ]
