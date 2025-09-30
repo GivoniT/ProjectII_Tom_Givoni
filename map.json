@@ -1,45 +1,46 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Australian schools coloured by ICSEA score.",
+  "description": "Victorian schools coloured by ICSEA on SA2 polygons, with graticules.",
   "width": 900,
   "height": 650,
+  "background": "#cfe5ff",
   "projection": {
-    "type": "albers",
-    "parallels": [-18, -36],
-    "rotate": [-132, 0],
-    "center": [0, -27],
-    "scale": 1300
+    "type": "mercator",
+    "center": [145.0, -37.5],
+    "scale": 11000
   },
   "layer": [
     {
       "data": {
-        "url": "https://vega.github.io/editor/data/world-110m.json",
-        "format": {"type": "topojson", "feature": "countries"}
+        "url": "data/geojson/output.json",
+        "format": {"type": "topojson", "feature": "SA2_2016_AUST"}
       },
-      "transform": [{"filter": "datum.id == 36"}],
+      "transform": [
+        {"filter": "datum.properties && datum.properties.STE_NAME16 == 'Victoria'"}
+      ],
       "mark": {
         "type": "geoshape",
-        "fill": "#eef3fb",
-        "stroke": "#8a8a8a",
-        "strokeWidth": 0.6
+        "fill": "#f5e3c9",
+        "stroke": "#333333",
+        "strokeWidth": 1
       }
     },
     {
-      "data": {"url": "data/project_data.csv"},
+      "data": {"url": "data/results_geo/best_data.csv"},
       "transform": [
         {"calculate": "toNumber(datum.Latitude)", "as": "lat"},
         {"calculate": "toNumber(datum.Longitude)", "as": "lon"},
         {"calculate": "toNumber(datum.ICSEA)", "as": "icsea_value"},
-        {
-          "calculate": "datum['School Sector_profile'] ? datum['School Sector_profile'] : datum['School Sector_location']",
-          "as": "school_sector"
-        },
+        {"calculate": "datum.State", "as": "state_code"},
+        {"filter": "datum.state_code == 'VIC'"},
         {"filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.icsea_value)"}
       ],
       "mark": {
         "type": "circle",
-        "size": 28,
-        "opacity": 0.5
+        "size": 32,
+        "opacity": 0.6,
+        "stroke": "#ffffff",
+        "strokeWidth": 0.4
       },
       "encoding": {
         "longitude": {"field": "lon", "type": "quantitative"},
@@ -47,14 +48,26 @@
         "color": {
           "field": "icsea_value",
           "type": "quantitative",
-          "scale": {"scheme": "blues"},
+          "scale": {"scheme": "magma"},
           "legend": {"title": "ICSEA"}
         },
         "tooltip": [
           {"field": "School Name", "type": "nominal", "title": "School"},
-          {"field": "icsea_value", "type": "quantitative", "title": "ICSEA"},
-          {"field": "school_sector", "type": "nominal", "title": "Sector"}
+          {"field": "Suburb", "type": "nominal", "title": "Suburb"},
+          {"field": "icsea_value", "type": "quantitative", "title": "ICSEA"}
         ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/geojson/output.json",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_1"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#85a5c4",
+        "strokeWidth": 0.5,
+        "fillOpacity": 0
       }
     }
   ]

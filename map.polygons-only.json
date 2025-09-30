@@ -1,0 +1,21 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Victorian SA2 polygons from TopoJSON",
+  "width": 900,
+  "height": 650,
+  "background": "#cfe5ff",
+  "projection": {"type": "mercator"},
+  "data": {
+    "url": "data/geojson/SA2_2016_AUST.json",
+    "format": {"type": "topojson", "feature": "SA2_2016_AUST"}
+  },
+  "transform": [
+    {"filter": "datum.properties && datum.properties.STE_NAME16 == 'Victoria'"}
+  ],
+  "mark": {
+    "type": "geoshape",
+    "fill": "#f5e3c9",
+    "stroke": "#333333",
+    "strokeWidth": 1.2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Victorian schools (best_data.csv) coloured by ICSEA scores with SA2 boundaries.",
+  "width": 900,
+  "height": 650,
+  "background": "#cfe5ff",
+  "projection": {
+    "type": "mercator"
+  },
+  "layer": [
+    {
+      "data": {
+        "name": "sa2",
+        "url": "data/geojson/SA2_2016_AUST.json",
+        "format": {"type": "topojson", "feature": "SA2_2016_AUST"}
+      },
+      "transform": [{"filter": "datum.STE_NAME16 == 'Victoria'"}],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f5e3c9",
+        "stroke": "#333333",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {"url": "data/results_geo/best_data.csv"},
+      "transform": [
+        {"calculate": "toNumber(datum.Latitude)", "as": "lat"},
+        {"calculate": "toNumber(datum.Longitude)", "as": "lon"},
+        {"calculate": "toNumber(datum.ICSEA)", "as": "icsea_value"},
+        {"calculate": "datum.State", "as": "state_code"},
+        {"filter": "datum.state_code == 'VIC'"},
+        {
+          "calculate": "datum['Median VCE study score'] && datum['Median VCE study score'] !== '-' ? toNumber(datum['Median VCE study score']) : null",
+          "as": "median_vce"
+        },
+        {
+          "calculate": "datum['Percentage of study scores of 40 and over'] && datum['Percentage of study scores of 40 and over'] !== '-' ? toNumber(datum['Percentage of study scores of 40 and over']) : null",
+          "as": "pct40plus"
+        },
+        {"filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.icsea_value)"}
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 32,
+        "opacity": 0.6
+      },
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"},
+        "color": {
+          "field": "icsea_value",
+          "type": "quantitative",
+          "scale": {"scheme": "magma"},
+          "legend": {"title": "ICSEA"}
+        },
+        "tooltip": [
+          {"field": "School Name", "type": "nominal", "title": "School"},
+          {"field": "Suburb", "type": "nominal", "title": "Suburb"},
+          {"field": "icsea_value", "type": "quantitative", "title": "ICSEA"},
+          {"field": "median_vce", "type": "quantitative", "title": "Median VCE", "format": ".1f"},
+          {"field": "pct40plus", "type": "quantitative", "title": "% ≥40", "format": ".1f"}
+        ]
+      }
+    }
+  ]
+}
