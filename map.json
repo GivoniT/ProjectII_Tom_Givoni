@@ -1,436 +1,115 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Victorian schools coloured by ICSEA on SA2 polygons, with graticules.",
-  "vconcat": [
+  "description": "Victorian schools coloured by Median VCE with SA2 average ICSEA backdrop.",
+  "width": 900,
+  "height": 650,
+  "background": "#cfe5ff",
+  "projection": {
+    "type": "mercator",
+    "center": [145.0, -37.5],
+    "scale": 11000
+  },
+  "layer": [
     {
-      "width": 900,
-      "height": 650,
-      "background": "#cfe5ff",
-      "projection": {
-        "type": "mercator",
-        "center": [
-          145.0,
-          -37.5
-        ],
-        "scale": 11000
+      "data": {
+        "url": "data/geojson/output.json",
+        "format": {"type": "topojson", "feature": "SA2_2016_AUST"}
       },
-      "layer": [
-        {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "SA2_2016_AUST"
-            }
-          },
-          "transform": [
-            {
-              "filter": "datum['properties']['STE_NAME16'] == 'Victoria'"
-            }
-          ],
-          "mark": {
-            "type": "geoshape",
-            "fill": "#f5e3c9",
-            "stroke": "#333333",
-            "strokeWidth": 0.5
-          },
-          "encoding": {}
-        },
-        {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "SA2_2016_AUST"
-            }
-          },
-          "transform": [
-            {
-              "filter": "datum['properties']['STE_NAME16'] == 'Victoria'"
-            },
-            {
-              "calculate": "toNumber(datum['properties']['SA2_MAIN16'])",
-              "as": "sa2_key"
-            },
-            {
-              "lookup": "sa2_key",
-              "from": {
-                "data": {
-                  "url": "data/results_geo/vic_sa2_icsea_avg.csv"
-                },
-                "key": "SA2_MAIN16",
-                "fields": [
-                  "icsea_mean",
-                  "sa2_name",
-                  "school_count"
-                ]
-              },
-              "as": [
-                "icsea_mean",
-                "sa2_name_lookup",
-                "school_count"
-              ]
-            },
-            {
-              "filter": "isValid(datum.icsea_mean)"
-            }
-          ],
-          "mark": {
-            "type": "geoshape",
-            "stroke": "#333333",
-            "strokeWidth": 0.8
-          },
-          "encoding": {
-            "color": {
-              "field": "icsea_mean",
-              "type": "quantitative",
-              "scale": {
-                "scheme": "yellowgreenblue"
-              },
-              "legend": {
-                "title": "Avg ICSEA",
-                "orient": "right"
-              }
-            },
-            "tooltip": [
-              {
-                "field": "sa2_name_lookup",
-                "type": "nominal",
-                "title": "SA2"
-              },
-              {
-                "field": "icsea_mean",
-                "type": "quantitative",
-                "title": "Avg ICSEA",
-                "format": ".0f"
-              },
-              {
-                "field": "school_count",
-                "type": "quantitative",
-                "title": "Schools"
-              }
-            ]
-          }
-        },
-        {
-          "data": {
-            "url": "data/results_geo/best_data.csv"
-          },
-          "transform": [
-            {
-              "calculate": "toNumber(datum.Latitude)",
-              "as": "lat"
-            },
-            {
-              "calculate": "toNumber(datum.Longitude)",
-              "as": "lon"
-            },
-            {
-              "calculate": "toNumber(datum['Median VCE study score'])",
-              "as": "vce_score"
-            },
-            {
-              "calculate": "toNumber(datum.ICSEA)",
-              "as": "icsea_value"
-            },
-            {
-              "calculate": "datum.State",
-              "as": "state_code"
-            },
-            {
-              "filter": "datum.state_code == 'VIC'"
-            },
-            {
-              "filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.vce_score)"
-            }
-          ],
-          "mark": {
-            "type": "circle",
-            "size": 32,
-            "opacity": 0.6,
-            "stroke": "#ffffff",
-            "strokeWidth": 0.4
-          },
-          "encoding": {
-            "longitude": {
-              "field": "lon",
-              "type": "quantitative"
-            },
-            "latitude": {
-              "field": "lat",
-              "type": "quantitative"
-            },
-            "color": {
-              "field": "vce_score",
-              "type": "quantitative",
-              "scale": {
-                "scheme": "plasma"
-              },
-              "legend": {
-                "title": "Median VCE",
-                "orient": "right",
-                "offset": 80
-              }
-            },
-            "tooltip": [
-              {
-                "field": "School Name",
-                "type": "nominal",
-                "title": "School"
-              },
-              {
-                "field": "Suburb",
-                "type": "nominal",
-                "title": "Suburb"
-              },
-              {
-                "field": "vce_score",
-                "type": "quantitative",
-                "title": "Median VCE",
-                "format": ".1f"
-              },
-              {
-                "field": "icsea_value",
-                "type": "quantitative",
-                "title": "ICSEA",
-                "format": ".0f"
-              }
-            ]
-          }
-        },
-        {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "ne_110m_graticules_1"
-            }
-          },
-          "mark": {
-            "type": "geoshape",
-            "stroke": "#85a5c4",
-            "strokeWidth": 0.5,
-            "fillOpacity": 0
-          }
-        }
+      "transform": [
+        {"filter": "datum['properties']['STE_NAME16'] == 'Victoria'"}
       ],
-      "resolve": {
-        "scale": {
-          "color": "independent"
-        }
+      "mark": {
+        "type": "geoshape",
+        "fill": "#f5e3c9",
+        "stroke": "#333333",
+        "strokeWidth": 0.5
       }
     },
     {
-      "width": 900,
-      "height": 450,
-      "background": "#cfe5ff",
-      "projection": {
-        "type": "mercator",
-        "center": [
-          145.0,
-          -37.1
-        ],
-        "scale": 22000
+      "data": {
+        "url": "data/geojson/output.json",
+        "format": {"type": "topojson", "feature": "SA2_2016_AUST"}
       },
-      "layer": [
+      "transform": [
+        {"filter": "datum['properties']['STE_NAME16'] == 'Victoria'"},
+        {"calculate": "toNumber(datum['properties']['SA2_MAIN16'])", "as": "sa2_key"},
         {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "SA2_2016_AUST"
-            }
+          "lookup": "sa2_key",
+          "from": {
+            "data": {"url": "data/results_geo/vic_sa2_icsea_avg.csv"},
+            "key": "SA2_MAIN16",
+            "fields": ["icsea_mean", "sa2_name", "school_count"]
           },
-          "transform": [
-            {
-              "filter": "datum['properties']['STE_NAME16'] == 'Victoria'"
-            }
-          ],
-          "mark": {
-            "type": "geoshape",
-            "fill": "#f5e3c9",
-            "stroke": "#333333",
-            "strokeWidth": 0.5
-          },
-          "encoding": {}
+          "as": ["icsea_mean", "sa2_name_lookup", "school_count"]
         },
-        {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "SA2_2016_AUST"
-            }
-          },
-          "transform": [
-            {
-              "filter": "datum['properties']['STE_NAME16'] == 'Victoria'"
-            },
-            {
-              "calculate": "toNumber(datum['properties']['SA2_MAIN16'])",
-              "as": "sa2_key"
-            },
-            {
-              "lookup": "sa2_key",
-              "from": {
-                "data": {
-                  "url": "data/results_geo/vic_sa2_icsea_avg.csv"
-                },
-                "key": "SA2_MAIN16",
-                "fields": [
-                  "icsea_mean",
-                  "sa2_name",
-                  "school_count"
-                ]
-              },
-              "as": [
-                "icsea_mean",
-                "sa2_name_lookup",
-                "school_count"
-              ]
-            },
-            {
-              "filter": "isValid(datum.icsea_mean)"
-            }
-          ],
-          "mark": {
-            "type": "geoshape",
-            "stroke": "#333333",
-            "strokeWidth": 0.8
-          },
-          "encoding": {
-            "color": {
-              "field": "icsea_mean",
-              "type": "quantitative",
-              "scale": {
-                "scheme": "yellowgreenblue"
-              },
-              "legend": null
-            },
-            "tooltip": [
-              {
-                "field": "sa2_name_lookup",
-                "type": "nominal",
-                "title": "SA2"
-              },
-              {
-                "field": "icsea_mean",
-                "type": "quantitative",
-                "title": "Avg ICSEA",
-                "format": ".0f"
-              },
-              {
-                "field": "school_count",
-                "type": "quantitative",
-                "title": "Schools"
-              }
-            ]
-          }
-        },
-        {
-          "data": {
-            "url": "data/results_geo/best_data.csv"
-          },
-          "transform": [
-            {
-              "calculate": "toNumber(datum.Latitude)",
-              "as": "lat"
-            },
-            {
-              "calculate": "toNumber(datum.Longitude)",
-              "as": "lon"
-            },
-            {
-              "calculate": "toNumber(datum['Median VCE study score'])",
-              "as": "vce_score"
-            },
-            {
-              "calculate": "toNumber(datum.ICSEA)",
-              "as": "icsea_value"
-            },
-            {
-              "calculate": "datum.State",
-              "as": "state_code"
-            },
-            {
-              "filter": "datum.state_code == 'VIC'"
-            },
-            {
-              "filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.vce_score)"
-            }
-          ],
-          "mark": {
-            "type": "circle",
-            "size": 32,
-            "opacity": 0.6,
-            "stroke": "#ffffff",
-            "strokeWidth": 0.4
-          },
-          "encoding": {
-            "longitude": {
-              "field": "lon",
-              "type": "quantitative"
-            },
-            "latitude": {
-              "field": "lat",
-              "type": "quantitative"
-            },
-            "color": {
-              "field": "vce_score",
-              "type": "quantitative",
-              "scale": {
-                "scheme": "plasma"
-              },
-              "legend": null
-            },
-            "tooltip": [
-              {
-                "field": "School Name",
-                "type": "nominal",
-                "title": "School"
-              },
-              {
-                "field": "Suburb",
-                "type": "nominal",
-                "title": "Suburb"
-              },
-              {
-                "field": "vce_score",
-                "type": "quantitative",
-                "title": "Median VCE",
-                "format": ".1f"
-              },
-              {
-                "field": "icsea_value",
-                "type": "quantitative",
-                "title": "ICSEA",
-                "format": ".0f"
-              }
-            ]
-          }
-        },
-        {
-          "data": {
-            "url": "data/geojson/output.json",
-            "format": {
-              "type": "topojson",
-              "feature": "ne_110m_graticules_1"
-            }
-          },
-          "mark": {
-            "type": "geoshape",
-            "stroke": "#85a5c4",
-            "strokeWidth": 0.5,
-            "fillOpacity": 0
-          }
-        }
+        {"filter": "isValid(datum.icsea_mean)"}
       ],
-      "resolve": {
-        "scale": {
-          "color": "independent"
-        }
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#333333",
+        "strokeWidth": 0.8
+      },
+      "encoding": {
+        "color": {
+          "field": "icsea_mean",
+          "type": "quantitative",
+          "scale": {"scheme": "yellowgreenblue"},
+          "legend": {"title": "Avg ICSEA", "orient": "right"}
+        },
+        "tooltip": [
+          {"field": "sa2_name_lookup", "type": "nominal", "title": "SA2"},
+          {"field": "icsea_mean", "type": "quantitative", "title": "Avg ICSEA", "format": ".0f"},
+          {"field": "school_count", "type": "quantitative", "title": "Schools"}
+        ]
+      }
+    },
+    {
+      "data": {"url": "data/results_geo/best_data.csv"},
+      "transform": [
+        {"calculate": "toNumber(datum.Latitude)", "as": "lat"},
+        {"calculate": "toNumber(datum.Longitude)", "as": "lon"},
+        {"calculate": "toNumber(datum['Median VCE study score'])", "as": "vce_score"},
+        {"calculate": "toNumber(datum.ICSEA)", "as": "icsea_value"},
+        {"calculate": "datum.State", "as": "state_code"},
+        {"filter": "datum.state_code == 'VIC'"},
+        {"filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.vce_score)"}
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 32,
+        "opacity": 0.6,
+        "stroke": "#ffffff",
+        "strokeWidth": 0.4
+      },
+      "encoding": {
+        "longitude": {"field": "lon", "type": "quantitative"},
+        "latitude": {"field": "lat", "type": "quantitative"},
+        "color": {
+          "field": "vce_score",
+          "type": "quantitative",
+          "scale": {"scheme": "plasma"},
+          "legend": {"title": "Median VCE", "orient": "right", "offset": 80}
+        },
+        "tooltip": [
+          {"field": "School Name", "type": "nominal", "title": "School"},
+          {"field": "Suburb", "type": "nominal", "title": "Suburb"},
+          {"field": "vce_score", "type": "quantitative", "title": "Median VCE", "format": ".1f"},
+          {"field": "icsea_value", "type": "quantitative", "title": "ICSEA", "format": ".0f"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "data/geojson/output.json",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_1"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#85a5c4",
+        "strokeWidth": 0.5,
+        "fillOpacity": 0
       }
     }
   ],
-  "spacing": 40
+  "resolve": {"scale": {"color": "independent"}}
 }
