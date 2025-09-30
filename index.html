@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Australian School Map</title>
+  <title>How Does Financial Status Affect VCE Scores? (2024)</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
   <style>
     :root {
@@ -39,15 +39,42 @@
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
       padding: 1rem;
     }
+    <style>
+    .note {
+      max-width: 900px;
+      background: #fff;
+      border-radius: 8px;
+      padding: 1rem 1.5rem;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      margin: 1rem auto 0;
+      font-size: 0.95rem;
+      line-height: 1.45;
+      color: #333;
+    }
+    .note h3 {
+      margin: 0 0 0.4rem;
+      font-size: 1.1rem;
+    }
   </style>
+</style>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
 </head>
 <body>
-  <h1>Australian School Map</h1>
-  <p>Each dot represents a school; hover to see the name.</p>
+  <h1>How Does Financial Status Affect VCE Scores? (2024)</h1>
+  <p>For each region in Victoria, we view the average ICSEA scores—an indicator of socio-educational advantage. Dots represent schools, coloured by their median VCE study score.</p>
   <div id="map"></div>
+
+  <div class="note">
+    <h3>What is ICSEA?</h3>
+    <p>ICSEA (Index of Community Socio-Educational Advantage) summarises the relative socio-educational status of a school’s student population. Higher values indicate greater advantage.</p>
+
+    <h3>What can we learn?</h3>
+    <p>Higher-performing schools cluster around metropolitan Melbourne, where ICSEA scores tend to be higher. Yet the relationship is not absolute: regions with strong socio-educational advantage still contain schools with only moderate median VCE results.</p>
+  </div>
+
+
 
   <script>
     const embedOptions = {
