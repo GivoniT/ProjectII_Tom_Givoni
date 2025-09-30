@@ -85,7 +85,10 @@
             "scheme": "yellowgreenblue"
           },
           "legend": {
-            "title": "Average ICSEA (Regional)",
+            "title": [
+              "Region Fill:",
+              "Average ICSEA"
+            ],
             "orient": "right"
           }
         },
@@ -93,12 +96,12 @@
           {
             "field": "sa2_name_lookup",
             "type": "nominal",
-            "title": "SA2"
+            "title": "Region Name"
           },
           {
             "field": "icsea_mean",
             "type": "quantitative",
-            "title": "Avg ICSEA",
+            "title": "Average ICSEA Score in the Region",
             "format": ".0f"
           },
           {
@@ -164,9 +167,12 @@
             "scheme": "plasma"
           },
           "legend": {
-            "title": "Median VCE Study Score",
+            "title": [
+              "School Point Colour:",
+              "Median VCE Score"
+            ],
             "orient": "right",
-            "offset": 80
+            "offset": 90
           }
         },
         "tooltip": [
