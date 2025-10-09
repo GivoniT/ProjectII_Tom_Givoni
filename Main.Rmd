@@ -1,0 +1,64 @@
+---
+title: "Main"
+author: "Tom Givoni"
+date: "2025-10-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(readxl)
+```
+
+
+```{r}
+locations <- read_excel("data/School Location 2024.xlsx")
+
+scores <- read_excel("data/VCE/School_results_trimmed.xlsx")
+```
+
+```{r}
+locations <- locations %>% mutate(School = `School Name`)
+locations <- locations %>% filter(State == "VIC")
+df <- scores %>% inner_join(locations)
+```
+
+```{r}
+noc <- df %>% group_by(School) %>% count()
+
+schools_names_appearing_once <- noc %>%
+  filter(n == 1) %>%
+  pull(School)
+
+df_schools_appering_once <- df %>% filter(School %in% schools_names_appearing_once)
+
+schools_NOT_once <- noc %>%
+  filter(n != 1) %>%
+  pull(School)
+
+df_schools_NOT_once <- df %>% filter(School %in% schools_NOT_once)
+
+noc %>% filter(n != 1) %>% dim()
+
+```
+Filtering duplicate schools using locality.
+
+```{r}
+df_schools_NOT_once<-df_schools_NOT_once[(df_schools_NOT_once["Locality"] == df_schools_NOT_once["Suburb"]),]
+```
+
+
+Stacking them back
+```{r}
+df2 <- bind_rows(df_schools_appering_once,df_schools_NOT_once)
+```
+
+```{r}
+library(writexl)
+
+write_xlsx(df2, "data/combined_df.xlsx")
+```
+
+
