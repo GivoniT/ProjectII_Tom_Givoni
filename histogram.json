@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Distribution of Victorian school median VCE study scores.",
+  "width": 900,
+  "height": 220,
+  "data": {
+    "url": "data/combined_df.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum['Median VCE study score'] === null || datum['Median VCE study score'] === '' || datum['Median VCE study score'] === '-' ? null : toNumber(datum['Median VCE study score'])",
+      "as": "vce_score"
+    },
+    {
+      "filter": "datum.vce_score != null"
+    },
+    {
+      "filter": "datum.State === 'VIC'"
+    }
+  ],
+  "params": [
+    {
+      "name": "scoreBrush",
+      "select": {
+        "type": "interval",
+        "encodings": [
+          "x"
+        ],
+        "mark": {
+          "fill": "#a00000",
+          "fillOpacity": 0.2,
+          "stroke": "#a00000",
+          "strokeWidth": 1
+        }
+      }
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "color": "#a00000",
+    "opacity": 0.85
+  },
+  "encoding": {
+    "x": {
+      "field": "vce_score",
+      "type": "quantitative",
+      "bin": {
+        "step": 1
+      },
+      "title": "Median VCE score"
+    },
+    "y": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Number of schools"
+    }
+  }
+}

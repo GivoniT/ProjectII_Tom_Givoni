@@ -2,15 +2,37 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Victorian schools coloured by Median VCE with SA2 average ICSEA backdrop.",
   "width": 900,
-  "height": 650,
+  "height": 500,
   "background": "#cfe5ff",
+  "params": [
+    {
+      "name": "zoom",
+      "value": 11000,
+      "bind": {
+        "input": "range",
+        "min": 7000,
+        "max": 22000,
+        "step": 250
+      }
+    },
+    {
+      "name": "scoreMin",
+      "value": 20
+    },
+    {
+      "name": "scoreMax",
+      "value": 50
+    }
+  ],
   "projection": {
     "type": "mercator",
     "center": [
       145.0,
       -37.5
     ],
-    "scale": 11000
+    "scale": {
+      "expr": "zoom"
+    }
   },
   "layer": [
     {
@@ -114,42 +136,33 @@
     },
     {
       "data": {
-        "url": "data/results_geo/best_data.csv"
+        "url": "data/combined_df.csv"
       },
       "transform": [
         {
-          "calculate": "toNumber(datum.Latitude)",
+          "filter": "datum.State == 'VIC'"
+        },
+        {
+          "calculate": "datum.Latitude === null || datum.Latitude === '' || datum.Latitude === '-' ? null : toNumber(datum.Latitude)",
           "as": "lat"
         },
         {
-          "calculate": "toNumber(datum.Longitude)",
+          "calculate": "datum.Longitude === null || datum.Longitude === '' || datum.Longitude === '-' ? null : toNumber(datum.Longitude)",
           "as": "lon"
         },
         {
-          "calculate": "toNumber(datum['Median VCE study score'])",
+          "calculate": "datum['Median VCE study score'] === null || datum['Median VCE study score'] === '' || datum['Median VCE study score'] === '-' ? null : toNumber(datum['Median VCE study score'])",
           "as": "vce_score"
         },
         {
-          "calculate": "toNumber(datum.ICSEA)",
-          "as": "icsea_value"
-        },
-        {
-          "calculate": "datum.State",
-          "as": "state_code"
-        },
-        {
-          "filter": "datum.state_code == 'VIC'"
-        },
-        {
-          "filter": "isValid(datum.lat) && isValid(datum.lon) && isFinite(datum.vce_score)"
+          "filter": "isFinite(datum.lat) && isFinite(datum.lon) && isFinite(datum.vce_score)"
         }
       ],
       "mark": {
         "type": "circle",
-        "size": 32,
-        "opacity": 0.6,
+        "size": 70,
         "stroke": "#ffffff",
-        "strokeWidth": 0.4
+        "strokeWidth": 0.5
       },
       "encoding": {
         "longitude": {
@@ -161,19 +174,18 @@
           "type": "quantitative"
         },
         "color": {
-          "field": "vce_score",
-          "type": "quantitative",
-          "scale": {
-            "scheme": "plasma"
+          "condition": {
+            "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
+            "value": "#a00000"
           },
-          "legend": {
-            "title": [
-              "School Point Colour:",
-              "Median VCE Score"
-            ],
-            "orient": "right",
-            "offset": 90
-          }
+          "value": "#d3d3d3"
+        },
+        "opacity": {
+          "condition": {
+            "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
+            "value": 0.95
+          },
+          "value": 0.25
         },
         "tooltip": [
           {
@@ -191,12 +203,6 @@
             "type": "quantitative",
             "title": "Median VCE",
             "format": ".1f"
-          },
-          {
-            "field": "icsea_value",
-            "type": "quantitative",
-            "title": "ICSEA",
-            "format": ".0f"
           }
         ]
       }

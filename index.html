@@ -32,31 +32,34 @@
       font-size: clamp(1.8rem, 2.4vw + 1rem, 2.6rem);
     }
 
-    #map {
+    .viz {
       width: min(900px, 90vw);
       background: white;
       border-radius: 8px;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-      padding: 1rem;
+      padding: 1.25rem;
     }
-    <style>
+    #map {
+      display: block;
+    }
+
     .note {
       max-width: 900px;
       background: #fff;
       border-radius: 8px;
       padding: 1rem 1.5rem;
       box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-      margin: 1rem auto 0;
+      margin: 0;
       font-size: 0.95rem;
       line-height: 1.45;
       color: #333;
     }
+
     .note h3 {
       margin: 0 0 0.4rem;
       font-size: 1.1rem;
     }
   </style>
-</style>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
@@ -64,7 +67,8 @@
 <body>
   <h1>How Does Financial Status Affect VCE Scores? (2024)</h1>
   <p>For each region in Victoria, we view the average ICSEA scores—an indicator of socio-educational advantage. Dots represent schools, coloured by their median VCE study score.</p>
-  <div id="map"></div>
+  <div id="map" class="viz"></div>
+  <div id="histogram" class="viz"></div>
 
   <div class="note">
     <h3>What is ICSEA?</h3>
@@ -82,9 +86,55 @@
       actions: false,
     };
 
-    vegaEmbed("#map", "map.json", embedOptions).catch((error) => {
-      console.error("Failed to load the Vega-Lite visualisation:", error);
-    });
+    let mapView = null;
+    let histogramView = null;
+
+    const resetScoreRange = () => {
+      if (!mapView) return;
+      mapView.signal("scoreMin", 20);
+      mapView.signal("scoreMax", 50);
+      mapView.runAsync();
+    };
+
+    vegaEmbed("#map", "map.json", embedOptions)
+      .then((result) => {
+        mapView = result.view;
+        return vegaEmbed("#histogram", "histogram.json", embedOptions);
+      })
+      .then((result) => {
+        histogramView = result.view;
+
+        const handleBrush = () => {
+          if (!mapView) return;
+          const brush = histogramView.signal("scoreBrush");
+
+          const range =
+            brush && Array.isArray(brush.vce_score)
+              ? brush.vce_score
+              : brush && brush.vce_score && Array.isArray(brush.vce_score.bin)
+              ? brush.vce_score.bin
+              : null;
+
+          if (!range) {
+            resetScoreRange();
+            return;
+          }
+
+          const [min, max] = range;
+          if (Number.isFinite(min) && Number.isFinite(max)) {
+            mapView.signal("scoreMin", Math.max(0, min));
+            mapView.signal("scoreMax", Math.max(min, max));
+            mapView.runAsync();
+          } else {
+            resetScoreRange();
+          }
+        };
+
+        histogramView.addSignalListener("scoreBrush", handleBrush);
+      })
+      .catch((error) => {
+        console.error("Failed to load the Vega visualisations:", error);
+      });
   </script>
 </body>
 </html>
