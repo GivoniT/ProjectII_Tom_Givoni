@@ -1,0 +1,78 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Relationship between Victorian schools' median VCE study score and percentage of study scores 40 or above.",
+  "width": 900,
+  "height": 360,
+  "data": {
+    "url": "data/combined_df.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum['Median VCE study score'] === null || datum['Median VCE study score'] === '' || datum['Median VCE study score'] === '-' ? null : toNumber(datum['Median VCE study score'])",
+      "as": "median_score"
+    },
+    {
+      "calculate": "datum['Percentage of study scores of 40 and over'] === null || datum['Percentage of study scores of 40 and over'] === '' || datum['Percentage of study scores of 40 and over'] === '-' ? null : toNumber(datum['Percentage of study scores of 40 and over'])",
+      "as": "pct_score_40_plus"
+    },
+    {
+      "filter": "datum.State === 'VIC'"
+    },
+    {
+      "filter": "datum.median_score != null && datum.pct_score_40_plus != null"
+    }
+  ],
+  "mark": {
+    "type": "point",
+    "opacity": 0.85,
+    "filled": true,
+    "size": 80,
+    "color": "#20639b"
+  },
+  "encoding": {
+    "x": {
+      "field": "pct_score_40_plus",
+      "type": "quantitative",
+      "title": "Percentage of study scores 40+",
+      "axis": {
+        "grid": true
+      }
+    },
+    "y": {
+      "field": "median_score",
+      "type": "quantitative",
+      "title": "Median VCE study score",
+      "axis": {
+        "grid": true
+      }
+    },
+    "tooltip": [
+      {
+        "field": "School Name",
+        "type": "nominal",
+        "title": "School"
+      },
+      {
+        "field": "Suburb",
+        "type": "nominal"
+      },
+      {
+        "field": "median_score",
+        "type": "quantitative",
+        "title": "Median study score",
+        "format": ".1f"
+      },
+      {
+        "field": "pct_score_40_plus",
+        "type": "quantitative",
+        "title": "Study scores 40+ (%)",
+        "format": ".1f"
+      },
+      {
+        "field": "School Sector",
+        "type": "nominal",
+        "title": "Sector"
+      }
+    ]
+  }
+}

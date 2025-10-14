@@ -69,6 +69,7 @@
   <p>For each region in Victoria, we view the average ICSEA scores—an indicator of socio-educational advantage. Dots represent schools, coloured by their median VCE study score.</p>
   <div id="map" class="viz"></div>
   <div id="histogram" class="viz"></div>
+  <div id="scatter" class="viz"></div>
 
   <div class="note">
     <h3>What is ICSEA?</h3>
@@ -88,6 +89,7 @@
 
     let mapView = null;
     let histogramView = null;
+    let scatterView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -131,6 +133,10 @@
         };
 
         histogramView.addSignalListener("scoreBrush", handleBrush);
+        return vegaEmbed("#scatter", "scatter.json", embedOptions);
+      })
+      .then((result) => {
+        scatterView = result.view;
       })
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);
