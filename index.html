@@ -70,6 +70,7 @@
   <div id="map" class="viz"></div>
   <div id="histogram" class="viz"></div>
   <div id="scatter" class="viz"></div>
+  <div id="school-numbers" class="viz"></div>
 
   <div class="note">
     <h3>What is ICSEA?</h3>
@@ -90,6 +91,7 @@
     let mapView = null;
     let histogramView = null;
     let scatterView = null;
+    let schoolNumbersView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -137,6 +139,10 @@
       })
       .then((result) => {
         scatterView = result.view;
+        return vegaEmbed("#school-numbers", "school_numbers.json", embedOptions);
+      })
+      .then((result) => {
+        schoolNumbersView = result.view;
       })
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);

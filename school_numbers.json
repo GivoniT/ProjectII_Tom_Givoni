@@ -1,0 +1,385 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Australian school counts by sector and school type (2024). Selecting a school type in the table emphasises the corresponding bars.",
+  "data": {
+    "url": "data/School_numbers/school_numbers_sheet1.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum['Calendar year'] == '2024'"
+    },
+    {
+      "filter": "datum['State/territory'] == 'Australia'"
+    },
+    {
+      "filter": "datum['School sector'] != '' && datum['School type'] != ''"
+    },
+    {
+      "calculate": "replace(datum['School count'], ',', '')",
+      "as": "count_str"
+    },
+    {
+      "calculate": "datum.count_str == '' ? null : toNumber(datum.count_str)",
+      "as": "school_count"
+    }
+  ],
+  "vconcat": [
+    {
+      "title": {
+        "text": "Number of schools by sector and school type",
+        "subtitle": "Australia, 2024. Click a row or column to highlight; double-click to reset."
+      },
+      "width": 900,
+      "height": 180,
+      "transform": [
+        {
+          "filter": "indexof(['Government','Catholic','Independent','All'], datum['School sector']) >= 0"
+        },
+        {
+          "filter": "indexof(['Primary','Secondary','Combined','Special','All'], datum['School type']) >= 0"
+        }
+      ],
+      "layer": [
+        {
+          "params": [
+            {
+              "name": "typeSelect",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "School type"
+                ],
+                "encodings": [
+                  "y"
+                ],
+                "on": "click",
+                "clear": "dblclick"
+              }
+            },
+            {
+              "name": "sectorSelect",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "School sector"
+                ],
+                "encodings": [
+                  "x"
+                ],
+                "on": "click",
+                "clear": "dblclick"
+              }
+            }
+          ],
+          "mark": {
+            "type": "rect",
+            "cornerRadius": 3
+          },
+          "encoding": {
+            "x": {
+              "field": "School sector",
+              "type": "ordinal",
+              "sort": [
+                "Government",
+                "Catholic",
+                "Independent",
+                "All"
+              ],
+              "axis": {
+                "title": null,
+                "labelAngle": 0,
+                "labelPadding": 10,
+                "ticks": false,
+                "domain": false
+              }
+            },
+            "y": {
+              "field": "School type",
+              "type": "ordinal",
+              "sort": [
+                "Primary",
+                "Secondary",
+                "Combined",
+                "Special",
+                "All"
+              ],
+              "axis": {
+                "title": null,
+                "tickSize": 0,
+                "domain": false,
+                "labelPadding": 6
+              }
+            },
+            "color": {
+              "value": "#edf2fb"
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "param": "typeSelect"
+              }
+            }
+          ],
+          "mark": {
+            "type": "rect",
+            "cornerRadius": 3,
+            "color": "#bcd4f6"
+          },
+          "encoding": {
+            "x": {
+              "field": "School sector",
+              "type": "ordinal",
+              "sort": [
+                "Government",
+                "Catholic",
+                "Independent",
+                "All"
+              ]
+            },
+            "y": {
+              "field": "School type",
+              "type": "ordinal",
+              "sort": [
+                "Primary",
+                "Secondary",
+                "Combined",
+                "Special",
+                "All"
+              ]
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "param": "sectorSelect"
+              }
+            }
+          ],
+          "mark": {
+            "type": "rect",
+            "cornerRadius": 3,
+            "color": "#bcd4f6"
+          },
+          "encoding": {
+            "x": {
+              "field": "School sector",
+              "type": "ordinal",
+              "sort": [
+                "Government",
+                "Catholic",
+                "Independent",
+                "All"
+              ]
+            },
+            "y": {
+              "field": "School type",
+              "type": "ordinal",
+              "sort": [
+                "Primary",
+                "Secondary",
+                "Combined",
+                "Special",
+                "All"
+              ]
+            }
+          }
+        },
+        {
+          "transform": [
+            {
+              "filter": {
+                "param": "typeSelect"
+              }
+            },
+            {
+              "filter": {
+                "param": "sectorSelect"
+              }
+            }
+          ],
+          "mark": {
+            "type": "rect",
+            "cornerRadius": 3,
+            "color": "#6d8ed8"
+          },
+          "encoding": {
+            "x": {
+              "field": "School sector",
+              "type": "ordinal",
+              "sort": [
+                "Government",
+                "Catholic",
+                "Independent",
+                "All"
+              ]
+            },
+            "y": {
+              "field": "School type",
+              "type": "ordinal",
+              "sort": [
+                "Primary",
+                "Secondary",
+                "Combined",
+                "Special",
+                "All"
+              ]
+            }
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "baseline": "middle",
+            "fontSize": 14
+          },
+          "encoding": {
+            "x": {
+              "field": "School sector",
+              "type": "ordinal",
+              "sort": [
+                "Government",
+                "Catholic",
+                "Independent",
+                "All"
+              ]
+            },
+            "y": {
+              "field": "School type",
+              "type": "ordinal",
+              "sort": [
+                "Primary",
+                "Secondary",
+                "Combined",
+                "Special",
+                "All"
+              ]
+            },
+            "text": {
+              "field": "school_count",
+              "type": "quantitative",
+              "format": ","
+            },
+            "color": {
+              "condition": {
+                "test": "datum['School type'] === 'All' || datum['School sector'] === 'All'",
+                "value": "#113d77"
+              },
+              "value": "#1c4a86"
+            }
+          }
+        }
+      ],
+      "config": {
+        "view": {
+          "stroke": "#ccd6eb"
+        },
+        "axis": {
+          "grid": false
+        }
+      }
+    },
+    {
+      "width": 900,
+      "height": 260,
+      "transform": [
+        {
+          "filter": "datum['School sector'] != 'All'"
+        },
+        {
+          "filter": "datum['School type'] != 'All'"
+        }
+      ],
+      "mark": {
+        "type": "bar"
+      },
+      "encoding": {
+        "x": {
+          "field": "School sector",
+          "type": "ordinal",
+          "sort": [
+            "Government",
+            "Catholic",
+            "Independent"
+          ],
+          "title": "School sector",
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "school_count",
+          "type": "quantitative",
+          "title": "Number of schools"
+        },
+        "color": {
+          "field": "School type",
+          "type": "nominal",
+          "sort": [
+            "Primary",
+            "Secondary",
+            "Combined",
+            "Special"
+          ],
+          "scale": {
+            "scheme": "blues"
+          },
+          "legend": {
+            "title": "School type",
+            "orient": "bottom",
+            "columns": 2
+          }
+        },
+        "opacity": {
+          "condition": [
+            {
+              "param": "typeSelect",
+              "value": 1
+            },
+            {
+              "param": "sectorSelect",
+              "value": 1
+            }
+          ],
+          "value": 0.25
+        },
+        "order": {
+          "aggregate": "sum",
+          "field": "school_count",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "School sector",
+            "type": "nominal",
+            "title": "Sector"
+          },
+          {
+            "field": "School type",
+            "type": "nominal",
+            "title": "Type"
+          },
+          {
+            "aggregate": "sum",
+            "field": "school_count",
+            "type": "quantitative",
+            "title": "Schools",
+            "format": ","
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "font": "Helvetica Neue, Arial, sans-serif",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    }
+  }
+}
