@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Victorian schools coloured by Median VCE with SA2 average ICSEA backdrop.",
-  "width": 900,
+  "width": 720,
   "height": 500,
   "background": "#f5f7fa",
   "params": [
