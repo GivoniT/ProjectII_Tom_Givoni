@@ -3,61 +3,240 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>How Does Financial Status Affect VCE Scores? (2024)</title>
+  <title>Educational Performance Dashboard (DVII)</title>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
       color-scheme: light;
-      font-family: "Helvetica Neue", Arial, sans-serif;
-      background-color: #f7f7f7;
-      color: #222;
+      font-family: "Inter", Arial, sans-serif;
+      background-color: #f5f7fa;
+      color: #1a1a1a;
+      --primary: #004c97;
+      --secondary: #ffb81c;
+      --neutral-100: #ffffff;
+      --neutral-200: #f5f7fa;
+      --neutral-300: #e0e3e8;
+      --neutral-500: #444444;
+      --neutral-600: #333333;
+      --neutral-700: #1a1a1a;
+      --accent-success: #4caf50;
+      --accent-alert: #d62828;
     }
 
     body {
       margin: 0;
       min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 2rem 1rem 3rem;
-      gap: 1.5rem;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      justify-items: center;
+      background-color: var(--neutral-200);
     }
 
-    h1, p {
+    h1,
+    h2,
+    h3,
+    h4,
+    p {
       margin: 0;
-      text-align: center;
     }
 
     h1 {
-      font-size: clamp(1.8rem, 2.4vw + 1rem, 2.6rem);
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--neutral-700);
+    }
+
+    h2 {
+      font-size: 24px;
+      font-weight: 600;
+      color: var(--neutral-600);
+    }
+
+    h3 {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--neutral-600);
+      margin-bottom: 16px;
+    }
+
+    h4 {
+      font-size: 16px;
+      font-weight: 500;
+      color: #555555;
+      margin-bottom: 12px;
+    }
+
+    p {
+      font-size: 14px;
+      font-weight: 400;
+      color: var(--neutral-500);
+      line-height: 1.6;
+    }
+
+    .caption {
+      font-size: 12px;
+      color: #777777;
+      margin-top: 8px;
+    }
+
+    header {
+      width: min(1440px, 94vw);
+      padding: 40px 24px 24px;
+      display: grid;
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+      gap: 16px;
+      align-items: center;
+    }
+
+    .brand {
+      grid-column: span 8;
+    }
+
+    .lede {
+      grid-column: span 8;
+      margin-top: 16px;
+    }
+
+    .controls {
+      grid-column: span 4;
+      justify-self: end;
+      display: flex;
+      gap: 12px;
+    }
+
+    button {
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--neutral-100);
+      background-color: var(--primary);
+      border: none;
+      border-radius: 6px;
+      padding: 10px 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    button:hover,
+    button:focus-visible {
+      background-color: #003b73;
+      outline: none;
+      transform: translateY(-1px);
+    }
+
+    main.dashboard {
+      width: min(1440px, 94vw);
+      display: grid;
+      grid-template-columns: repeat(12, minmax(0, 1fr));
+      gap: 40px;
+      padding: 0 24px 56px;
+      box-sizing: border-box;
+    }
+
+    .card {
+      background: var(--neutral-100);
+      border-radius: 12px;
+      box-shadow: 0 16px 32px rgba(0, 32, 77, 0.08);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card h3 + p {
+      margin-bottom: 16px;
     }
 
     .viz {
-      width: min(900px, 90vw);
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-      padding: 1.25rem;
-    }
-    #map {
-      display: block;
+      width: 100%;
+      min-height: 260px;
     }
 
-    .note {
-      max-width: 900px;
-      background: #fff;
-      border-radius: 8px;
-      padding: 1rem 1.5rem;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
-      margin: 0;
-      font-size: 0.95rem;
-      line-height: 1.45;
-      color: #333;
+    .span-4 {
+      grid-column: span 4;
     }
 
-    .note h3 {
-      margin: 0 0 0.4rem;
-      font-size: 1.1rem;
+    .span-6 {
+      grid-column: span 6;
+    }
+
+    .span-8 {
+      grid-column: span 8;
+    }
+
+    .span-12 {
+      grid-column: span 12;
+    }
+
+    .insight-panel {
+      background: linear-gradient(180deg, #ffffff 0%, #f5f7fa 100%);
+      border: 1px solid var(--neutral-300);
+    }
+
+    .insight-panel ul {
+      margin: 16px 0 0;
+      padding-left: 18px;
+      color: var(--neutral-500);
+    }
+
+    .insight-panel li {
+      margin-bottom: 12px;
+      font-size: 14px;
+    }
+
+    footer {
+      width: 100%;
+      padding: 24px;
+      background: var(--neutral-100);
+      border-top: 1px solid var(--neutral-300);
+      display: flex;
+      justify-content: center;
+    }
+
+    footer p {
+      color: #777777;
+    }
+
+    @media (max-width: 1080px) {
+      header {
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+      }
+
+      .brand,
+      .lede,
+      .controls {
+        grid-column: span 6;
+        justify-self: start;
+      }
+
+      main.dashboard {
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        gap: 32px;
+      }
+
+      .span-8,
+      .span-6,
+      .span-4,
+      .span-12 {
+        grid-column: span 6;
+      }
+    }
+
+    @media (max-width: 768px) {
+      header {
+        padding: 32px 16px 16px;
+      }
+
+      main.dashboard {
+        padding: 0 16px 40px;
+        gap: 24px;
+      }
+
+      .card {
+        padding: 20px;
+      }
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
@@ -65,22 +244,69 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
 </head>
 <body>
-  <h1>How Does Financial Status Affect VCE Scores? (2024)</h1>
-  <p>For each region in Victoria, we view the average ICSEA scores—an indicator of socio-educational advantage. Dots represent schools, coloured by their median VCE study score.</p>
-  <div id="map" class="viz"></div>
-  <div id="histogram" class="viz"></div>
-  <div id="scatter" class="viz"></div>
-  <div id="school-numbers" class="viz"></div>
+  <header>
+    <div class="brand">
+      <h1>Educational Performance Dashboard</h1>
+      <h2>Explore School Outcomes Across Victoria</h2>
+    </div>
+    <p class="lede">
+      This dashboard visualises Victorian school performance metrics so you can progress from statewide overview to detailed comparison. Use the interactive filters to spotlight schools, benchmark sectors, and surface areas of excellence.
+    </p>
+    <div class="controls">
+      <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
+    </div>
+  </header>
 
-  <div class="note">
-    <h3>What is ICSEA?</h3>
-    <p>ICSEA (Index of Community Socio-Educational Advantage) summarises the relative socio-educational status of a school’s student population. Higher values indicate greater advantage.</p>
+  <main class="dashboard" role="main">
+    <section class="card span-8" aria-labelledby="map-heading">
+      <div>
+        <h3 id="map-heading">Map of Schools by Region</h3>
+        <p class="caption">Hover for school details; filters sync with the histogram and scatter plot.</p>
+      </div>
+      <div id="map" class="viz" aria-label="Interactive map of Victorian schools by region"></div>
+    </section>
 
-    <h3>What can we learn?</h3>
-    <p>Higher-performing schools cluster around metropolitan Melbourne, where ICSEA scores tend to be higher. Yet the relationship is not absolute: regions with strong socio-educational advantage still contain schools with only moderate median VCE results.</p>
-  </div>
+    <aside class="card span-4 insight-panel" aria-labelledby="insight-heading">
+      <h3 id="insight-heading">Insight Panel</h3>
+      <p>
+        Start with the statewide map to spot spatial clusters of socio-educational advantage. Use the histogram to narrow the score range, then drill into the scatter plot to understand how high-achieving cohorts relate to overall median performance.
+      </p>
+      <h4>Key Observations</h4>
+      <ul>
+        <li>Schools around metropolitan Melbourne trend towards higher ICSEA and VCE outcomes.</li>
+        <li>Exception cases emerge where median scores remain average despite advantaged contexts.</li>
+        <li>The sector overview shows government schools dominate numerically, yet combined independent schools stand out proportionally.</li>
+      </ul>
+    </aside>
 
+    <section class="card span-6" aria-labelledby="histogram-heading">
+      <div>
+        <h3 id="histogram-heading">Median Study Score Distribution</h3>
+        <p class="caption">Drag across the histogram to filter the map and focus on particular performance bands.</p>
+      </div>
+      <div id="histogram" class="viz" aria-label="Histogram of Victorian school median VCE study scores"></div>
+    </section>
 
+    <section class="card span-6" aria-labelledby="scatter-heading">
+      <div>
+        <h3 id="scatter-heading">High Achievement vs Median Score</h3>
+        <p class="caption">Click to highlight schools and see them accented on the map. Double-click to clear.</p>
+      </div>
+      <div id="scatter" class="viz" aria-label="Scatter plot of median VCE study score against percentage of scores 40 or above"></div>
+    </section>
+
+    <section class="card span-12" aria-labelledby="sector-heading">
+      <div>
+        <h3 id="sector-heading">School Sector Overview</h3>
+        <p class="caption">Click a row or column to focus on a school type or sector. Double-click to reset.</p>
+      </div>
+      <div id="school-numbers" class="viz" aria-label="Table and stacked bar chart showing school counts by sector and type"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p class="caption">© 2024 DVII Educational Performance Dashboard. Data source: VCAA, 2023.</p>
+  </footer>
 
   <script>
     const embedOptions = {
@@ -139,6 +365,39 @@
       })
       .then((result) => {
         scatterView = result.view;
+
+        const syncScatterSelection = (_name, value) => {
+          if (!mapView) return;
+          const store = Array.isArray(value)
+            ? value
+            : scatterView.data("scatterSelect_store") || [];
+          const selectedNames = store
+            .map((entry) =>
+              entry && entry.values ? entry.values["School Name"] : null
+            )
+            .filter(Boolean);
+          mapView.signal("selectedSchools", selectedNames);
+          mapView.runAsync();
+        };
+
+        const handleScatterSignal = () => {
+          let store = [];
+          try {
+            store = scatterView.data("scatterSelect_store") || [];
+          } catch (error) {
+            store = [];
+          }
+          syncScatterSelection("scatterSelect_store", store);
+        };
+
+        try {
+          scatterView.addSignalListener("scatterSelect", handleScatterSignal);
+        } catch (error) {
+          console.warn("Unable to attach scatterSelect signal listener:", error);
+        }
+
+        // Run once after render to sync any default selection state.
+        setTimeout(handleScatterSignal, 0);
         return vegaEmbed("#school-numbers", "school_numbers.json", embedOptions);
       })
       .then((result) => {
@@ -147,6 +406,26 @@
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);
       });
+
+    document.getElementById("resetScores").addEventListener("click", () => {
+      if (histogramView) {
+        histogramView.signal("scoreBrush", null);
+        histogramView.runAsync();
+      }
+      resetScoreRange();
+      if (mapView) {
+        mapView.signal("selectedSchools", []);
+        mapView.runAsync();
+      }
+      if (scatterView) {
+        try {
+          scatterView.remove("scatterSelect_store", () => true);
+        } catch (error) {
+          console.warn("Unable to clear scatter selection store:", error);
+        }
+        scatterView.runAsync();
+      }
+    });
   </script>
 </body>
 </html>

@@ -126,7 +126,7 @@
           "mark": {
             "type": "rect",
             "cornerRadius": 3,
-            "color": "#bcd4f6"
+            "color": "#d7e8ff"
           },
           "encoding": {
             "x": {
@@ -163,7 +163,7 @@
           "mark": {
             "type": "rect",
             "cornerRadius": 3,
-            "color": "#bcd4f6"
+            "color": "#c7d8f2"
           },
           "encoding": {
             "x": {
@@ -205,7 +205,7 @@
           "mark": {
             "type": "rect",
             "cornerRadius": 3,
-            "color": "#6d8ed8"
+            "color": "#ffb81c"
           },
           "encoding": {
             "x": {

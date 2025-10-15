@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Distribution of Victorian school median VCE study scores.",
-  "width": 900,
+  "width": 50,
   "height": 220,
   "data": {
     "url": "data/combined_df.csv"
@@ -27,9 +27,9 @@
           "x"
         ],
         "mark": {
-          "fill": "#a00000",
-          "fillOpacity": 0.2,
-          "stroke": "#a00000",
+          "fill": "#ffb81c",
+          "fillOpacity": 0.25,
+          "stroke": "#ffb81c",
           "strokeWidth": 1
         }
       }
@@ -37,7 +37,7 @@
   ],
   "mark": {
     "type": "bar",
-    "color": "#a00000",
+    "color": "#004c97",
     "opacity": 0.85
   },
   "encoding": {

@@ -3,7 +3,7 @@
   "description": "Victorian schools coloured by Median VCE with SA2 average ICSEA backdrop.",
   "width": 900,
   "height": 500,
-  "background": "#cfe5ff",
+  "background": "#f5f7fa",
   "params": [
     {
       "name": "zoom",
@@ -22,6 +22,10 @@
     {
       "name": "scoreMax",
       "value": 50
+    },
+    {
+      "name": "selectedSchools",
+      "value": []
     }
   ],
   "projection": {
@@ -174,18 +178,30 @@
           "type": "quantitative"
         },
         "color": {
-          "condition": {
-            "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
-            "value": "#a00000"
-          },
-          "value": "#d3d3d3"
+          "condition": [
+            {
+              "test": "selectedSchools.length && indexof(selectedSchools, datum['School Name']) >= 0",
+              "value": "#ffb81c"
+            },
+            {
+              "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
+              "value": "#004c97"
+            }
+          ],
+          "value": "#b0b8c5"
         },
         "opacity": {
-          "condition": {
-            "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
-            "value": 0.95
-          },
-          "value": 0.25
+          "condition": [
+            {
+              "test": "selectedSchools.length && indexof(selectedSchools, datum['School Name']) >= 0",
+              "value": 1
+            },
+            {
+              "test": "datum.vce_score >= scoreMin && datum.vce_score <= scoreMax",
+              "value": 0.9
+            }
+          ],
+          "value": 0.2
         },
         "tooltip": [
           {

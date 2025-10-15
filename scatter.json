@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Relationship between Victorian schools' median VCE study score and percentage of study scores 40 or above.",
-  "width": 900,
+  "width": 600,
   "height": 360,
   "data": {
     "url": "data/combined_df.csv"
@@ -22,57 +22,131 @@
       "filter": "datum.median_score != null && datum.pct_score_40_plus != null"
     }
   ],
-  "mark": {
-    "type": "point",
-    "opacity": 0.85,
-    "filled": true,
-    "size": 80,
-    "color": "#20639b"
-  },
-  "encoding": {
-    "x": {
-      "field": "pct_score_40_plus",
-      "type": "quantitative",
-      "title": "Percentage of study scores 40+",
-      "axis": {
-        "grid": true
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "scatterSelect",
+          "select": {
+            "type": "point",
+            "fields": [
+              "School Name"
+            ],
+            "on": "click",
+            "toggle": "event.shiftKey",
+            "clear": "dblclick"
+          }
+        }
+      ],
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 90,
+        "stroke": "#ffffff",
+        "strokeWidth": 0.6
+      },
+      "encoding": {
+        "x": {
+          "field": "pct_score_40_plus",
+          "type": "quantitative",
+          "title": "Percentage of study scores 40+",
+          "axis": {
+            "grid": true,
+            "labelColor": "#333333",
+            "titleColor": "#1a1a1a"
+          }
+        },
+        "y": {
+          "field": "median_score",
+          "type": "quantitative",
+          "title": "Median VCE study score",
+          "axis": {
+            "grid": true,
+            "labelColor": "#333333",
+            "titleColor": "#1a1a1a"
+          }
+        },
+        "color": {
+          "condition": {
+            "param": "scatterSelect",
+            "value": "#ffb81c"
+          },
+          "value": "#004c97"
+        },
+        "size": {
+          "condition": {
+            "param": "scatterSelect",
+            "value": 160
+          },
+          "value": 90
+        },
+        "opacity": {
+          "condition": {
+            "param": "scatterSelect",
+            "value": 1
+          },
+          "value": 0.7
+        },
+        "tooltip": [
+          {
+            "field": "School Name",
+            "type": "nominal",
+            "title": "School"
+          },
+          {
+            "field": "Suburb",
+            "type": "nominal"
+          },
+          {
+            "field": "median_score",
+            "type": "quantitative",
+            "title": "Median study score",
+            "format": ".1f"
+          },
+          {
+            "field": "pct_score_40_plus",
+            "type": "quantitative",
+            "title": "Study scores 40+ (%)",
+            "format": ".1f"
+          },
+          {
+            "field": "School Sector",
+            "type": "nominal",
+            "title": "Sector"
+          }
+        ]
       }
     },
-    "y": {
-      "field": "median_score",
-      "type": "quantitative",
-      "title": "Median VCE study score",
-      "axis": {
-        "grid": true
+    {
+      "transform": [
+        {
+          "regression": "median_score",
+          "on": "pct_score_40_plus",
+          "method": "linear"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "color": "#ffb81c",
+        "strokeWidth": 3
+      },
+      "encoding": {
+        "x": {
+          "field": "pct_score_40_plus",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "median_score",
+          "type": "quantitative"
+        }
       }
-    },
-    "tooltip": [
-      {
-        "field": "School Name",
-        "type": "nominal",
-        "title": "School"
-      },
-      {
-        "field": "Suburb",
-        "type": "nominal"
-      },
-      {
-        "field": "median_score",
-        "type": "quantitative",
-        "title": "Median study score",
-        "format": ".1f"
-      },
-      {
-        "field": "pct_score_40_plus",
-        "type": "quantitative",
-        "title": "Study scores 40+ (%)",
-        "format": ".1f"
-      },
-      {
-        "field": "School Sector",
-        "type": "nominal",
-        "title": "Sector"
-      }
-    ]
+    }
+  ],
+  "config": {
+    "axis": {
+      "gridOpacity": 0.2,
+      "domainColor": "#d0d4da",
+      "tickColor": "#d0d4da"
+    }
   }
 }
