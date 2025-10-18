@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20250804</CreaDate>
+		<CreaTime>01002800</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>TRUE</SyncOnce>
+		<DataProperties>
+			<itemProps/>
+		</DataProperties>
+	</Esri>
+	<mdLang>
+		<languageCode value="eng">
+		</languageCode>
+		<countryCode value="AU">
+		</countryCode>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdHrLvName>Feature layer</mdHrLvName>
+	<mdContact>
+		<role>
+			<RoleCd value="002">
+			</RoleCd>
+		</role>
+		<rpOrgName>Australian Bureau of Statistics</rpOrgName>
+		<rpCntInfo>
+			<cntAddress>
+				<eMailAdd>geography@abs.gov.au</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+	</mdContact>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>SA2 Income (including government allowances) (Data by region) Nov 2024</resTitle>
+			<resAltTitle>SA2_income_DbR_Nov24</resAltTitle>
+			<citRespParty>
+				<role>
+					<RoleCd value="002">
+					</RoleCd>
+				</role>
+				<rpOrgName>Australian Bureau of Statistics</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<eMailAdd>geography@abs.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+			</citRespParty>
+		</idCitation>
+		<idAbs>&lt;div style="text-align:Left;"&gt;
+&lt;p&gt;This dataset presents a range of data items sourced from a wide variety of collections, both Australian Bureau of Statistics (ABS) and non-ABS. The data is derived from the November 2024 release of &lt;a href="https://dbr.abs.gov.au/" target="_blank"&gt;Data by region&lt;/a&gt;. Individual data items present the latest reference year data available on Data by region. This layer presents data by &lt;a href="https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026" target="_blank"&gt;Statistical Areas Level 2 (SA2), 2021&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;The Income (including government allowances) theme is based on groupings of data within &lt;a href="https://dbr.abs.gov.au/" target="_blank"&gt;Data by region&lt;/a&gt;. Concepts, sources and methods for each dataset can be found on the &lt;a href="https://www.abs.gov.au/methodologies/data-region-methodology/2011-24" target="_blank"&gt;Data by region methodology&lt;/a&gt; page. &lt;/p&gt;
+ 
+&lt;p&gt;The Income (including government allowances) theme includes:
+	&lt;ul&gt;
+&lt;li&gt;Personal income in Australia&lt;/li&gt;
+&lt;li&gt;Selected government pensions and allowances&lt;/li&gt;
+&lt;li&gt;Personal income (Census)&lt;/li&gt;
+&lt;li&gt;Household income (Census)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+&lt;b&gt;When analysing these statistics:&lt;/b&gt;
+&lt;ul&gt;
+	&lt;li&gt;Time periods, definitions, methodologies, scope, and coverage can differ across collections.&lt;/li&gt;
+	&lt;li&gt;Some data values have been randomly adjusted or suppressed to avoid the release of confidential data, this means
+		&lt;ul&gt;
+			&lt;li&gt;some small cells have been randomly set to zero&lt;/li&gt;
+			&lt;li&gt;care should be taken when interpreting cells with small numbers or zeros.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Data and geography references &lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Source data publication: &lt;a href="https://dbr.abs.gov.au/" target="_blank"&gt;Data by region&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Geographic boundary information: &lt;a href="https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026" target="_blank"&gt;Australian Statistical Geography Standard (ASGS) Edition 3&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Further information: &lt;a href="https://www.abs.gov.au/methodologies/data-region-methodology/2011-24" target="_blank"&gt;Data by region methodology, reference period 2011-24&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Source: &lt;a href="https://www.abs.gov.au/" target="_blank"&gt;Australian Bureau of Statistics (ABS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Made possible by the Digital Atlas of Australia&lt;/b&gt; 
+&lt;br&gt;
+The &lt;a href="https://digital.atlas.gov.au/" target="_blank"&gt;Digital Atlas of Australia&lt;/a&gt; is a key Australian Government initiative being led by Geoscience Australia, highlighted in the &lt;a href="https://www.dataanddigital.gov.au/" target="_blank"&gt;Data and Digital Government Strategy&lt;/a&gt;. It brings together trusted datasets from across government in an interactive, secure, and easy-to-use geospatial platform. The Australian Bureau of Statistics (ABS) is working in partnership with Geoscience Australia to establish a set of web services to make ABS data available in the Digital Atlas of Australia. 
+&lt;/p&gt;	
+&lt;p&gt;
+&lt;b&gt;Contact the Australian Bureau of Statistics&lt;/b&gt;
+&lt;ul&gt; 
+	&lt;li&gt;Email &lt;a href="mailto:geography@abs.gov.au"&gt;geography@abs.gov.au&lt;/a&gt; if you have any questions or feedback about this web service.
+	&lt;li&gt;&lt;a href="https://www.subscribe.abs.gov.au/geospatialnews" target="_blank"&gt;Subscribe&lt;/a&gt; to get updates on ABS web services and geospatial products.
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Privacy at the Australian Bureau of Statistics&lt;/b&gt;
+&lt;br&gt;Read how the ABS manages personal information - &lt;a href="https://www.abs.gov.au/about/legislation-and-policy/privacy/privacy-abs" target="_blank"&gt;ABS privacy policy&lt;/a&gt;.
+&lt;/p&gt;
+&lt;/div&gt;</idAbs>
+		<idPurp>ABS Income (including government allowances) themed data items published in 2024 by Statistical Areas Level 2 (SA2), 2021.</idPurp>
+		<idCredit>Australian Bureau of Statistics (ABS)</idCredit>
+		<idPoC>
+			<role>
+				<RoleCd value="002">
+				</RoleCd>
+			</role>
+			<rpOrgName>Australian Bureau of Statistics</rpOrgName>
+			<rpCntInfo>
+				<cntAddress>
+					<eMailAdd>geography@abs.gov.au</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="007">
+				</MaintFreqCd>
+			</maintFreq>
+			<maintCont>
+				<role>
+					<RoleCd value="002">
+					</RoleCd>
+				</role>
+				<rpOrgName>Australian Bureau of Statistics</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<eMailAdd>geography@abs.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+			</maintCont>
+		</resMaint>
+		<otherKeys>
+			<keyword>ABS</keyword>
+			<keyword>Australian Bureau of Statistics</keyword>
+			<keyword>Income</keyword>
+			<keyword>Census</keyword>
+			<keyword>ASGS</keyword>
+			<keyword>Allowance</keyword>
+			<keyword>Pension</keyword>
+			<keyword>Household</keyword>
+			<keyword>Statistical Area Level 2</keyword>
+			<keyword>SA2</keyword>
+			<keyword>Population Distribution</keyword>
+		</otherKeys>
+		<searchKeys>
+			<keyword>ABS</keyword>
+			<keyword>Australian Bureau of Statistics</keyword>
+			<keyword>Income</keyword>
+			<keyword>Census</keyword>
+			<keyword>ASGS</keyword>
+			<keyword>Allowance</keyword>
+			<keyword>Pension</keyword>
+			<keyword>Household</keyword>
+			<keyword>Statistical Area Level 2</keyword>
+			<keyword>SA2</keyword>
+			<keyword>Population Distribution</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>&lt;p&gt;Copyright and creative commons of CC BY 4.0: &lt;a href="https://www.abs.gov.au/website-privacy-copyright-and-disclaimer" target="_blank"&gt;Website privacy, copyright and disclaimer ABS copyright&lt;/a&gt; &lt;br /&gt;
+Legal Authority: &lt;a href="https://www.abs.gov.au/about/legislation-and-policy/legislative-framework" target="_blank"&gt;Census and Statistics Act 1905&lt;/a&gt;&lt;br /&gt;
+Security Classification: Official&lt;br /&gt;
+No sensitive data&lt;br /&gt;
+Source data is retained in National Archives&lt;/p&gt;</useLimit>
+			</Consts>
+		</resConst>
+		<spatRpType>
+			<SpatRepTypCd value="001">
+			</SpatRepTypCd>
+		</spatRpType>
+		<tpCat>
+			<TopicCatCd value="016">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>96.816951630000005</westBL>
+					<eastBL>167.99803924</eastBL>
+					<southBL>-43.740496569999998</southBL>
+					<northBL>-9.1421625199999994</northBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>20241115</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<dataLang>
+			<languageCode value="eng">
+			</languageCode>
+			<countryCode value="AU">
+			</countryCode>
+		</dataLang>
+		<dataChar>
+			<CharSetCd value="004">
+			</CharSetCd>
+		</dataChar>
+	</dataIdInfo>
+	<mdMaint>
+		<maintFreq>
+			<MaintFreqCd value="007">
+			</MaintFreqCd>
+		</maintFreq>
+	</mdMaint>
+	<mdConst>
+		<Consts>
+			<useLimit>&lt;p&gt;Copyright and creative commons of CC BY 4.0: &lt;a href="https://www.abs.gov.au/website-privacy-copyright-and-disclaimer" target="_blank"&gt;Website privacy, copyright and disclaimer ABS copyright&lt;/a&gt; &lt;br /&gt;
+Legal Authority: &lt;a href="https://www.abs.gov.au/about/legislation-and-policy/legislative-framework" target="_blank"&gt;Census and Statistics Act 1905&lt;/a&gt;&lt;br /&gt;
+Security Classification: Official&lt;br /&gt;
+No sensitive data&lt;br /&gt;
+Source data is retained in National Archives&lt;/p&gt;</useLimit>
+		</Consts>
+	</mdConst>
+	<dqInfo>
+		<dataLineage>
+			<statement>https://www.abs.gov.au/methodologies/data-region-methodology/2011-24</statement>
+		</dataLineage>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+	</dqInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="7844">
+				</identCode>
+				<idCodeSpace>EPSG</idCodeSpace>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<contInfo>
+		<ERROR>MD_FeatureCatalogue</ERROR>
+	</contInfo>
+	<distInfo>
+		<distFormat>
+			<formatName Sync="TRUE">File Geodatabase Feature Class</formatName>
+		</distFormat>
+	</distInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+                                SA2_income_DbR_Nov24
+
+                
+                <geoObjTyp>
+					<GeoObjTypCd Sync="TRUE" value="002">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">2473</geoObjCnt>
+			</geometObjs>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001">
+				</TopoLevCd>
+			</topLvl>
+		</VectSpatRep>
+	</spatRepInfo>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm>
+                                SA2_income_DbR_Nov24
+
+                
+                <efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE" code="4">
+				</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">2473</efeacnt>
+				<spindex Sync="TRUE">TRUE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed>
+                        SA2_income_DbR_Nov24
+
+            
+            <enttyp>
+				<enttypl Sync="TRUE">SA2_income_DbR_Nov24</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">2473</enttypc>
+				<enttypd>SA2_income_DbR_Nov24</enttypd>
+				<enttypds>Australian Bureau of Statistics</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">SA2_CODE_2021</attrlabl>
+				<attalias Sync="TRUE">Statistical Areas Level 2 2021 code</attalias>
+				<attrdef Sync="TRUE">2021 Statistical Areas Level 2 (SA2) codes from the Australian Statistical Geography Standard (ASGS), Edition 3. SA2s are medium-sized general purpose areas built to represent communities that interact together socially and economically. </attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SA2_NAME_2021</attrlabl>
+				<attalias Sync="TRUE">Statistical Areas Level 2 2021 name</attalias>
+				<attrdef Sync="TRUE">2021 Statistical Areas Level 2 (SA2) names from the Australian Statistical Geography Standard (ASGS), Edition 3. SA2s are medium-sized general purpose areas built to represent communities that interact together socially and economically. </attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA_ALBERS_SQKM</attrlabl>
+				<attalias Sync="TRUE">Area in square kilometres</attalias>
+				<attrdef Sync="TRUE">The area of a region in square kilometres, based on the Albers equal area conic projection.</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ASGS_LOCI_URI_2021</attrlabl>
+				<attalias Sync="TRUE">Uniform Resource Identifier</attalias>
+				<attrdef Sync="TRUE">A uniform resource identifier can be used in web linked applications for data integration. </attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_42020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Employee income earners (no.) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Employee income earners (no.) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_202020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Employee income earners: Median age (years) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Employee income earners: Median age (years) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_32020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total employee income ($m) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total employee income ($m) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_22020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Median employee income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Median employee income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_212020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Mean employee income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Mean employee income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_222020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Employee income as main source of income (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Employee income as main source of income (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_72020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Own unincorporated business income earners (no.) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Own unincorporated business income earners (no.) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_232020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Own unincorporated business income earners: Median age (years) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Own unincorporated business income earners: Median age (years) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_62020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total own unincorporated business income ($m) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total own unincorporated business income ($m) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_52020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Median own unincorporated business income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Median own unincorporated business income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_242020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Mean own unincorporated business income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Mean own unincorporated business income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_252020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Own unincorporated business income as main source of income (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Own unincorporated business income as main source of income (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_102020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Investment income earners (no.) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Investment income earners (no.) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_262020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Investment income earners: Median age (years) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Investment income earners: Median age (years) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_92020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total investment income ($m) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total investment income ($m) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_82020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Median investment income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Median investment income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_272020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Mean investment income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Mean investment income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_282020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Investment income as main source of income (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Investment income as main source of income (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_132020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Superannuation and annuity income earners (no.) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Superannuation and annuity income earners (no.) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_292020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Superannuation and annuity income earners: Median age (years) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Superannuation and annuity income earners: Median age (years) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_122020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total superannuation and annuity income ($m) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total superannuation and annuity income ($m) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_112020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Median superannuation and annuity income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Median superannuation and annuity income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_302020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Mean superannuation and annuity income ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Mean superannuation and annuity income ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_312020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Superannuation and annuity income as main source of income (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Superannuation and annuity income as main source of income (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_192020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income earners (excl. Government pensions and allowances)(no.) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income earners (excl. Government pensions and allowances)(no.) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_352020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income earners (excl. Government pensions and allowances): Median age (years) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income earners (excl. Government pensions and allowances): Median age (years) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_182020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances) ($m) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances) ($m) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_172020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Median total income (excl. Government pensions and allowances) ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Median total income (excl. Government pensions and allowances) ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_362020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Mean total income (excl. Government pensions and allowances) ($) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Mean total income (excl. Government pensions and allowances) ($) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_372020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): p80/P20 ratio (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): p80/P20 ratio (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_382020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): p80/P50 ratio (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): p80/P50 ratio (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_392020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): p20/P50 ratio (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): p20/P50 ratio (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_402020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): p10/P50 ratio (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): p10/P50 ratio (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_412020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Gini coefficient (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Gini coefficient (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_422020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Income share of top 1% of earners (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Income share of top 1% of earners (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_432020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Income share of top 5% of earners (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Income share of top 5% of earners (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_442020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Income share of top 10% of earners (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Income share of top 10% of earners (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_452020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Lowest Quartile (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Lowest Quartile (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_462020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Second Quartile (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Second Quartile (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_472020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Third Quartile (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Third Quartile (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">INCOME_482020</attrlabl>
+				<attalias Sync="TRUE">Personal income: Total income (excl. Government pensions and allowances): Highest Quartile (%) (Data year: 2020)</attalias>
+				<attrdef Sync="TRUE">Description for Personal income: Total income (excl. Government pensions and allowances): Highest Quartile (%) (Data year: 2020)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CAPGAINS_12022</attrlabl>
+				<attalias Sync="TRUE">Persons who reported gross capital gains (no.) (Data year: 2022)</attalias>
+				<attrdef Sync="TRUE">Description for Persons who reported gross capital gains (no.) (Data year: 2022)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CAPGAINS_22022</attrlabl>
+				<attalias Sync="TRUE">Total value of gross capital gains ($m) (Data year: 2022)</attalias>
+				<attrdef Sync="TRUE">Description for Total value of gross capital gains ($m) (Data year: 2022)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CAPGAINS_32022</attrlabl>
+				<attalias Sync="TRUE">Median value of gross capital gains ($) (Data year: 2022)</attalias>
+				<attrdef Sync="TRUE">Description for Median value of gross capital gains ($) (Data year: 2022)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CAPGAINS_42022</attrlabl>
+				<attalias Sync="TRUE">Mean value of gross capital gains ($) (Data year: 2022)</attalias>
+				<attrdef Sync="TRUE">Description for Mean value of gross capital gains ($) (Data year: 2022)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_22021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning $1-$499 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning $1-$499 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_32021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning $500-$999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning $500-$999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_42021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning $1000-$1999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning $1000-$1999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_52021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning $2000-$2999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning $2000-$2999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_62021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning $3000 or more per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning $3000 or more per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_72021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons earning nil income (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons earning nil income (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_82021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Persons with a negative income (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Persons with a negative income (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERSINC_92021</attrlabl>
+				<attalias Sync="TRUE">Total personal income: Income inadequately described/not stated (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Total personal income: Income inadequately described/not stated (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_22021</attrlabl>
+				<attalias Sync="TRUE">Median equivalised total household income (weekly) ($) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Median equivalised total household income (weekly) ($) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_32021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: $1-$499 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: $1-$499 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_42021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: $500-$999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: $500-$999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_52021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: $1000-$1999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: $1000-$1999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_62021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: $2000-$2999 per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: $2000-$2999 per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_72021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: $3000 or more per week (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: $3000 or more per week (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_82021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: Nil income (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: Nil income (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_92021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: Partial income stated (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: Partial income stated (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">EQUIV_102021</attrlabl>
+				<attalias Sync="TRUE">Equivalised total household income: All incomes not stated (%) (Data year: 2021)</attalias>
+				<attrdef Sync="TRUE">Description for Equivalised total household income: All incomes not stated (%) (Data year: 2021)</attrdef>
+				<attrdefs Sync="TRUE">Australian Bureau of Statistics</attrdefs>
+			</attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">2024-11-15</mdDateSt>
+</metadata>

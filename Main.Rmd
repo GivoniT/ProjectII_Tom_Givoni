@@ -62,3 +62,7 @@ write_xlsx(df2, "data/combined_df.xlsx")
 ```
 
 
+```{r}
+university_entry <- read_excel("data/University_Entry/School Location 2024.xlsx")
+```
+

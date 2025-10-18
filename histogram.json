@@ -1,7 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Distribution of Victorian school median VCE study scores.",
-  "width": 640,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "width": "container",
   "height": 220,
   "data": {
     "url": "data/combined_df.csv"

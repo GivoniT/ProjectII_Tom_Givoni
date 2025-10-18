@@ -1,7 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Relationship between Victorian schools' median VCE study score and percentage of study scores 40 or above.",
-  "width": 400,
+  "autosize": {
+    "type": "fit",
+    "contains": "padding"
+  },
+  "width": "container",
   "height": 360,
   "data": {
     "url": "data/combined_df.csv"
