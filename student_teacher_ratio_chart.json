@@ -10,14 +10,7 @@
   "params": [
     {
       "name": "ratioYear",
-      "value": 2024,
-      "bind": {
-        "input": "range",
-        "name": "Year: ",
-        "min": 2006,
-        "max": 2024,
-        "step": 1
-      }
+      "value": 2024
     },
     {
       "name": "schoolLevel",
@@ -83,7 +76,13 @@
     "y": {
       "field": "Ratio",
       "type": "quantitative",
-      "title": "Students per FTE teacher"
+      "title": "Students per FTE teacher",
+      "scale": {
+        "domain": [
+          0,
+          20
+        ]
+      }
     },
     "color": {
       "field": "Affiliation",

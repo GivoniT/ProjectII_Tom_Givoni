@@ -149,7 +149,8 @@
 
     #map,
     #histogram,
-    #school-counts {
+    #school-counts,
+    #student-teacher {
       width: 100%;
     }
 
@@ -179,6 +180,30 @@
       margin-top: 12px;
       margin-bottom: -8px;
       padding-right: 12px;
+    }
+
+    .year-sync-actions {
+      margin-top: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 12px;
+    }
+
+    .year-sync-actions label {
+      font-weight: 600;
+      color: var(--neutral-600);
+    }
+
+    .year-sync-actions input[type="range"] {
+      width: 200px;
+    }
+
+    .year-sync-actions output {
+      font-weight: 600;
+      color: var(--neutral-700);
+      min-width: 3ch;
+      text-align: right;
     }
 
     .insight-panel {
@@ -309,6 +334,33 @@
         class="viz"
         aria-label="Grouped and stacked bar chart showing Australian school counts by state, sector, and school type"
       ></div>
+      <div class="card-actions year-sync-actions">
+        <label for="yearSync">Year</label>
+        <input
+          id="yearSync"
+          type="range"
+          min="2010"
+          max="2024"
+          step="1"
+          value="2024"
+          aria-label="Select year for school comparison charts"
+        />
+        <output id="yearSyncValue">2024</output>
+      </div>
+    </section>
+
+    <section class="card span-12" aria-labelledby="ratio-heading">
+      <div>
+        <h3 id="ratio-heading">Student to Teacher Ratios</h3>
+        <p class="caption">
+          Compare staffing ratios across sectors for primary and secondary schools. Use the dropdown to switch levels.
+        </p>
+      </div>
+      <div
+        id="student-teacher"
+        class="viz"
+        aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
+      ></div>
     </section>
 
   </main>
@@ -325,6 +377,8 @@
 
     let mapView = null;
     let histogramView = null;
+    let schoolCountsView = null;
+    let studentTeacherView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -408,7 +462,44 @@
         ensureHistogramHeight();
         window.addEventListener("resize", ensureHistogramHeight);
 
-        return vegaEmbed("#school-counts", "school_counts_chart.json", embedOptions);
+        return Promise.all([
+          vegaEmbed("#school-counts", "school_counts_chart.json?v=2", embedOptions),
+          vegaEmbed("#student-teacher", "student_teacher_ratio_chart.json?v=1", embedOptions)
+        ]);
+      })
+      .then(([countsResult, ratioResult]) => {
+        schoolCountsView = countsResult.view;
+        studentTeacherView = ratioResult.view;
+
+        const yearSlider = document.getElementById("yearSync");
+        const yearOutput = document.getElementById("yearSyncValue");
+
+        const updateYear = (year) => {
+          if (!Number.isFinite(year)) return;
+          if (yearOutput) {
+            yearOutput.textContent = String(year);
+          }
+          if (schoolCountsView) {
+            schoolCountsView.signal("selectedYear", year);
+            schoolCountsView.runAsync();
+          }
+          if (studentTeacherView) {
+            studentTeacherView.signal("ratioYear", year);
+            studentTeacherView.runAsync();
+          }
+        };
+
+        const initialYear =
+          (schoolCountsView && schoolCountsView.signal("selectedYear")) || 2024;
+
+        updateYear(initialYear);
+
+        if (yearSlider) {
+          yearSlider.value = initialYear;
+          yearSlider.addEventListener("input", (event) => {
+            updateYear(Number(event.target.value));
+          });
+        }
       })
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);

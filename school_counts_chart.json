@@ -10,14 +10,7 @@
   "params": [
     {
       "name": "selectedYear",
-      "value": 2024,
-      "bind": {
-        "input": "range",
-        "name": "Year: ",
-        "min": 2010,
-        "max": 2024,
-        "step": 1
-      }
+      "value": 2024
     }
   ],
   "transform": [

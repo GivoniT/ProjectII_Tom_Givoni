@@ -65,6 +65,30 @@
         min-height: 440px;
       }
 
+      .controls {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .controls label {
+        font-weight: 600;
+        color: #4a5568;
+      }
+
+      .controls input[type="range"] {
+        width: 220px;
+      }
+
+      .controls output {
+        font-weight: 600;
+        color: #1a1a1a;
+        min-width: 3ch;
+        text-align: right;
+      }
+
       .back-link {
         text-decoration: none;
         color: #2563eb;
@@ -89,6 +113,11 @@
         class="viz"
         aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
       ></div>
+      <div class="controls">
+        <label for="ratioYearSlider">Year</label>
+        <input id="ratioYearSlider" type="range" min="2006" max="2024" step="1" value="2024" />
+        <output id="ratioYearValue">2024</output>
+      </div>
     </main>
 
     <script>
@@ -100,9 +129,34 @@
           compiled: false,
           editor: true
         }
-      }).catch((error) => {
-        console.error("Unable to load student-teacher ratio chart:", error);
-      });
+      })
+        .then((result) => {
+          const view = result.view;
+          const slider = document.getElementById("ratioYearSlider");
+          const output = document.getElementById("ratioYearValue");
+
+          const applyYear = (year) => {
+            if (!Number.isFinite(year)) return;
+            if (output) {
+              output.textContent = String(year);
+            }
+            view.signal("ratioYear", year);
+            view.runAsync();
+          };
+
+          const initialYear = view.signal("ratioYear") || 2024;
+          applyYear(initialYear);
+
+          if (slider) {
+            slider.value = initialYear;
+            slider.addEventListener("input", (event) => {
+              applyYear(Number(event.target.value));
+            });
+          }
+        })
+        .catch((error) => {
+          console.error("Unable to load student-teacher ratio chart:", error);
+        });
     </script>
   </body>
 </html>
