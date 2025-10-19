@@ -100,19 +100,12 @@
       margin-top: 16px;
     }
 
-    .controls {
-      grid-column: span 4;
-      justify-self: end;
-      display: flex;
-      gap: 12px;
-    }
-
     button {
       font-family: inherit;
       font-size: 14px;
       font-weight: 600;
       color: var(--neutral-100);
-      background-color: var(--primary);
+      background-color: #f26f4d;
       border: none;
       border-radius: 6px;
       padding: 10px 16px;
@@ -122,7 +115,7 @@
 
     button:hover,
     button:focus-visible {
-      background-color: #003b73;
+      background-color: #d85734;
       outline: none;
       transform: translateY(-1px);
     }
@@ -156,7 +149,7 @@
 
     #map,
     #histogram,
-    #scatter {
+    #school-counts {
       width: 100%;
     }
 
@@ -174,6 +167,18 @@
 
     .span-12 {
       grid-column: span 12;
+    }
+
+    .card-actions {
+      margin-top: 16px;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .histogram-actions {
+      margin-top: 12px;
+      margin-bottom: -8px;
+      padding-right: 12px;
     }
 
     .insight-panel {
@@ -211,8 +216,7 @@
       }
 
       .brand,
-      .lede,
-      .controls {
+      .lede {
         grid-column: span 6;
         justify-self: start;
       }
@@ -258,16 +262,13 @@
     <p class="lede">
       This dashboard visualises Victorian school performance metrics so you can progress from statewide overview to detailed comparison. Use the interactive filters to spotlight schools, benchmark sectors, and surface areas of excellence.
     </p>
-    <div class="controls">
-      <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
-    </div>
   </header>
 
   <main class="dashboard" role="main">
     <section class="card span-8" aria-labelledby="map-heading">
       <div>
         <h3 id="map-heading">Map of Schools by Region</h3>
-        <p class="caption">Hover for school details; filters sync with the histogram and scatter plot.</p>
+        <p class="caption">Hover for school details; filters stay in sync with the histogram.</p>
       </div>
       <div id="map" class="viz" aria-label="Interactive map of Victorian schools by region"></div>
     </section>
@@ -275,13 +276,13 @@
     <aside class="card span-4 insight-panel" aria-labelledby="insight-heading">
       <h3 id="insight-heading">Insight Panel</h3>
       <p>
-        Start with the statewide map to spot spatial clusters of socio-educational advantage. Use the histogram to narrow the score range, then drill into the scatter plot to understand how high-achieving cohorts relate to overall median performance.
+        Start with the statewide map to spot spatial clusters of socio-educational advantage. Use the histogram to narrow the score range and focus the map on specific performance bands.
       </p>
       <h4>Key Observations</h4>
       <ul>
         <li>Schools around metropolitan Melbourne trend towards higher ICSEA and VCE outcomes.</li>
         <li>Exception cases emerge where median scores remain average despite advantaged contexts.</li>
-        <li>The sector overview shows government schools dominate numerically, yet combined independent schools stand out proportionally.</li>
+        <li>Regional clusters of similar performance are easier to spot once the histogram filter narrows the score range.</li>
       </ul>
     </aside>
 
@@ -291,23 +292,25 @@
         <p class="caption">Drag across the histogram to filter the map and focus on particular performance bands.</p>
       </div>
       <div id="histogram" class="viz" aria-label="Histogram of Victorian school median VCE study scores"></div>
+      <div class="card-actions histogram-actions">
+        <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
+      </div>
     </section>
 
-    <section class="card span-6" aria-labelledby="scatter-heading">
+    <section class="card span-12" aria-labelledby="counts-heading">
       <div>
-        <h3 id="scatter-heading">High Achievement vs Median Score</h3>
-        <p class="caption">Click to highlight schools and see them accented on the map. Double-click to clear.</p>
+        <h3 id="counts-heading">School Counts by State, Sector, and Type</h3>
+        <p class="caption">
+          Use the slider to examine how primary, secondary, combined, and special schools are distributed across sectors for each state.
+        </p>
       </div>
-      <div id="scatter" class="viz" aria-label="Scatter plot of median VCE study score against percentage of scores 40 or above"></div>
+      <div
+        id="school-counts"
+        class="viz"
+        aria-label="Grouped and stacked bar chart showing Australian school counts by state, sector, and school type"
+      ></div>
     </section>
 
-    <section class="card span-12" aria-labelledby="sector-heading">
-      <div>
-        <h3 id="sector-heading">School Sector Overview</h3>
-        <p class="caption">Click a row or column to focus on a school type or sector. Double-click to reset.</p>
-      </div>
-      <div id="school-numbers" class="viz" aria-label="Table and stacked bar chart showing school counts by sector and type"></div>
-    </section>
   </main>
 
   <footer>
@@ -322,8 +325,6 @@
 
     let mapView = null;
     let histogramView = null;
-    let scatterView = null;
-    let schoolNumbersView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -335,7 +336,7 @@
     vegaEmbed("#map", "map.json", embedOptions)
       .then((result) => {
         mapView = result.view;
-        return vegaEmbed("#histogram", "histogram.json?v=4", embedOptions);
+        return vegaEmbed("#histogram", "histogram.json?v=5", embedOptions);
       })
       .then((result) => {
         histogramView = result.view;
@@ -406,47 +407,8 @@
         histogramView.addSignalListener("scoreBrush", handleBrush);
         ensureHistogramHeight();
         window.addEventListener("resize", ensureHistogramHeight);
-        return vegaEmbed("#scatter", "scatter.json", embedOptions);
-      })
-      .then((result) => {
-        scatterView = result.view;
 
-        const syncScatterSelection = (_name, value) => {
-          if (!mapView) return;
-          const store = Array.isArray(value)
-            ? value
-            : scatterView.data("scatterSelect_store") || [];
-          const selectedNames = store
-            .map((entry) =>
-              entry && entry.values ? entry.values["School Name"] : null
-            )
-            .filter(Boolean);
-          mapView.signal("selectedSchools", selectedNames);
-          mapView.runAsync();
-        };
-
-        const handleScatterSignal = () => {
-          let store = [];
-          try {
-            store = scatterView.data("scatterSelect_store") || [];
-          } catch (error) {
-            store = [];
-          }
-          syncScatterSelection("scatterSelect_store", store);
-        };
-
-        try {
-          scatterView.addSignalListener("scatterSelect", handleScatterSignal);
-        } catch (error) {
-          console.warn("Unable to attach scatterSelect signal listener:", error);
-        }
-
-        // Run once after render to sync any default selection state.
-        setTimeout(handleScatterSignal, 0);
-        return vegaEmbed("#school-numbers", "school_numbers.json", embedOptions);
-      })
-      .then((result) => {
-        schoolNumbersView = result.view;
+        return vegaEmbed("#school-counts", "school_counts_chart.json", embedOptions);
       })
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);
@@ -454,21 +416,36 @@
 
     document.getElementById("resetScores").addEventListener("click", () => {
       if (histogramView) {
-        histogramView.signal("scoreBrush", null);
+        const clearSignal = (name) => {
+          try {
+            if (typeof histogramView.signal(name) !== "undefined") {
+              histogramView.signal(name, null);
+            }
+          } catch (_error) {
+            /* Ignore missing signal */
+          }
+        };
+
+        clearSignal("scoreBrush");
+        clearSignal("scoreBrush_vce_score");
+        clearSignal("scoreBrush_vce_score_tuple");
+        clearSignal("scoreBrush_vce_score_tuple_fields");
+        clearSignal("scoreBrush_vce_bin_start");
+        clearSignal("scoreBrush_vce_bin_start_tuple");
+        clearSignal("scoreBrush_vce_bin_start_tuple_fields");
+
+        try {
+          histogramView.remove("scoreBrush_store", () => true);
+        } catch (_error) {
+          /* Selection store already cleared */
+        }
+
         histogramView.runAsync();
       }
       resetScoreRange();
       if (mapView) {
         mapView.signal("selectedSchools", []);
         mapView.runAsync();
-      }
-      if (scatterView) {
-        try {
-          scatterView.remove("scatterSelect_store", () => true);
-        } catch (error) {
-          console.warn("Unable to clear scatter selection store:", error);
-        }
-        scatterView.runAsync();
       }
     });
   </script>

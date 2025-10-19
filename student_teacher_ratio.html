@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Student–Teacher Ratio Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+    <style>
+      :root {
+        font-family: "Inter", Arial, sans-serif;
+        background-color: #f5f7fa;
+        color: #1a1a1a;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 32px 16px 64px;
+        gap: 24px;
+        box-sizing: border-box;
+      }
+
+      header {
+        max-width: 960px;
+        width: 100%;
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 32px;
+        font-weight: 700;
+      }
+
+      p {
+        margin: 12px auto 0;
+        max-width: 720px;
+        color: #4a5568;
+        line-height: 1.6;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 16px 32px rgba(0, 32, 77, 0.08);
+        padding: 24px;
+        max-width: 960px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .viz {
+        width: 100%;
+        min-height: 440px;
+      }
+
+      .back-link {
+        text-decoration: none;
+        color: #2563eb;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="back-link" href="index.html">← Back to dashboard</a>
+      <h1>Student–Teacher Ratio Explorer</h1>
+      <p>
+        Compare student-to-teacher ratios across Australian states and sectors.
+        Use the year slider and school-level selector embedded in the chart to
+        see how staffing levels differ for primary and secondary schools.
+      </p>
+    </header>
+
+    <main class="card">
+      <div
+        id="student-teacher-chart"
+        class="viz"
+        aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
+      ></div>
+    </main>
+
+    <script>
+      vegaEmbed("#student-teacher-chart", "student_teacher_ratio_chart.json", {
+        renderer: "canvas",
+        actions: {
+          exporter: true,
+          source: false,
+          compiled: false,
+          editor: true
+        }
+      }).catch((error) => {
+        console.error("Unable to load student-teacher ratio chart:", error);
+      });
+    </script>
+  </body>
+</html>

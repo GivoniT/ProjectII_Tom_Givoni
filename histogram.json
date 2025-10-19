@@ -115,12 +115,7 @@
           37
         ]
       },
-      "legend": {
-        "orient": "bottom",
-        "direction": "horizontal",
-        "title": "Median VCE Score",
-        "offset": 24
-      }
+      "legend": null
     }
   }
 }

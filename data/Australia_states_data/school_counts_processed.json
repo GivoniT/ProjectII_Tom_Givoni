@@ -1,0 +1,9830 @@
+[
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1604
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 373
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 114
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 419
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 127
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 36
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 15
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 68
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 13
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 241
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 57
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1142
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 255
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 87
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 84
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 391
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 84
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 34
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 154
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 30
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 918
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 193
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 49
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 197
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 41
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 31
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 148
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 32
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 348
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 68
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 59
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 29
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 63
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 549
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 113
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 86
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 109
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 28
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 100
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 12
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 124
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 61
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 16
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 68
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 19
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 58
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 20
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 9
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 12
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1604
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 371
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 114
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 419
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 127
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 36
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 66
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 13
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 242
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 54
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1140
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 252
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 86
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 82
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 396
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 84
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 35
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 151
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 27
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 916
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 193
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 49
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 197
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 63
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 39
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 150
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 30
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 348
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 68
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 59
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 27
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 63
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 548
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 113
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 84
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 110
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 28
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 97
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 12
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 124
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 63
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 68
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 17
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 58
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 9
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1602
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 114
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 420
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 129
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 34
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 64
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 244
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 53
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1137
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 250
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 85
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 82
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 395
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 84
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 39
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 150
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 27
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 915
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 192
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 49
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 197
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 65
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 38
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 29
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 149
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 32
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 349
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 67
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 60
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 27
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 64
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 546
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 112
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 84
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 109
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 30
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 95
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 125
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 6
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 61
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 71
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 17
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 59
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1606
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 67
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 114
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 421
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 129
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 34
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 70
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 227
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 50
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1137
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 247
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 82
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 81
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 394
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 84
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 40
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 147
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 25
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 914
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 194
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 45
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 63
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 37
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 29
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 148
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 31
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 351
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 21
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 30
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 61
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 546
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 112
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 80
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 109
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 23
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 31
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 95
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 125
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 6
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 64
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 68
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 15
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 58
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1608
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 67
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 113
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 424
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 130
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 32
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 70
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 222
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 48
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1130
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 244
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 83
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 80
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 394
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 86
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 40
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 146
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 21
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 913
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 190
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 93
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 45
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 37
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 26
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 16
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 149
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 30
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 352
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 20
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 29
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 61
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 540
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 112
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 82
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 111
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 23
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 34
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 7
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 93
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 10
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 125
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 6
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 65
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 67
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 15
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 57
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1606
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 367
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 67
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 112
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 424
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 132
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 31
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 75
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 218
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 48
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1124
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 246
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 84
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 81
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 393
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 39
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 145
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 21
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 916
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 184
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 93
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 44
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 36
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 26
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 146
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 24
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 353
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 74
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 27
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 31
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 60
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 538
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 109
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 81
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 112
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 30
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 94
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 10
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 126
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 6
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 66
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 1
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 16
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 57
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1605
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 424
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 131
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 32
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 78
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 13
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 213
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 50
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1120
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 245
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 82
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 81
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 391
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 36
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 147
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 22
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 915
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 185
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 44
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 34
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 26
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 13
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 143
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 22
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 354
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 65
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 75
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 62
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 535
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 108
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 83
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 112
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 31
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 10
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 126
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 64
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 8
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 13
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 56
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 0
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1607
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 424
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 127
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 31
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 71
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 212
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1124
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 239
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 82
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 80
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 388
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 41
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 143
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 22
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 912
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 184
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 195
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 34
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 27
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 142
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 19
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 354
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 65
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 76
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 58
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 523
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 107
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 89
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 114
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 23
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 24
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 126
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 16
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 13
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 56
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1609
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 109
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 422
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 127
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 30
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 72
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 209
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 43
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1122
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 239
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 81
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 80
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 388
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 86
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 13
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 41
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 142
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 915
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 184
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 89
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 45
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 194
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 33
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 25
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 142
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 359
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 75
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 57
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 518
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 106
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 65
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 115
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 23
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 126
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 37
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 6
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 75
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 57
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 13
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 56
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 22
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1607
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 369
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 421
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 129
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 31
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 73
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 208
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 41
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1127
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 237
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 82
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 80
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 387
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 86
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 37
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 141
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 14
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 916
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 185
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 88
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 45
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 192
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 33
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 25
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 143
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 363
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 75
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 33
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 54
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 509
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 106
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 99
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 64
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 115
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 24
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 37
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 7
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 88
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 126
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 71
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 62
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 13
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 55
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 22
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1619
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 370
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 65
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 111
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 417
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 130
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 31
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 74
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 206
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 37
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1127
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 238
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 80
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 79
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 383
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 39
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 140
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 915
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 182
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 89
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 29
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 29
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 135
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 365
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 65
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 77
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 32
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 7
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 53
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 523
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 98
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 64
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 113
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 43
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 37
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 127
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 5
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 68
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 12
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 55
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 19
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 22
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 3
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 0
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1618
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 370
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 417
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 129
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 31
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 72
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 16
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 207
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 36
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1130
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 239
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 79
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 78
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 381
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 41
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 140
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 920
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 182
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 197
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 28
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 11
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 33
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 130
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 368
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 66
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 75
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 67
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 33
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 50
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 517
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 97
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 64
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 111
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 43
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 38
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 89
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 131
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 38
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 63
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 71
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 12
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 55
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 18
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 9
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 22
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 10
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1623
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 370
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 417
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 129
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 32
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 73
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 16
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 205
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 34
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1136
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 244
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 79
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 76
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 381
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 15
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 44
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 13
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 141
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 921
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 180
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 92
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 197
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 62
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 27
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 35
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 127
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 393
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 68
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 76
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 68
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 35
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 48
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 513
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 96
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 66
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 111
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 42
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 38
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 128
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 38
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 60
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 73
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 12
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 53
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 18
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 9
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 23
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1631
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 370
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 420
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 131
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 29
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 73
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 22
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 206
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 32
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1140
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 244
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 76
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 76
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 381
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 85
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 42
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 141
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 921
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 179
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 91
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 198
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 33
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 126
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 9
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 395
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 68
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 76
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 18
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 68
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 11
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 36
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 8
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 47
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 513
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 99
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 91
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 67
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 110
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 42
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 40
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 88
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 128
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 31
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 66
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 69
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 53
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 18
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 9
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 23
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 2
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1630
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 370
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 66
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 110
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 421
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 130
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 29
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 78
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 21
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 202
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 28
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 1153
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 248
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 71
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 76
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 381
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 86
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 14
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 8
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 46
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 15
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 140
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 13
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 920
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 179
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 90
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 46
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 196
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 61
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 26
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 34
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 12
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 124
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 414
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 71
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 75
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 19
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 68
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 9
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 22
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 2
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 38
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 10
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 46
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 1
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 509
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 99
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 93
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 67
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 110
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 4
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 42
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "SchoolType": "Special",
+    "Count": 3
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 40
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 85
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "SchoolType": "Special",
+    "Count": 6
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 136
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 36
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 25
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 24
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 8
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 1
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 23
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 62
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 14
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 71
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 3
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 4
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 6
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 11
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Primary",
+    "Count": 55
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Secondary",
+    "Count": 17
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Combined",
+    "Count": 7
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "SchoolType": "Special",
+    "Count": 4
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Primary",
+    "Count": 23
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Secondary",
+    "Count": 5
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "SchoolType": "Combined",
+    "Count": 2
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Primary",
+    "Count": 3
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Secondary",
+    "Count": 1
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "SchoolType": "Combined",
+    "Count": 10
+  }
+]

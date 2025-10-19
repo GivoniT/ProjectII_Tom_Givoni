@@ -1,0 +1,123 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Grouped bar chart showing student-to-teacher ratios by affiliation for each Australian state.",
+  "width": "container",
+  "height": 420,
+  "background": "#f5f7fa",
+  "data": {
+    "url": "data/Australia_states_data/student_teacher_ratio_processed.json"
+  },
+  "params": [
+    {
+      "name": "ratioYear",
+      "value": 2024,
+      "bind": {
+        "input": "range",
+        "name": "Year: ",
+        "min": 2006,
+        "max": 2024,
+        "step": 1
+      }
+    },
+    {
+      "name": "schoolLevel",
+      "value": "Primary",
+      "bind": {
+        "input": "select",
+        "name": "School level: ",
+        "options": [
+          "Primary",
+          "Secondary"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.State != 'Australia'"
+    },
+    {
+      "filter": "datum.Year == ratioYear"
+    },
+    {
+      "filter": "datum.Level == schoolLevel"
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "cornerRadiusTopLeft": 2,
+    "cornerRadiusTopRight": 2
+  },
+  "encoding": {
+    "x": {
+      "field": "State",
+      "type": "nominal",
+      "title": "State or Territory",
+      "axis": {
+        "labelAngle": 0,
+        "labelOverlap": false
+      },
+      "sort": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "South Australia",
+        "Western Australia",
+        "Tasmania",
+        "Northern Territory",
+        "Australian Capital Territory"
+      ]
+    },
+    "xOffset": {
+      "field": "Affiliation",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Government",
+          "Catholic",
+          "Independent",
+          "Non-Government"
+        ]
+      }
+    },
+    "y": {
+      "field": "Ratio",
+      "type": "quantitative",
+      "title": "Students per FTE teacher"
+    },
+    "color": {
+      "field": "Affiliation",
+      "type": "nominal",
+      "title": "Affiliation",
+      "scale": {
+        "scheme": "tableau10"
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "title": ""
+      }
+    },
+    "tooltip": [
+      {
+        "field": "State",
+        "type": "nominal"
+      },
+      {
+        "field": "Affiliation",
+        "type": "nominal"
+      },
+      {
+        "field": "Level",
+        "type": "nominal",
+        "title": "School level"
+      },
+      {
+        "field": "Ratio",
+        "type": "quantitative",
+        "title": "Student/teacher ratio",
+        "format": ".1f"
+      }
+    ]
+  }
+}

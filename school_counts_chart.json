@@ -1,0 +1,133 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Grouped and stacked bar chart of Australian school counts by state, sector, and school type.",
+  "width": "container",
+  "height": 420,
+  "background": "#f5f7fa",
+  "data": {
+    "url": "data/Australia_states_data/school_counts_processed.json"
+  },
+  "params": [
+    {
+      "name": "selectedYear",
+      "value": 2024,
+      "bind": {
+        "input": "range",
+        "name": "Year: ",
+        "min": 2010,
+        "max": 2024,
+        "step": 1
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.State != 'Australia'"
+    },
+    {
+      "filter": "datum.Year == selectedYear"
+    },
+    {
+      "calculate": "datum.Sector",
+      "as": "SectorLabel"
+    },
+    {
+      "calculate": "datum.SchoolType",
+      "as": "SchoolTypeLabel"
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "cornerRadiusTopLeft": 2,
+    "cornerRadiusTopRight": 2
+  },
+  "encoding": {
+    "x": {
+      "field": "State",
+      "type": "nominal",
+      "title": "State or Territory",
+      "axis": {
+        "labelAngle": 0,
+        "labelOverlap": false
+      },
+      "sort": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "South Australia",
+        "Western Australia",
+        "Tasmania",
+        "Northern Territory",
+        "Australian Capital Territory"
+      ]
+    },
+    "xOffset": {
+      "field": "SectorLabel",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Government",
+          "Catholic",
+          "Independent"
+        ]
+      }
+    },
+    "y": {
+      "field": "Count",
+      "type": "quantitative",
+      "title": "School count",
+      "stack": "zero"
+    },
+    "color": {
+      "field": "SchoolTypeLabel",
+      "type": "nominal",
+      "title": "School type",
+      "scale": {
+        "domain": [
+          "Primary",
+          "Secondary",
+          "Combined",
+          "Special"
+        ],
+        "range": [
+          "#1f77b4",
+          "#ff7f0e",
+          "#2ca02c",
+          "#d62728"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "title": "",
+        "offset": 0
+      }
+    },
+    "order": {
+      "field": "SchoolTypeLabel",
+      "sort": "ascending"
+    },
+    "tooltip": [
+      {
+        "field": "State",
+        "type": "nominal"
+      },
+      {
+        "field": "SectorLabel",
+        "type": "nominal",
+        "title": "Sector"
+      },
+      {
+        "field": "SchoolTypeLabel",
+        "type": "nominal",
+        "title": "School type"
+      },
+      {
+        "field": "Count",
+        "type": "quantitative",
+        "title": "Schools",
+        "format": ","
+      }
+    ]
+  }
+}

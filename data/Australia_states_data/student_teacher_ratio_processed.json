@@ -1,0 +1,9578 @@
+[
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.8
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2024,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2023,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2022,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2022,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2022,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2022,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2022,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2022,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2022,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2022,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2022,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2021,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2021,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2021,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2021,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2021,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2021,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.5
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2021,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2021,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2021,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2020,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2020,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2020,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2020,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2020,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2020,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.5
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2020,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2020,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2020,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2019,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2019,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2019,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2019,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2019,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2019,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2019,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2019,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2019,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2018,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2018,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2018,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2018,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2018,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2018,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2018,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2018,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2018,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2017,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2017,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2017,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2017,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2017,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2017,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.4
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2017,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2017,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2017,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2016,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2016,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.5
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2016,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2016,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2016,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2016,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2016,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.7
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2016,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2016,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.9
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2015,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2015,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2015,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2015,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.3
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2015,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2015,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.5
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2015,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.8
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2015,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2015,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2014,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2014,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.9
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2014,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2014,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2014,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.8
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2014,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2014,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2014,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2014,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.9
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2013,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2013,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.9
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2013,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2013,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.7
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2013,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2013,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2013,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2013,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2013,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2012,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2012,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.6
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.0
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2012,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2012,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.9
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2012,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.1
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2012,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 9.2
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2012,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.5
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2012,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.8
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2012,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.2
+  },
+  {
+    "Year": 2011,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2011,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.7
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.5
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2011,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2011,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.8
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2011,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2011,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2011,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.3
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2011,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.5
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2011,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2010,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2010,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.5
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.1
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2010,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2010,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2010,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.3
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2010,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.0
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2010,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.3
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.5
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2010,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.9
+  },
+  {
+    "Year": 2010,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.5
+  },
+  {
+    "Year": 2009,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2009,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.7
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2009,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2009,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.7
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2009,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.0
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.6
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2009,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.4
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.1
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.1
+  },
+  {
+    "Year": 2009,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.6
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.1
+  },
+  {
+    "Year": 2009,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2009,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2008,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.0
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2008,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 9.9
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.0
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2008,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2008,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2008,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 19.0
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2008,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2008,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.3
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.6
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2008,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2008,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.8
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2007,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.1
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.2
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.3
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.6
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2007,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.0
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2007,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.6
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.7
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.3
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2007,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.3
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.1
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.3
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2007,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.1
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.6
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.1
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 19.0
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.4
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2007,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 10.9
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.6
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.5
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2007,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.6
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.3
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.7
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.9
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.3
+  },
+  {
+    "Year": 2007,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.3
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.5
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.8
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.7
+  },
+  {
+    "Year": 2007,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.9
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.7
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.4
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2006,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.5
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.2
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 13.1
+  },
+  {
+    "Year": 2006,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.2
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.5
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 15.9
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 16.7
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.0
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.8
+  },
+  {
+    "Year": 2006,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.7
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.6
+  },
+  {
+    "Year": 2006,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 16.2
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.5
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.0
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.2
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 15.4
+  },
+  {
+    "Year": 2006,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 13.2
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.0
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.2
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 19.0
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.0
+  },
+  {
+    "Year": 2006,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.3
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 10.5
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.4
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 11.2
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 17.6
+  },
+  {
+    "Year": 2006,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.0
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 13.8
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 11.9
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 17.5
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 12.8
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 18.9
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 13.7
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.6
+  },
+  {
+    "Year": 2006,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 11.4
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Primary",
+    "Ratio": 15.8
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Government",
+    "Level": "Secondary",
+    "Ratio": 12.4
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Primary",
+    "Ratio": 16.4
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Non-Government",
+    "Level": "Secondary",
+    "Ratio": 11.8
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Primary",
+    "Ratio": 17.7
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Catholic",
+    "Level": "Secondary",
+    "Ratio": 12.9
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Primary",
+    "Ratio": 14.4
+  },
+  {
+    "Year": 2006,
+    "State": "Australia",
+    "Affiliation": "Independent",
+    "Level": "Secondary",
+    "Ratio": 10.7
+  }
+]
