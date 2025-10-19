@@ -6,7 +6,13 @@
     "contains": "padding"
   },
   "width": "container",
-  "height": 220,
+  "height": 400,
+  "padding": {
+    "top": 8,
+    "right": 16,
+    "bottom": 10,
+    "left": 16
+  },
   "data": {
     "url": "data/combined_df.csv"
   },
@@ -20,6 +26,21 @@
     },
     {
       "filter": "datum.State === 'VIC'"
+    },
+    {
+      "bin": {
+        "step": 1,
+        "anchor": 0.5
+      },
+      "field": "vce_score",
+      "as": [
+        "vce_bin_start",
+        "vce_bin_end"
+      ]
+    },
+    {
+      "calculate": "(datum.vce_bin_start + datum.vce_bin_end) / 2",
+      "as": "vce_bin_mid"
     }
   ],
   "params": [
@@ -31,9 +52,9 @@
           "x"
         ],
         "mark": {
-          "fill": "#ffb81c",
+          "fill": "#f26f4d",
           "fillOpacity": 0.25,
-          "stroke": "#ffb81c",
+          "stroke": "#f26f4d",
           "strokeWidth": 1
         }
       }
@@ -41,22 +62,65 @@
   ],
   "mark": {
     "type": "bar",
-    "color": "#004c97",
-    "opacity": 0.85
+    "stroke": "#ffffff",
+    "strokeWidth": 0.5,
+    "opacity": 0.9
   },
   "encoding": {
     "x": {
-      "field": "vce_score",
+      "field": "vce_bin_start",
       "type": "quantitative",
-      "bin": {
-        "step": 1
-      },
-      "title": "Median VCE score"
+      "title": "Median VCE score",
+      "bin": "binned",
+      "axis": {
+        "tickBand": "center",
+        "values": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    },
+    "x2": {
+      "field": "vce_bin_end"
     },
     "y": {
       "aggregate": "count",
       "type": "quantitative",
       "title": "Number of schools"
+    },
+    "color": {
+      "field": "vce_bin_mid",
+      "type": "quantitative",
+      "scale": {
+        "scheme": "orangered",
+        "domain": [
+          19,
+          37
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "title": "Median VCE Score",
+        "offset": 24
+      }
     }
   }
 }

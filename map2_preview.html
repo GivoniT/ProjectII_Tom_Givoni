@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Map 2 Preview</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #f5f7fa;
+      color: #1a1a1a;
+      display: grid;
+      place-items: center;
+      min-height: 100vh;
+    }
+    #map2 {
+      width: min(960px, 92vw);
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map2"></div>
+  <script type="module">
+    const spec = {
+      $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+      description: "Preview of regions from map2.json.",
+      width: "container",
+      height: 600,
+      background: "#f5f7fa",
+      projection: {
+        type: "mercator",
+        center: [145, -37.5],
+        scale: 11000
+      },
+      data: {
+        url: "data/Improved_map/map2.json",
+        format: {
+          type: "json",
+          property: "features"
+        }
+      },
+      transform: [
+        {
+          calculate: "datum.properties && datum.properties['SA2_NAME16'] ? datum.properties['SA2_NAME16'] : datum.properties && datum.properties['SA2_NAME'] ? datum.properties['SA2_NAME'] : 'Unknown Region'",
+          as: "region_name"
+        },
+        {
+          calculate: "datum.properties && datum.properties['median_income'] ? toNumber(datum.properties['median_income']) : null",
+          as: "median_income_value"
+        },
+        {
+          calculate: "isValid(datum.median_income_value) ? format(datum.median_income_value, '.0f') : 'N/A'",
+          as: "median_income_label"
+        }
+      ],
+      mark: {
+        type: "geoshape",
+        fill: "#d62828",
+        fillOpacity: 0.25,
+        stroke: "#d62828",
+        strokeWidth: 1
+      },
+      encoding: {
+        tooltip: [
+          {
+            field: "region_name",
+            type: "nominal",
+            title: "Region"
+          },
+          {
+            field: "median_income_label",
+            type: "nominal",
+            title: "Median Income"
+          }
+        ]
+      }
+    };
+
+    vegaEmbed("#map2", spec, { actions: true }).catch((error) => {
+      console.error("Failed to render map2 preview:", error);
+    });
+  </script>
+</body>
+</html>
