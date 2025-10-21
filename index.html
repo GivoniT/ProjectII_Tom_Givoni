@@ -7,11 +7,17 @@
   <link rel="preconnect" href="https://cdn.jsdelivr.net" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Playfair+Display:wght@400;600;700&family=Work+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
   <style>
     :root {
       color-scheme: light;
-      font-family: "Inter", Arial, sans-serif;
+      font-family: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+      --font-heading: "Playfair Display", "Times New Roman", serif;
+      --font-body: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+      --font-accent: "Montserrat", "Work Sans", sans-serif;
       --title-1: #780000;
       --title-2: #c1121f;
       --background: #fdf0d5;
@@ -27,6 +33,9 @@
       justify-items: center;
       background-color: var(--background);
       color: var(--text-1);
+      font-family: var(--font-body);
+      font-weight: 400;
+      letter-spacing: 0.01em;
     }
 
     h1,
@@ -42,6 +51,8 @@
       font-weight: 700;
       color: var(--title-1);
       text-align: center;
+      font-family: var(--font-heading);
+      letter-spacing: 0.02em;
     }
 
     h2 {
@@ -49,6 +60,8 @@
       font-weight: 600;
       color: var(--title-2);
       text-align: center;
+      font-family: var(--font-heading);
+      letter-spacing: 0.015em;
     }
 
     h3 {
@@ -56,6 +69,9 @@
       font-weight: 600;
       color: var(--title-2);
       margin-bottom: 16px;
+      font-family: var(--font-accent);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
     }
 
     h4 {
@@ -63,6 +79,9 @@
       font-weight: 600;
       color: var(--title-2);
       margin-bottom: 12px;
+      font-family: var(--font-accent);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
     }
 
     p {
@@ -70,6 +89,8 @@
       font-weight: 400;
       color: var(--text-1);
       line-height: 1.6;
+      font-family: var(--font-body);
+      letter-spacing: 0.01em;
     }
 
     .caption {
@@ -100,7 +121,7 @@
     }
 
     button {
-      font-family: inherit;
+      font-family: var(--font-accent);
       font-size: 14px;
       font-weight: 600;
       color: #ffffff;
@@ -145,6 +166,36 @@
 
     a {
       color: var(--text-1);
+    }
+
+    .narrative {
+      grid-column: span 12;
+      max-width: 960px;
+      justify-self: center;
+      text-align: left;
+    }
+
+    .narrative p {
+      font-size: 16px;
+      line-height: 1.75;
+      color: var(--text-1);
+      margin: 0 0 18px;
+      font-family: var(--font-body);
+      letter-spacing: 0.01em;
+    }
+
+    .narrative p:last-child {
+      margin-bottom: 0;
+    }
+
+    .section-title {
+      font-size: 28px;
+      font-weight: 600;
+      color: var(--title-2);
+      text-align: left;
+      margin-bottom: 12px;
+      font-family: var(--font-heading);
+      letter-spacing: 0.025em;
     }
 
     .card h3 + p {
@@ -323,43 +374,20 @@
       <h2>By Tom Givoni</h2>
     </div>
     <p class="lede">
-      Examine national schooling trends through interactive views that move from state-level comparisons
-      to school-specific insights. Use the controls to focus on areas of interest and surface patterns
-      worth telling in your story.
+      Australia is a vibrant democracy full of potential and wealth. Australia's place in the world and in
+      the future is guaranteed by the literacy and intellect of our citizens, and for this we have a world
+      class education system. In this dashboard you will be able to further learn about Australia's schooling
+      system.
     </p>
   </header>
 
   <main class="dashboard" role="main">
-    <section class="card span-8" aria-labelledby="map-heading">
-      <div>
-        <h3 id="map-heading">Map of Schools by Region</h3>
-        <p class="caption">Hover for school details; filters stay in sync with the histogram.</p>
-      </div>
-      <div id="map" class="viz" aria-label="Interactive map of Victorian schools by region"></div>
-    </section>
-
-    <aside class="card span-4 insight-panel" aria-labelledby="insight-heading">
-      <h3 id="insight-heading">Insight Panel</h3>
+    <section class="narrative span-12">
+      <h2 class="section-title" id="schooling-stats">Schooling stats</h2>
       <p>
-        Start with the statewide map to spot spatial clusters of socio-educational advantage. Use the histogram to narrow the score range and focus the map on specific performance bands.
+        Let's begin by examining how many kids go to school! Last year there were over 4 million students in Australian
+        schools!
       </p>
-      <h4>Key Observations</h4>
-      <ul>
-        <li>Schools around metropolitan Melbourne trend towards higher ICSEA and VCE outcomes.</li>
-        <li>Exception cases emerge where median scores remain average despite advantaged contexts.</li>
-        <li>Regional clusters of similar performance are easier to spot once the histogram filter narrows the score range.</li>
-      </ul>
-    </aside>
-
-    <section class="card span-6" aria-labelledby="histogram-heading">
-      <div>
-        <h3 id="histogram-heading">Median Study Score Distribution</h3>
-        <p class="caption">Drag across the histogram to filter the map and focus on particular performance bands.</p>
-      </div>
-      <div id="histogram" class="viz" aria-label="Histogram of Victorian school median VCE study scores"></div>
-      <div class="card-actions histogram-actions">
-        <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
-      </div>
     </section>
 
     <section class="card span-12" aria-labelledby="student-counts-heading">
@@ -389,19 +417,11 @@
       </div>
     </section>
 
-    <section class="card span-12" aria-labelledby="naplan-heading">
-      <div>
-        <h3 id="naplan-heading">2025 NAPLAN Domain Scores by Gender</h3>
-        <p class="caption">
-          Toggle between national and state results to compare male and female average scores across
-          NAPLAN domains for Years 3, 5, 7, and 9.
-        </p>
-      </div>
-      <div
-        id="naplan-domain"
-        class="viz"
-        aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
-      ></div>
+    <section class="narrative span-12">
+      <p>
+        To be able to nurture so many kids, across states, let's view the number of schools. As broken down into state,
+        sector, and school type.
+      </p>
     </section>
 
     <section class="card span-12" aria-labelledby="counts-heading">
@@ -435,12 +455,22 @@
         <aside class="insight-box" aria-label="Insights for school counts chart">
           <h4>What to notice</h4>
           <ul>
-            <li>Government sectors enrol the majority of students across every state.</li>
-            <li>Catholic and independent schools contribute relatively more in Victoria and Queensland.</li>
-            <li>Look at the ACT to see sector labels rotated above the grouped bars for quick orientation.</li>
+            <li>Government sectors operate the majority of schools across every state.</li>
+            <li>Independent campuses make up a larger share of schools in New South Wales and Queensland.</li>
+            <li>Slide through the years to see how sector mix shifts over time.</li>
           </ul>
         </aside>
       </div>
+    </section>
+
+    <section class="narrative span-12">
+      <p>
+        Schools provide kids with a place to grow, connect, learn about the world around them and have fun.
+        Facilitating this crucial step in human development are the many teachers (and staff) who roam the school.
+        Student to teacher ratios are known as a good indicator of how much responsibility a teacher has, and are inversely
+        proportional to how much attention they can give each kid. Let's view the student to teacher ratios in different
+        school affiliations, across different states.
+      </p>
     </section>
 
     <section class="card span-12" aria-labelledby="ratio-heading">
@@ -464,6 +494,77 @@
             <li>Independent schools tend to run with lower student–teacher ratios than government schools.</li>
             <li>Primary ratios are higher than secondary in most states, reflecting class size differences.</li>
             <li>Switch between levels to spot states where staffing loads have shifted.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="narrative span-12">
+      <p>
+        NAPLAN is a measure which is used to evaluate a student's performance. NAPLAN testing occurs annually, across
+        Australia, for kids in years 3, 5, 7 and 9. They take tests in Spelling, Reading, Writing, Numeracy and Grammar.
+        Let's see how males and females stack up across different states.
+      </p>
+    </section>
+
+    <section class="card span-12" aria-labelledby="naplan-heading">
+      <div>
+        <h3 id="naplan-heading">2025 NAPLAN Domain Scores by Gender</h3>
+        <p class="caption">
+          Toggle between national and state results to compare male and female average scores across
+          NAPLAN domains for Years 3, 5, 7, and 9.
+        </p>
+      </div>
+      <div
+        id="naplan-domain"
+        class="viz"
+        aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
+      ></div>
+    </section>
+
+    <section class="narrative span-12">
+      <h2 class="section-title" id="vce">VCE</h2>
+      <p>
+        The Victorian Certificate of Education (VCE) is awarded to approximately 70% of students, and it is for most the
+        natural path of growing up in Australia. Each student completes 5 to 6 subjects and receives a score out of 50 for
+        each. These scores are added up and students are then ranked by percentile, which is referred to as their ATAR
+        score. Let's view the distribution for the median study score for different schools, across Victoria.
+      </p>
+    </section>
+
+    <section class="card span-12" aria-labelledby="histogram-heading">
+      <div>
+        <h3 id="histogram-heading">Median Study Score Distribution</h3>
+        <p class="caption">Drag across the histogram to filter the map and focus on particular performance bands.</p>
+      </div>
+      <div id="histogram" class="viz" aria-label="Histogram of Victorian school median VCE study scores"></div>
+      <div class="card-actions histogram-actions">
+        <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
+      </div>
+    </section>
+
+    <section class="narrative span-12">
+      <p>
+        It is interesting to note that many top performing schools are often located closer to Melbourne's centre, in more
+        affluent suburbs. Let's view schools along with their median study score, as they are distributed across the state.
+      </p>
+    </section>
+
+    <section class="card span-12" aria-labelledby="map-heading">
+      <div>
+        <h3 id="map-heading">Map of Schools by Region</h3>
+        <p class="caption">Hover for school details; filters stay in sync with the histogram.</p>
+      </div>
+      <div class="card-content">
+        <div class="viz-container">
+          <div id="map" class="viz" aria-label="Interactive map of Victorian schools by region"></div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for school map">
+          <h4>Key Observations</h4>
+          <ul>
+            <li>Schools around metropolitan Melbourne trend towards higher ICSEA and VCE outcomes.</li>
+            <li>Exception cases emerge where median scores remain average despite advantaged contexts.</li>
+            <li>Regional clusters of similar performance are easier to spot once the histogram filter narrows the score range.</li>
           </ul>
         </aside>
       </div>
