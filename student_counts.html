@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Playfair+Display:wght@400;600;700&family=Work+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
@@ -15,8 +15,11 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
     <style>
       :root {
-        font-family: "Inter", Arial, sans-serif;
         color-scheme: light;
+        font-family: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+        --font-heading: "Playfair Display", "Times New Roman", serif;
+        --font-body: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+        --font-accent: "Montserrat", "Work Sans", sans-serif;
         --title-1: #780000;
         --title-2: #c1121f;
         --background: #fdf0d5;
@@ -35,6 +38,8 @@
         box-sizing: border-box;
         background: var(--background);
         color: var(--text-1);
+        font-family: var(--font-body);
+        letter-spacing: 0.01em;
       }
 
       header {
@@ -52,6 +57,8 @@
         font-size: 40px;
         font-weight: 700;
         color: var(--title-1);
+        font-family: var(--font-heading);
+        letter-spacing: 0.02em;
       }
 
       p {
@@ -59,6 +66,8 @@
         max-width: 720px;
         color: var(--text-1);
         line-height: 1.6;
+        font-family: var(--font-body);
+        letter-spacing: 0.01em;
       }
 
       .card {
@@ -76,6 +85,8 @@
         font-weight: 600;
         color: var(--title-2);
         margin-bottom: 16px;
+        font-family: var(--font-heading);
+        letter-spacing: 0.02em;
       }
 
       .card p {
@@ -92,6 +103,8 @@
         text-decoration: none;
         color: var(--text-1);
         font-weight: 600;
+        font-family: var(--font-accent);
+        letter-spacing: 0.04em;
       }
     </style>
   </head>

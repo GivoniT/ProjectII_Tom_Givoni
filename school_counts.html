@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Playfair+Display:wght@400;600;700&family=Work+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
@@ -15,9 +15,16 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
     <style>
       :root {
-        font-family: "Inter", Arial, sans-serif;
-        background-color: #f5f7fa;
-        color: #1a1a1a;
+        color-scheme: light;
+        font-family: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+        --font-heading: "Playfair Display", "Times New Roman", serif;
+        --font-body: "Work Sans", "Helvetica Neue", Arial, sans-serif;
+        --font-accent: "Montserrat", "Work Sans", sans-serif;
+        --title-1: #780000;
+        --title-2: #c1121f;
+        --background: #fdf0d5;
+        --text-1: #003049;
+        --text-2: #669bbc;
       }
 
       body {
@@ -29,6 +36,10 @@
         padding: 32px 16px 64px;
         box-sizing: border-box;
         gap: 24px;
+        background: var(--background);
+        color: var(--text-1);
+        font-family: var(--font-body);
+        letter-spacing: 0.01em;
       }
 
       header {
@@ -41,19 +52,24 @@
         margin: 0;
         font-size: 32px;
         font-weight: 700;
+        color: var(--title-1);
+        font-family: var(--font-heading);
+        letter-spacing: 0.02em;
       }
 
       p {
         margin: 12px auto 0;
         max-width: 720px;
-        color: #4a5568;
+        color: var(--text-1);
         line-height: 1.6;
+        font-family: var(--font-body);
+        letter-spacing: 0.01em;
       }
 
       .card {
         background: #ffffff;
         border-radius: 16px;
-        box-shadow: 0 16px 32px rgba(0, 32, 77, 0.08);
+        box-shadow: 0 12px 32px rgba(0, 48, 73, 0.25);
         padding: 24px;
         max-width: 960px;
         width: 100%;
@@ -67,8 +83,10 @@
 
       .back-link {
         text-decoration: none;
-        color: #2563eb;
+        color: var(--text-1);
         font-weight: 600;
+        font-family: var(--font-accent);
+        letter-spacing: 0.04em;
       }
     </style>
   </head>
