@@ -12,18 +12,11 @@
     :root {
       color-scheme: light;
       font-family: "Inter", Arial, sans-serif;
-      background-color: #f5f7fa;
-      color: #1a1a1a;
-      --primary: #004c97;
-      --secondary: #ffb81c;
-      --neutral-100: #ffffff;
-      --neutral-200: #f5f7fa;
-      --neutral-300: #e0e3e8;
-      --neutral-500: #444444;
-      --neutral-600: #333333;
-      --neutral-700: #1a1a1a;
-      --accent-success: #4caf50;
-      --accent-alert: #d62828;
+      --title-1: #780000;
+      --title-2: #c1121f;
+      --background: #fdf0d5;
+      --text-1: #003049;
+      --text-2: #669bbc;
     }
 
     body {
@@ -32,7 +25,8 @@
       display: grid;
       grid-template-rows: auto 1fr auto;
       justify-items: center;
-      background-color: var(--neutral-200);
+      background-color: var(--background);
+      color: var(--text-1);
     }
 
     h1,
@@ -44,68 +38,73 @@
     }
 
     h1 {
-      font-size: 32px;
+      font-size: 48px;
       font-weight: 700;
-      color: var(--neutral-700);
+      color: var(--title-1);
+      text-align: center;
     }
 
     h2 {
-      font-size: 24px;
+      font-size: 28px;
       font-weight: 600;
-      color: var(--neutral-600);
+      color: var(--title-2);
+      text-align: center;
     }
 
     h3 {
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 600;
-      color: var(--neutral-600);
+      color: var(--title-2);
       margin-bottom: 16px;
     }
 
     h4 {
       font-size: 16px;
-      font-weight: 500;
-      color: #555555;
+      font-weight: 600;
+      color: var(--title-2);
       margin-bottom: 12px;
     }
 
     p {
       font-size: 14px;
       font-weight: 400;
-      color: var(--neutral-500);
+      color: var(--text-1);
       line-height: 1.6;
     }
 
     .caption {
       font-size: 12px;
-      color: #777777;
+      color: var(--text-2);
       margin-top: 8px;
     }
 
     header {
       width: min(1440px, 94vw);
-      padding: 40px 24px 24px;
-      display: grid;
-      grid-template-columns: repeat(12, minmax(0, 1fr));
-      gap: 16px;
+      padding: 56px 24px 32px;
+      display: flex;
+      flex-direction: column;
       align-items: center;
+      text-align: center;
+      gap: 20px;
     }
 
     .brand {
-      grid-column: span 8;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
     }
 
     .lede {
-      grid-column: span 8;
-      margin-top: 16px;
+      max-width: 720px;
     }
 
     button {
       font-family: inherit;
       font-size: 14px;
       font-weight: 600;
-      color: var(--neutral-100);
-      background-color: #f26f4d;
+      color: #ffffff;
+      background-color: var(--text-1);
       border: none;
       border-radius: 6px;
       padding: 10px 16px;
@@ -115,7 +114,7 @@
 
     button:hover,
     button:focus-visible {
-      background-color: #d85734;
+      background-color: #001f33;
       outline: none;
       transform: translateY(-1px);
     }
@@ -130,12 +129,22 @@
     }
 
     .card {
-      background: var(--neutral-100);
+      background: #ffffff;
       border-radius: 12px;
-      box-shadow: 0 16px 32px rgba(0, 32, 77, 0.08);
+      box-shadow: 0 12px 32px rgba(0, 48, 73, 0.25);
       padding: 24px;
       display: flex;
       flex-direction: column;
+    }
+
+    .card p,
+    .card li,
+    .card .caption {
+      color: var(--title-1);
+    }
+
+    a {
+      color: var(--text-1);
     }
 
     .card h3 + p {
@@ -150,7 +159,8 @@
     #map,
     #histogram,
     #school-counts,
-    #student-teacher {
+    #student-teacher,
+    #student-counts-detail {
       width: 100%;
     }
 
@@ -182,6 +192,44 @@
       padding-right: 12px;
     }
 
+    .card-content {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      align-items: stretch;
+    }
+
+    .viz-container {
+      flex: 2 1 320px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .insight-box {
+      flex: 1 1 240px;
+      background: linear-gradient(180deg, #ffffff 0%, rgba(102, 155, 188, 0.45) 100%);
+      border: 1px solid var(--text-2);
+      border-radius: 12px;
+      padding: 18px;
+      color: var(--title-1);
+    }
+
+    .insight-box h4 {
+      margin: 0 0 12px;
+    }
+
+    .insight-box ul {
+      margin: 0;
+      padding-left: 18px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .insight-box li {
+      margin-bottom: 8px;
+    }
+
     .year-sync-actions {
       margin-top: 16px;
       display: flex;
@@ -192,7 +240,7 @@
 
     .year-sync-actions label {
       font-weight: 600;
-      color: var(--neutral-600);
+      color: var(--title-1);
     }
 
     .year-sync-actions input[type="range"] {
@@ -201,20 +249,20 @@
 
     .year-sync-actions output {
       font-weight: 600;
-      color: var(--neutral-700);
+      color: var(--title-2);
       min-width: 3ch;
       text-align: right;
     }
 
     .insight-panel {
-      background: linear-gradient(180deg, #ffffff 0%, #f5f7fa 100%);
-      border: 1px solid var(--neutral-300);
+      background: linear-gradient(180deg, #ffffff 0%, rgba(102, 155, 188, 0.45) 100%);
+      border: 1px solid var(--text-2);
     }
 
     .insight-panel ul {
       margin: 16px 0 0;
       padding-left: 18px;
-      color: var(--neutral-500);
+      color: var(--title-1);
     }
 
     .insight-panel li {
@@ -225,27 +273,17 @@
     footer {
       width: 100%;
       padding: 24px;
-      background: var(--neutral-100);
-      border-top: 1px solid var(--neutral-300);
+      background: var(--background);
+      border-top: 1px solid var(--text-2);
       display: flex;
       justify-content: center;
     }
 
     footer p {
-      color: #777777;
+      color: var(--text-1);
     }
 
     @media (max-width: 1080px) {
-      header {
-        grid-template-columns: repeat(6, minmax(0, 1fr));
-      }
-
-      .brand,
-      .lede {
-        grid-column: span 6;
-        justify-self: start;
-      }
-
       main.dashboard {
         grid-template-columns: repeat(6, minmax(0, 1fr));
         gap: 32px;
@@ -281,11 +319,13 @@
 <body>
   <header>
     <div class="brand">
-      <h1>Educational Performance Dashboard</h1>
-      <h2>Explore School Outcomes Across Victoria</h2>
+      <h1>Schooling in Australia</h1>
+      <h2>By Tom Givoni</h2>
     </div>
     <p class="lede">
-      This dashboard visualises Victorian school performance metrics so you can progress from statewide overview to detailed comparison. Use the interactive filters to spotlight schools, benchmark sectors, and surface areas of excellence.
+      Examine national schooling trends through interactive views that move from state-level comparisons
+      to school-specific insights. Use the controls to focus on areas of interest and surface patterns
+      worth telling in your story.
     </p>
   </header>
 
@@ -322,6 +362,48 @@
       </div>
     </section>
 
+    <section class="card span-12" aria-labelledby="student-counts-heading">
+      <div>
+        <h3 id="student-counts-heading">Student Enrolments by Gender and Sector (2024)</h3>
+        <p class="caption">
+          Select a state to see how student numbers split between males and females across government,
+          Catholic, and independent schools.
+        </p>
+      </div>
+      <div class="card-content">
+        <div class="viz-container">
+          <div
+            id="student-counts-detail"
+            class="viz"
+            aria-label="Grouped and stacked bar chart showing 2024 student counts by gender and sector for the selected state"
+          ></div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for student count chart">
+          <h4>What to notice</h4>
+          <ul>
+            <li>Government schools educate the majority of students, especially males, in every state.</li>
+            <li>Independent enrolments skew slightly towards female students in several states.</li>
+            <li>Switch states to pinpoint where sector mix differs most from the national pattern.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="card span-12" aria-labelledby="naplan-heading">
+      <div>
+        <h3 id="naplan-heading">2025 NAPLAN Domain Scores by Gender</h3>
+        <p class="caption">
+          Toggle between national and state results to compare male and female average scores across
+          NAPLAN domains for Years 3, 5, 7, and 9.
+        </p>
+      </div>
+      <div
+        id="naplan-domain"
+        class="viz"
+        aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
+      ></div>
+    </section>
+
     <section class="card span-12" aria-labelledby="counts-heading">
       <div>
         <h3 id="counts-heading">School Counts by State, Sector, and Type</h3>
@@ -329,23 +411,35 @@
           Use the slider to examine how primary, secondary, combined, and special schools are distributed across sectors for each state.
         </p>
       </div>
-      <div
-        id="school-counts"
-        class="viz"
-        aria-label="Grouped and stacked bar chart showing Australian school counts by state, sector, and school type"
-      ></div>
-      <div class="card-actions year-sync-actions">
-        <label for="yearSync">Year</label>
-        <input
-          id="yearSync"
-          type="range"
-          min="2010"
-          max="2024"
-          step="1"
-          value="2024"
-          aria-label="Select year for school comparison charts"
-        />
-        <output id="yearSyncValue">2024</output>
+      <div class="card-content">
+        <div class="viz-container">
+          <div
+            id="school-counts"
+            class="viz"
+            aria-label="Grouped and stacked bar chart showing Australian school counts by state, sector, and school type"
+          ></div>
+          <div class="card-actions year-sync-actions">
+            <label for="yearSync">Year</label>
+            <input
+              id="yearSync"
+              type="range"
+              min="2010"
+              max="2024"
+              step="1"
+              value="2024"
+              aria-label="Select year for school comparison charts"
+            />
+            <output id="yearSyncValue">2024</output>
+          </div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for school counts chart">
+          <h4>What to notice</h4>
+          <ul>
+            <li>Government sectors enrol the majority of students across every state.</li>
+            <li>Catholic and independent schools contribute relatively more in Victoria and Queensland.</li>
+            <li>Look at the ACT to see sector labels rotated above the grouped bars for quick orientation.</li>
+          </ul>
+        </aside>
       </div>
     </section>
 
@@ -356,11 +450,23 @@
           Compare staffing ratios across sectors for primary and secondary schools. Use the dropdown to switch levels.
         </p>
       </div>
-      <div
-        id="student-teacher"
-        class="viz"
-        aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
-      ></div>
+      <div class="card-content">
+        <div class="viz-container">
+          <div
+            id="student-teacher"
+            class="viz"
+            aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
+          ></div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for student to teacher ratio chart">
+          <h4>What to notice</h4>
+          <ul>
+            <li>Independent schools tend to run with lower student–teacher ratios than government schools.</li>
+            <li>Primary ratios are higher than secondary in most states, reflecting class size differences.</li>
+            <li>Switch between levels to spot states where staffing loads have shifted.</li>
+          </ul>
+        </aside>
+      </div>
     </section>
 
   </main>
@@ -379,6 +485,7 @@
     let histogramView = null;
     let schoolCountsView = null;
     let studentTeacherView = null;
+    let studentCountsDetailView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -464,12 +571,15 @@
 
         return Promise.all([
           vegaEmbed("#school-counts", "school_counts_chart.json?v=2", embedOptions),
-          vegaEmbed("#student-teacher", "student_teacher_ratio_chart.json?v=1", embedOptions)
+          vegaEmbed("#student-teacher", "student_teacher_ratio_chart.json?v=1", embedOptions),
+          vegaEmbed("#student-counts-detail", "student_counts_chart.json?v=2", embedOptions),
+          vegaEmbed("#naplan-domain", "naplan_gender_domain_chart.json?v=2", embedOptions)
         ]);
       })
-      .then(([countsResult, ratioResult]) => {
+      .then(([countsResult, ratioResult, studentCountsResult]) => {
         schoolCountsView = countsResult.view;
         studentTeacherView = ratioResult.view;
+        studentCountsDetailView = studentCountsResult.view;
 
         const yearSlider = document.getElementById("yearSync");
         const yearOutput = document.getElementById("yearSyncValue");

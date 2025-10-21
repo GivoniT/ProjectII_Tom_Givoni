@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Student Count Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+    <style>
+      :root {
+        font-family: "Inter", Arial, sans-serif;
+        color-scheme: light;
+        --title-1: #780000;
+        --title-2: #c1121f;
+        --background: #fdf0d5;
+        --text-1: #003049;
+        --text-2: #669bbc;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 48px 16px 64px;
+        gap: 24px;
+        box-sizing: border-box;
+        background: var(--background);
+        color: var(--text-1);
+      }
+
+      header {
+        max-width: 960px;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 700;
+        color: var(--title-1);
+      }
+
+      p {
+        margin: 12px auto 0;
+        max-width: 720px;
+        color: var(--text-1);
+        line-height: 1.6;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 12px 32px rgba(0, 48, 73, 0.25);
+        padding: 24px;
+        max-width: 960px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .card h2 {
+        font-size: 22px;
+        font-weight: 600;
+        color: var(--title-2);
+        margin-bottom: 16px;
+      }
+
+      .card p {
+        color: var(--title-1);
+      }
+
+      .viz {
+        width: 100%;
+        min-height: 440px;
+      }
+
+      .back-link {
+        align-self: flex-start;
+        text-decoration: none;
+        color: var(--text-1);
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="back-link" href="index.html">← Back to dashboard</a>
+      <h1>Student Count Explorer</h1>
+      <p>
+        Explore the number of students enrolled across Australian states. The bars are grouped by sector and stacked by gender. See 2024 enrolments and use the in-chart dropdown to change state.
+      </p>
+    </header>
+
+    <main class="card">
+      <h2>Student Enrolments by Gender and Sector (2024)</h2>
+      <div
+        id="student-counts-chart"
+        class="viz"
+        aria-label="Grouped and stacked bar chart showing 2024 student counts by sector and gender for the selected state"
+      ></div>
+    </main>
+
+    <script>
+      vegaEmbed("#student-counts-chart", "student_counts_chart.json?v=2", {
+        renderer: "canvas",
+        actions: {
+          exporter: true,
+          source: false,
+          compiled: false,
+          editor: true
+        }
+      }).catch((error) => {
+        console.error("Unable to load student count chart:", error);
+      });
+    </script>
+  </body>
+</html>

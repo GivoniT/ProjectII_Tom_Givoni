@@ -1,0 +1,111 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Grouped bar chart showing student counts by gender, stacked by school sector.",
+  "title": "Student Enrolments by Gender and Sector (2024)",
+  "width": "container",
+  "height": 420,
+  "background": "#f5f7fa",
+  "data": {
+    "url": "data/Australia_states_data/student_counts_processed.json"
+  },
+  "params": [
+    {
+      "name": "selectedState",
+      "value": "New South Wales",
+      "bind": {
+        "input": "select",
+        "name": "State: ",
+        "options": [
+          "New South Wales",
+          "Victoria",
+          "Queensland",
+          "South Australia",
+          "Western Australia",
+          "Tasmania",
+          "Northern Territory",
+          "Australian Capital Territory"
+        ]
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.Year == 2024"
+    },
+    {
+      "filter": "datum.State == selectedState"
+    }
+  ],
+  "mark": {
+    "type": "bar",
+    "cornerRadiusTopLeft": 2,
+    "cornerRadiusTopRight": 2
+  },
+  "encoding": {
+    "x": {
+      "field": "Gender",
+      "type": "nominal",
+      "title": "Student gender",
+      "axis": {
+        "labelAngle": 0
+      },
+      "sort": [
+        "Male",
+        "Female"
+      ]
+    },
+    "y": {
+      "field": "Students",
+      "type": "quantitative",
+      "title": "Students (full-time and part-time)",
+      "stack": "zero",
+      "axis": {
+        "format": ","
+      }
+    },
+    "color": {
+      "field": "Affiliation",
+      "type": "nominal",
+      "title": "School sector",
+      "scale": {
+        "domain": [
+          "Government",
+          "Catholic",
+          "Independent"
+        ],
+        "range": [
+          "#1f77b4",
+          "#ff7f0e",
+          "#2ca02c"
+        ]
+      },
+      "legend": {
+        "orient": "bottom",
+        "direction": "horizontal",
+        "title": "School sector"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "State",
+        "type": "nominal"
+      },
+      {
+        "field": "Gender",
+        "type": "nominal",
+        "title": "Gender"
+      },
+      {
+        "field": "Affiliation",
+        "type": "nominal",
+        "title": "Sector"
+      },
+      {
+        "field": "Students",
+        "type": "quantitative",
+        "title": "Students",
+        "format": ","
+      }
+    ]
+  }
+}

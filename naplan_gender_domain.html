@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NAPLAN Domain Scores Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+    <style>
+      :root {
+        font-family: "Inter", Arial, sans-serif;
+        color-scheme: light;
+        --title-1: #780000;
+        --title-2: #c1121f;
+        --background: #fdf0d5;
+        --text-1: #003049;
+        --text-2: #669bbc;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 48px 16px 64px;
+        gap: 24px;
+        box-sizing: border-box;
+        background: var(--background);
+        color: var(--text-1);
+      }
+
+      header {
+        max-width: 960px;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 700;
+        color: var(--title-1);
+      }
+
+      p {
+        margin: 12px auto 0;
+        max-width: 720px;
+        color: var(--text-1);
+        line-height: 1.6;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 12px 32px rgba(0, 48, 73, 0.25);
+        padding: 24px;
+        max-width: 960px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .card h2 {
+        font-size: 22px;
+        font-weight: 600;
+        color: var(--title-2);
+        margin-bottom: 16px;
+      }
+
+      .card p {
+        color: var(--title-1);
+      }
+
+      .viz {
+        width: 100%;
+        min-height: 640px;
+      }
+
+      .back-link {
+        align-self: flex-start;
+        text-decoration: none;
+        color: var(--text-1);
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="back-link" href="index.html">← Back to dashboard</a>
+      <h1>NAPLAN Domain Scores Explorer</h1>
+      <p>
+        Compare average NAPLAN scores for males and females across each assessment domain using 2025 national results. Switch between national and state results and review separate panels for Years 3, 5, 7, and 9.
+      </p>
+    </header>
+
+    <main class="card">
+      <h2>2025 NAPLAN Domain Scores by Gender</h2>
+      <div
+        id="naplan-domain-chart"
+        class="viz"
+        aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
+      ></div>
+    </main>
+
+    <script>
+      vegaEmbed("#naplan-domain-chart", "naplan_gender_domain_chart.json?v=2", {
+        renderer: "canvas",
+        actions: {
+          exporter: true,
+          source: false,
+          compiled: false,
+          editor: true
+        }
+      }).catch((error) => {
+        console.error("Unable to load NAPLAN domain chart:", error);
+      });
+    </script>
+  </body>
+</html>

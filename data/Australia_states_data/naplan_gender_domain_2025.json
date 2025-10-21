@@ -1,0 +1,2522 @@
+[
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 414.83
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 402.34
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 397.69
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 412.6
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 409.75
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 394.94
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 407.57
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 402.66
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 424.59
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 403.69
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 505.45
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 489.32
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 480.84
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 502.2
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 496.86
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 487.04
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 490.71
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 484.32
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 490.15
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 469.44
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 549.94
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 528.28
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 535.92
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 553.44
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 545.51
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 531.52
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 546.86
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 536.59
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 553.56
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 523.71
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 572.07
+  },
+  {
+    "State": "Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 546.39
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 565.09
+  },
+  {
+    "State": "Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 579.82
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 576.28
+  },
+  {
+    "State": "Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 559.41
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 573.28
+  },
+  {
+    "State": "Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 564.8
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 592.96
+  },
+  {
+    "State": "Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 557.67
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 422.11
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 407.98
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 404.0
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 419.17
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 420.44
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 404.62
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 407.36
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 403.32
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 428.04
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 407.82
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 511.27
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 497.85
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 485.93
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 511.23
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 508.08
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 501.47
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 493.92
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 489.83
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 488.96
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 468.48
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 555.95
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 534.19
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 540.15
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 560.03
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 559.11
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 543.96
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 548.14
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 542.13
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 553.97
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 522.09
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 578.54
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 556.97
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 569.34
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 584.43
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 587.65
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 571.54
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 575.58
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 569.86
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 590.48
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 559.67
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 425.17
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 413.16
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 402.81
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 418.56
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 415.25
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 401.31
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 418.99
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 414.54
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 433.91
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 415.19
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 515.45
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 498.34
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 488.38
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 509.24
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 501.85
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 491.96
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 499.83
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 493.22
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 496.87
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 477.15
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 558.76
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 538.15
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 546.24
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 563.61
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 551.86
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 538.62
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 556.1
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 546.64
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 558.32
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 531.42
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 578.38
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 553.84
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 573.02
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 588.62
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 579.47
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 563.65
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 579.92
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 572.44
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 594.04
+  },
+  {
+    "State": "New South Wales",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 563.28
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 319.06
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 294.03
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 337.47
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 335.79
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 334.36
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 310.81
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 319.3
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 298.36
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 346.24
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 309.05
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 415.77
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 390.08
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 412.6
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 422.16
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 428.54
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 408.45
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 412.76
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 391.39
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 413.0
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 378.9
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 462.32
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 437.96
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 460.56
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 471.35
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 473.38
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 460.0
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 477.66
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 461.83
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 472.95
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 438.71
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 475.6
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 446.87
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 484.69
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 497.08
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 508.69
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 489.03
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 511.14
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 497.2
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 503.3
+  },
+  {
+    "State": "Northern Territory",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 461.6
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 400.14
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 387.59
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 386.26
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 399.63
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 396.95
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 381.93
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 392.58
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 386.57
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 409.96
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 387.19
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 493.71
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 477.48
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 469.11
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 488.89
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 487.36
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 476.38
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 478.91
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 470.52
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 475.61
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 451.86
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 540.51
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 517.61
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 521.89
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 538.02
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 533.95
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 519.0
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 536.99
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 524.75
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 538.36
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 505.87
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 563.01
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 532.93
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 551.0
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 561.4
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 564.95
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 545.27
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 566.37
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 555.06
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 582.63
+  },
+  {
+    "State": "Queensland",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 538.93
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 403.97
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 390.41
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 390.0
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 403.52
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 403.01
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 384.6
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 405.26
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 398.69
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 418.76
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 396.78
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 493.12
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 478.04
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 469.79
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 490.55
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 489.8
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 478.95
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 487.9
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 481.61
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 481.44
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 461.7
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 539.89
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 516.42
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 522.92
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 539.53
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 536.2
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 519.93
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 542.16
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 531.03
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 550.03
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 516.83
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 561.29
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 533.28
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 550.61
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 564.45
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 565.75
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 547.6
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 565.61
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 556.97
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 590.37
+  },
+  {
+    "State": "South Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 550.91
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 394.75
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 373.86
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 391.56
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 400.89
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 403.62
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 383.3
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 394.89
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 376.79
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 414.12
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 385.21
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 485.05
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 468.37
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 462.84
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 482.55
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 487.81
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 475.17
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 475.5
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 464.84
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 478.07
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 452.47
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 530.22
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 504.15
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 513.26
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 523.95
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 531.32
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 512.55
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 529.89
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 514.56
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 540.39
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 500.89
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 550.02
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 523.77
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 542.33
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 556.21
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 564.01
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 543.57
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 557.59
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 545.72
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 574.19
+  },
+  {
+    "State": "Tasmania",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 535.72
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 428.02
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 417.21
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 409.1
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 426.74
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 423.69
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 410.66
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 416.03
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 413.89
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 434.16
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 413.65
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 514.39
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 499.93
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 490.26
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 514.77
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 506.4
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 499.06
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 495.66
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 491.82
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 503.36
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 484.97
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 556.73
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 536.1
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 544.75
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 564.76
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 555.44
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 542.68
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 548.79
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 539.68
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 567.05
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 538.22
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 577.54
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 555.08
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 572.56
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 590.35
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 584.22
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 568.95
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 574.69
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 569.03
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 603.06
+  },
+  {
+    "State": "Victoria",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 571.75
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 401.6
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 387.88
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 389.29
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 402.02
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 397.33
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 380.63
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 397.01
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 391.46
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Female",
+    "AverageScore": 416.61
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 3,
+    "Gender": "Male",
+    "AverageScore": 395.85
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 498.48
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 481.25
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 476.34
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 496.03
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 489.89
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 478.48
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 488.22
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 481.99
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Female",
+    "AverageScore": 484.06
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 5,
+    "Gender": "Male",
+    "AverageScore": 462.96
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 544.54
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 521.62
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 532.14
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 548.52
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 539.87
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 524.83
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 547.66
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 537.2
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Female",
+    "AverageScore": 550.63
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 7,
+    "Gender": "Male",
+    "AverageScore": 519.54
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 577.94
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Grammar and Punctuation",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 551.59
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 573.26
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Numeracy",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 587.99
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 584.55
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Reading",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 568.01
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 577.81
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Spelling",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 566.55
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Female",
+    "AverageScore": 600.94
+  },
+  {
+    "State": "Western Australia",
+    "Domain": "Writing",
+    "YearLevel": 9,
+    "Gender": "Male",
+    "AverageScore": 563.5
+  }
+]

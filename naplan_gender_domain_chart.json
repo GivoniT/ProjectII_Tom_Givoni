@@ -1,0 +1,130 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Grouped bar chart showing 2025 NAPLAN average scores by domain and gender with state filter.",
+  "title": "2025 NAPLAN Average Scores by Domain and Gender",
+  "background": "#f5f7fa",
+  "data": {
+    "url": "data/Australia_states_data/naplan_gender_domain_2025.json"
+  },
+  "params": [
+    {
+      "name": "selectedState",
+      "value": "Australia",
+      "bind": {
+        "input": "select",
+        "name": "State: ",
+        "options": [
+          "Australia",
+          "Australian Capital Territory",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ]
+      }
+    }
+  ],
+  "facet": {
+    "field": "YearLevel",
+    "type": "ordinal",
+    "title": "Year level",
+    "sort": [
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "columns": 2,
+  "spec": {
+    "width": 440,
+    "height": 240,
+    "transform": [
+      {
+        "filter": "datum.State == selectedState"
+      }
+    ],
+    "mark": {
+      "type": "bar",
+      "cornerRadiusTopLeft": 2,
+      "cornerRadiusTopRight": 2
+    },
+    "encoding": {
+      "x": {
+        "field": "Domain",
+        "type": "nominal",
+        "title": "NAPLAN domain",
+        "sort": [
+          "Spelling",
+          "Reading",
+          "Writing",
+          "Numeracy",
+          "Grammar and Punctuation"
+        ],
+        "axis": {
+          "labelAngle": 0
+        }
+      },
+      "xOffset": {
+        "field": "Gender"
+      },
+      "y": {
+        "field": "AverageScore",
+        "type": "quantitative",
+        "title": "Average NAPLAN score",
+        "axis": {
+          "format": ".0f"
+        }
+      },
+      "color": {
+        "field": "Gender",
+        "type": "nominal",
+        "scale": {
+          "domain": [
+            "Male",
+            "Female"
+          ],
+          "range": [
+            "#3772ff",
+            "#f472b6"
+          ]
+        },
+        "legend": {
+          "title": "Gender",
+          "orient": "top"
+        }
+      },
+      "tooltip": [
+        {
+          "field": "State",
+          "type": "nominal",
+          "title": "State"
+        },
+        {
+          "field": "YearLevel",
+          "type": "ordinal",
+          "title": "Year level"
+        },
+        {
+          "field": "Domain",
+          "type": "nominal",
+          "title": "Domain"
+        },
+        {
+          "field": "Gender",
+          "type": "nominal",
+          "title": "Gender"
+        },
+        {
+          "field": "AverageScore",
+          "type": "quantitative",
+          "title": "Average score",
+          "format": ".2f"
+        }
+      ]
+    }
+  }
+}

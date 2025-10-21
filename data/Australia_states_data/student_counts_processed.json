@@ -1,0 +1,674 @@
+[
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 405800
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 375130
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 407533
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 378901
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 135610
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 136195
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 133337
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 133935
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 100202
+  },
+  {
+    "Year": 2024,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 102913
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 97191
+  },
+  {
+    "Year": 2023,
+    "State": "New South Wales",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 98232
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 345977
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 317883
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 342100
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 315152
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 107712
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 108118
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 106102
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 106745
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 84307
+  },
+  {
+    "Year": 2024,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 88457
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 81105
+  },
+  {
+    "Year": 2023,
+    "State": "Victoria",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 84778
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 292812
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 275317
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 293349
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 276910
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 82969
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 79694
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 81580
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 78700
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 75757
+  },
+  {
+    "Year": 2024,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 76963
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 73064
+  },
+  {
+    "Year": 2023,
+    "State": "Queensland",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 74055
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 90903
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 84148
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 89223
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 82914
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 26316
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 26665
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 25533
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 25662
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 27354
+  },
+  {
+    "Year": 2024,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 27690
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 26751
+  },
+  {
+    "Year": 2023,
+    "State": "South Australia",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 26965
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 157738
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 145481
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 155002
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 143306
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 38264
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 38450
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 37670
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 37685
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 39044
+  },
+  {
+    "Year": 2024,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 40414
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 37404
+  },
+  {
+    "Year": 2023,
+    "State": "Western Australia",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 38496
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 27603
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 25801
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 28024
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 26305
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 7743
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 8169
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 7574
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 8036
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 5670
+  },
+  {
+    "Year": 2024,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 5663
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 5574
+  },
+  {
+    "Year": 2023,
+    "State": "Tasmania",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 5544
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 14860
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 14063
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 14977
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 14221
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 2611
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 2539
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 2359
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 2453
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 2995
+  },
+  {
+    "Year": 2024,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 2983
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 2923
+  },
+  {
+    "Year": 2023,
+    "State": "Northern Territory",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 2975
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 23988
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 22009
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Gender": "Male",
+    "Students": 24097
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Government",
+    "Gender": "Female",
+    "Students": 22080
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 10036
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 9131
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Male",
+    "Students": 9900
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Catholic",
+    "Gender": "Female",
+    "Students": 9052
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 5612
+  },
+  {
+    "Year": 2024,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 6247
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Gender": "Male",
+    "Students": 5459
+  },
+  {
+    "Year": 2023,
+    "State": "Australian Capital Territory",
+    "Affiliation": "Independent",
+    "Gender": "Female",
+    "Students": 6065
+  }
+]
