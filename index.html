@@ -362,6 +362,17 @@
       max-width: 320px;
       min-height: 280px;
       justify-self: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+    }
+
+    .composition-grid #school-type-pie {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
     }
 
     .map-hist-stack {
@@ -708,6 +719,7 @@
     let schoolCountsView = null;
     let studentTeacherView = null;
     let studentCountsDetailView = null;
+    let studentCountsPieView = null;
 
     const resetScoreRange = () => {
       if (!mapView) return;
@@ -803,12 +815,12 @@
           "#student-counts-detail",
           "student_counts_chart.json?v=2",
           embedOptions
-        ).then((result) =>
+        ).then((detailResult) =>
           vegaEmbed(
             "#student-counts-gender-pie",
             "student_counts_gender_pie.json?v=1",
             embedOptions
-          ).then(() => result)
+          ).then((pieResult) => ({ detail: detailResult, pie: pieResult }))
         );
 
         return Promise.all([
@@ -821,7 +833,30 @@
       .then(([countsResult, ratioResult, studentCountsResult, naplanResult]) => {
         schoolCountsView = countsResult.view;
         studentTeacherView = ratioResult.view;
-        studentCountsDetailView = studentCountsResult.view;
+        studentCountsDetailView = studentCountsResult.detail.view;
+        studentCountsPieView = studentCountsResult.pie.view;
+
+        const syncStudentState = (state) => {
+          if (!studentCountsPieView || typeof state !== "string") return;
+          try {
+            studentCountsPieView.signal("selectedState", state);
+            studentCountsPieView.runAsync();
+          } catch (error) {
+            console.error("Unable to sync student gender pie:", error);
+          }
+        };
+
+        const initialStudentState =
+          (studentCountsDetailView && studentCountsDetailView.signal("selectedState")) ||
+          "New South Wales";
+
+        syncStudentState(initialStudentState);
+
+        if (studentCountsDetailView) {
+          studentCountsDetailView.addSignalListener("selectedState", (_, value) => {
+            syncStudentState(value);
+          });
+        }
 
         const ratioSlider = document.getElementById("ratioYear");
         const ratioOutput = document.getElementById("ratioYearValue");

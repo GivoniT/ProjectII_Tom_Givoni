@@ -1,14 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Donut chart showing male vs female student counts across Australia in 2024.",
-  "title": "National Student Gender Split (2024)",
-  "width": 240,
-  "height": 240,
+  "description": "Donut chart showing male vs female student counts for the selected state (2024).",
+  "title": {
+    "signal": "'2024 Student Gender Mix (' + selectedState + ')'"
+  },
+  "width": 320,
+  "height": 320,
   "background": "#ffffff",
   "data": {
-    "url": "data/Australia_states_data/student_counts_gender_totals_2024.json"
+    "url": "data/Australia_states_data/student_counts_processed.json"
   },
+  "params": [
+    {
+      "name": "selectedState",
+      "value": "New South Wales"
+    }
+  ],
   "transform": [
+    {
+      "filter": "datum.Year == 2024"
+    },
+    {
+      "filter": "datum.State == selectedState"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Students",
+          "as": "Students"
+        }
+      ],
+      "groupby": [
+        "Gender"
+      ]
+    },
     {
       "joinaggregate": [
         {
@@ -25,8 +51,8 @@
   ],
   "mark": {
     "type": "arc",
-    "innerRadius": 70,
-    "outerRadius": 110
+    "outerRadius": 150,
+    "innerRadius": 60
   },
   "encoding": {
     "theta": {
@@ -47,9 +73,9 @@
         ]
       },
       "legend": {
-        "title": "Gender",
         "orient": "bottom",
-        "direction": "horizontal"
+        "direction": "horizontal",
+        "title": "Gender"
       }
     },
     "tooltip": [
@@ -71,5 +97,11 @@
         "format": ".1%"
       }
     ]
+  },
+  "config": {
+    "legend": {
+      "orient": "bottom",
+      "direction": "horizontal"
+    }
   }
 }
