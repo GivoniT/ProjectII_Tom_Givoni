@@ -1,0 +1,194 @@
+Ranking,Region,Education Index 2022,MapName
+1,Iceland,0.96,Iceland
+2,Germany,0.957,Germany
+3,Norway,0.937,Norway
+4,United Kingdom,0.936,U.K. of Great Britain and Northern Ireland
+5,Denmark,0.933,Denmark
+6,New Zealand,0.93,New Zealand
+6,Finland,0.93,Finland
+8,Switzerland,0.924,Switzerland
+9,Sweden,0.923,Sweden
+9,Australia,0.923,Australia
+11,Netherlands,0.92,Netherlands
+12,Belgium,0.917,Belgium
+13,Slovenia,0.913,Slovenia
+14,Palau,0.911,Palau
+15,United States,0.909,United States of America
+16,Canada,0.908,Canada
+17,Lithuania,0.906,Lithuania
+18,Latvia,0.904,Latvia
+18,United Arab Emirates,0.904,United Arab Emirates
+18,Hong Kong,0.904,Hong Kong
+21,Estonia,0.892,Estonia
+22,Ireland,0.89,Ireland
+23,Georgia,0.887,Georgia
+24,Czech Republic,0.883,Czech Republic
+25,Marshall Islands,0.882,Marshall Islands
+25,Poland,0.882,Poland
+27,Greece,0.88,Greece
+28,South Korea,0.878,Republic of Korea
+29,Argentina,0.87,Argentina
+30,Singapore,0.866,Singapore
+30,Austria,0.866,Austria
+32,Cyprus,0.863,Cyprus
+32,Israel,0.863,Israel
+34,Saint Kitts and Nevis,0.86,Saint Kitts and Nevis
+35,Japan,0.854,Japan
+36,Russia,0.849,Russian Federation
+37,Malta,0.848,Malta
+37,Spain,0.848,Spain
+39,Liechtenstein,0.844,Liechtenstein
+40,Croatia,0.843,Croatia
+41,Slovakia,0.842,Slovakia
+42,Montenegro,0.839,Montenegro
+43,Chile,0.837,Chile
+44,France,0.834,France
+45,Luxembourg,0.828,Luxembourg
+46,Hungary,0.826,Hungary
+47,Kazakhstan,0.824,Kazakhstan
+48,Italy,0.821,Italy
+49,Bahrain,0.819,Bahrain
+49,Saint Vincent and the Grenadines,0.819,Saint Vincent and the Grenadines
+51,Tonga,0.816,Tonga
+52,Moldova,0.807,"Moldova, Republic of"
+53,Saudi Arabia,0.799,Saudi Arabia
+54,Belarus,0.796,Belarus
+55,Turkey,0.793,Turkey
+56,Grenada,0.791,Grenada
+57,Barbados,0.788,Barbados
+58,Portugal,0.787,Portugal
+58,Uruguay,0.787,Uruguay
+60,Serbia,0.786,Serbia
+61,South Africa,0.784,South Africa
+62,Romania,0.783,Romania
+63,Trinidad and Tobago,0.782,Trinidad and Tobago
+64,Antigua and Barbuda,0.781,Antigua & Barbuda
+65,Armenia,0.777,Armenia
+66,Bulgaria,0.766,Bulgaria
+67,Kyrgyzstan,0.761,Kyrgyzstan
+68,Seychelles,0.759,Seychelles
+69,Oman,0.758,Oman
+70,Bahamas,0.754,Bahamas
+71,Cuba,0.753,Cuba
+72,Sri Lanka,0.751,Sri Lanka
+73,Iran,0.748,Iran (Islamic Republic of)
+74,Peru,0.744,Peru
+75,Bolivia,0.743,Bolivia
+76,Andorra,0.742,Andorra
+77,Costa Rica,0.741,Costa Rica
+78,Albania,0.739,Albania
+78,Mauritius,0.739,Mauritius
+78,Ukraine,0.739,Ukraine
+81,Turkmenistan,0.737,Turkmenistan
+82,Fiji,0.73,Fiji
+82,Uzbekistan,0.73,Uzbekistan
+84,Thailand,0.727,Thailand
+85,Samoa,0.724,Samoa
+86,Panama,0.723,Panama
+87,Bosnia and Herzegovina,0.719,Bosnia & Herzegovina
+88,Mongolia,0.716,Mongolia
+89,Malaysia,0.715,Malaysia
+90,Ecuador,0.714,Ecuador
+91,Brazil,0.71,Brazil
+92,Mexico,0.709,Mexico
+93,Azerbaijan,0.706,Azerbaijan
+93,Qatar,0.706,Qatar
+95,North Macedonia,0.701,The former Yugoslav Republic of Macedonia
+96,Colombia,0.697,Colombia
+96,Palestine,0.697,West Bank
+96,Jordan,0.697,Jordan
+99,Venezuela,0.695,Venezuela
+100,San Marino,0.694,San Marino
+101,China,0.692,China
+102,Tuvalu,0.689,Tuvalu
+103,Brunei,0.687,Brunei Darussalam
+104,Egypt,0.685,Egypt
+105,Dominican Republic,0.684,Dominican Republic
+105,Dominica,0.684,Dominica
+107,Kuwait,0.683,Kuwait
+107,Paraguay,0.683,Paraguay
+109,Tajikistan,0.679,Tajikistan
+110,Indonesia,0.676,Indonesia
+111,Tunisia,0.672,Tunisia
+112,Gabon,0.664,Gabon
+112,Algeria,0.664,Algeria
+114,Botswana,0.663,Botswana
+115,Nauru,0.657,Nauru
+116,Philippines,0.656,Philippines
+117,Jamaica,0.654,Jamaica
+118,Libya,0.649,Libyan Arab Jamahiriya
+119,Guyana,0.648,Guyana
+120,Vietnam,0.647,Vietnam
+121,Saint Lucia,0.639,Saint Lucia
+122,Belize,0.638,Belize
+123,Kiribati,0.631,Kiribati
+124,Lebanon,0.623,Lebanon
+125,Republic of the Congo,0.621,Congo
+126,Equatorial Guinea,0.613,Equatorial Guinea
+127,Morocco,0.609,Morocco
+128,Eswatini,0.604,Swaziland
+129,Maldives,0.599,Maldives
+129,Zimbabwe,0.599,Zimbabwe
+131,Nicaragua,0.593,Nicaragua
+131,Micronesia,0.593,Micronesia (Federated States of)
+133,Cameroon,0.589,Cameroon
+134,Suriname,0.586,Suriname
+135,Bangladesh,0.577,Bangladesh
+136,Kenya,0.573,Kenya
+137,El Salvador,0.571,El Salvador
+138,India,0.57,India
+139,Vanuatu,0.568,Vanuatu
+139,Comoros,0.568,Comoros
+139,Namibia,0.568,Namibia
+142,Timor Leste,0.567,Timor-Leste
+143,Iraq,0.566,Iraq
+144,Lesotho,0.558,Lesotho
+145,Bhutan,0.557,Bhutan
+146,Myanmar,0.553,Myanmar
+147,Zambia,0.549,Zambia
+147,Sao Tome and Principe,0.549,Sao Tome and Principe
+149,Togo,0.548,Togo
+150,Nigeria,0.545,Nigeria
+151,Ghana,0.536,Ghana
+152,Angola,0.532,Angola
+153,Uganda,0.526,Uganda
+154,Cape Verde,0.523,Cape Verde
+155,Honduras,0.521,Honduras
+156,DR Congo,0.507,Democratic Republic of the Congo
+157,Nepal,0.5,Nepal
+158,Cambodia,0.496,Cambodia
+159,Haiti,0.495,Haiti
+160,Malawi,0.493,Malawi
+161,Guatemala,0.49,Guatemala
+162,Solomon Islands,0.483,Solomon Islands
+163,Laos,0.48,Lao People's Democratic Republic
+163,Rwanda,0.48,Rwanda
+165,Papua New Guinea,0.472,Papua New Guinea
+166,Liberia,0.468,Liberia
+167,Mozambique,0.427,Mozambique
+168,Tanzania,0.426,United Republic of Tanzania
+169,Ivory Coast,0.421,Côte d'Ivoire
+170,Guinea Bissau,0.415,Guinea-Bissau
+171,Madagascar,0.409,Madagascar
+172,Gambia,0.4,Gambia
+173,Syria,0.396,Syrian Arab Republic
+174,Benin,0.389,Benin
+175,Burundi,0.388,Burundi
+176,Mauritania,0.385,Mauritania
+177,Afghanistan,0.381,Afghanistan
+178,Eritrea,0.373,Eritrea
+179,Sierra Leone,0.367,Sierra Leone
+180,Pakistan,0.366,Pakistan
+180,Sudan,0.366,Sudan
+182,Guinea,0.363,Guinea
+183,Ethiopia,0.355,Ethiopia
+184,Djibouti,0.352,Djibouti
+185,Senegal,0.349,Senegal
+186,South Sudan,0.346,South Sudan
+187,Central African Republic,0.336,Central African Republic
+188,Yemen,0.313,Yemen
+189,Chad,0.304,Chad
+190,Burkina Faso,0.302,Burkina Faso
+191,Somalia,0.274,Somalia
+192,Mali,0.248,Mali
+193,Niger,0.243,Niger

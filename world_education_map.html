@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>World Education Index Map</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Work+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.27.0/build/vega.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.19.0/build/vega-lite.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.26.0/build/vega-embed.min.js"></script>
+    <style>
+      :root {
+        font-family: "Work Sans", Arial, sans-serif;
+        --title-1: #780000;
+        --text-1: #f0f4f8;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 48px 16px 64px;
+        gap: 24px;
+        background: #D6E6F1;
+        color: var(--text-1);
+      }
+
+      header {
+        max-width: 960px;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 700;
+        font-family: "Playfair Display", serif;
+        color: #ffffff;
+      }
+
+      p {
+        margin: 0 auto;
+        max-width: 720px;
+        color: #d9e6f2;
+        line-height: 1.6;
+      }
+
+      .card {
+        background: rgba(255, 255, 255, 0.08);
+        border-radius: 16px;
+        box-shadow: 0 16px 32px rgba(0, 0, 0, 0.25);
+        padding: 24px;
+        max-width: 960px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .viz {
+        width: 100%;
+        min-height: 520px;
+      }
+
+      a.back-link {
+        align-self: flex-start;
+        text-decoration: none;
+        color: #9ad8ff;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a class="back-link" href="index.html">← Back to dashboard</a>
+      <h1>Global Education Index</h1>
+      <p>
+        Explore the 2022 education index across the world. Countries are shaded from light to deep red
+        based on their index value, highlighting regions leading education outcomes and those with room to grow.
+      </p>
+    </header>
+
+    <main class="card">
+      <div
+        id="world-education-map"
+        class="viz"
+        aria-label="Choropleth map showing 2022 education index by country"
+      ></div>
+    </main>
+
+    <script>
+      vegaEmbed("#world-education-map", "world_education_choropleth.json?v=1", {
+        renderer: "canvas",
+        actions: {
+          exporter: true,
+          source: false,
+          compiled: false,
+          editor: true
+        }
+      }).catch((error) => {
+        console.error("Unable to load the world education map:", error);
+      });
+    </script>
+  </body>
+</html>

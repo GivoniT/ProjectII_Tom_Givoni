@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "World education index choropleth.",
+  "title": "2022 Education Index",
+  "width": "container",
+  "height": 520,
+  "projection": {
+    "type": "equalEarth"
+  },
+  "background": "#b9daf3",
+  "data": {
+    "url": "data/World map/world-administrative-boundaries.json",
+    "format": {
+      "type": "topojson",
+      "feature": "world-administrative-boundaries"
+    }
+  },
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "data/World map/education_index_processed.csv"
+        },
+        "key": "MapName",
+        "fields": [
+          "Education Index 2022",
+          "Region"
+        ]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "#ffffff",
+    "strokeWidth": 0.3
+  },
+  "encoding": {
+    "color": {
+      "field": "Education Index 2022",
+      "type": "quantitative",
+      "title": "Education Index (2022)",
+      "scale": {
+        "scheme": "reds"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Region",
+        "type": "nominal",
+        "title": "Region"
+      },
+      {
+        "field": "Education Index 2022",
+        "type": "quantitative",
+        "title": "Education Index",
+        "format": ".3f"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

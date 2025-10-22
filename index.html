@@ -538,6 +538,7 @@
     <div class="narrative-link">
       <a href="school_counts_marimekko.html">Preview composition view</a>
     </div>
+    <div class="narrative-link"><a href="world_education_map.html">Preview world education map</a></div>
 
     <section class="card span-12" aria-labelledby="counts-heading">
       <div>
@@ -698,6 +699,40 @@
             INTERACTIVE ELEMENT
             <span>You can brush on the histogram (click and drag) to select a score range and highlight those schools on the map. Drag the range to watch dots move outward as scores drop.<br /><br />Reset via the button or double-click the histogram. Use the zoom slider to see more of the map.</span>
           </div>
+        </aside>
+      </div>
+    </section>
+
+        <section class="narrative span-12">
+      <h2 class="section-title" id="global-context">Australia’s Education in World Context</h2>
+      <p>
+        Australia ranks 9th in the world’s Education Index. The schooling system we have examined highlights
+        differences across states, sectors, and genders, yet collectively Australia stands among the best places
+        in the world to pursue education.
+      </p>
+    </section>
+
+<section class="card span-12" aria-labelledby="world-education-heading">
+      <div>
+        <h3 id="world-education-heading">Global Education Index (2022)</h3>
+        <p class="caption">
+          Countries shaded in deeper red score higher on the education index, highlighting regions leading global outcomes.
+        </p>
+      </div>
+      <div class="card-content">
+        <div class="viz-container">
+          <div
+            id="world-education-map-embed"
+            class="viz"
+            aria-label="Choropleth map showing 2022 education index by country"
+          ></div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for global education map">
+          <h4>What to notice</h4>
+          <ul>
+            <li>Australia registers a deep red, signalling world-class education outcomes.</li>
+            <li>It competes most closely with North America and the nations of Northern and Central Europe.</li>
+          </ul>
         </aside>
       </div>
     </section>
@@ -886,6 +921,18 @@
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);
       });
+
+    vegaEmbed("#world-education-map-embed", "world_education_choropleth.json?v=1", {
+      renderer: "canvas",
+      actions: {
+        exporter: true,
+        source: false,
+        compiled: false,
+        editor: true
+      }
+    }).catch((error) => {
+      console.error("Unable to load the world education choropleth:", error);
+    });
 
     document.getElementById("resetScores").addEventListener("click", () => {
       if (histogramView) {
