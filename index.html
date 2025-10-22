@@ -168,6 +168,43 @@
       color: var(--text-1);
     }
 
+    .composition-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      align-items: center;
+    }
+
+    .composition-grid .viz {
+      min-height: 380px;
+    }
+
+    .narrative-link {
+      grid-column: span 12;
+      justify-self: center;
+    }
+
+    .narrative-link a {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-accent);
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--title-2);
+      text-decoration: none;
+      border: 1px solid var(--title-2);
+      padding: 10px 18px;
+      border-radius: 999px;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .narrative-link a:hover,
+    .narrative-link a:focus-visible {
+      background-color: var(--title-2);
+      color: #ffffff;
+    }
+
     .narrative {
       grid-column: span 12;
       max-width: 960px;
@@ -209,7 +246,8 @@
 
     #map,
     #histogram,
-    #school-counts,
+    #school-counts-composition,
+    #school-type-pie,
     #student-teacher,
     #student-counts-detail {
       width: 100%;
@@ -258,12 +296,16 @@
     }
 
     .insight-box {
-      flex: 1 1 240px;
-      background: linear-gradient(180deg, #ffffff 0%, rgba(102, 155, 188, 0.45) 100%);
+      flex: 0 0 220px;
+      max-width: 240px;
+      background: #ffffff;
       border: 1px solid var(--text-2);
       border-radius: 12px;
       padding: 18px;
       color: var(--title-1);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
     }
 
     .insight-box h4 {
@@ -275,38 +317,86 @@
       padding-left: 18px;
       font-size: 14px;
       line-height: 1.5;
+      flex: 1 1 auto;
     }
 
     .insight-box li {
       margin-bottom: 8px;
     }
 
-    .year-sync-actions {
-      margin-top: 16px;
-      display: flex;
-      align-items: center;
-      justify-content: flex-end;
-      gap: 12px;
+    .interaction-callout {
+      display: block;
+      background: var(--title-2);
+      color: #ffffff;
+      border-radius: 10px;
+      padding: 12px 16px;
+      font-family: var(--font-accent);
+      font-size: 13px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      margin-top: auto;
+      text-align: left;
     }
 
-    .year-sync-actions label {
-      font-weight: 600;
+    .interaction-callout span {
+      display: block;
+      font-family: var(--font-body);
+      font-size: 13px;
+      letter-spacing: 0.01em;
+      text-transform: none;
+    }
+
+    .student-enrolment-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
+      align-items: center;
+    }
+
+    .student-enrolment-grid .viz {
+      min-height: 360px;
+    }
+
+    .student-enrolment-grid .donut {
+      max-width: 320px;
+      min-height: 280px;
+      justify-self: center;
+    }
+
+    .map-hist-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .map-hist-stack .viz {
+      min-height: 360px;
+    }
+
+    .year-slider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 12px;
+      font-family: var(--font-body);
       color: var(--title-1);
     }
 
-    .year-sync-actions input[type="range"] {
+    .year-slider input[type="range"] {
       width: 200px;
     }
 
-    .year-sync-actions output {
+    .year-slider output {
       font-weight: 600;
       color: var(--title-2);
       min-width: 3ch;
       text-align: right;
     }
 
+
     .insight-panel {
-      background: linear-gradient(180deg, #ffffff 0%, rgba(102, 155, 188, 0.45) 100%);
+      background: #ffffff;
       border: 1px solid var(--text-2);
     }
 
@@ -400,11 +490,18 @@
       </div>
       <div class="card-content">
         <div class="viz-container">
-          <div
-            id="student-counts-detail"
-            class="viz"
-            aria-label="Grouped and stacked bar chart showing 2024 student counts by gender and sector for the selected state"
-          ></div>
+                    <div class="student-enrolment-grid">
+            <div
+              id="student-counts-detail"
+              class="viz"
+              aria-label="Grouped and stacked bar chart showing 2024 student counts by gender and sector for the selected state"
+            ></div>
+            <div
+              id="student-counts-gender-pie"
+              class="viz donut"
+              aria-label="Donut chart showing national student counts by gender"
+            ></div>
+          </div>
         </div>
         <aside class="insight-box" aria-label="Insights for student count chart">
           <h4>What to notice</h4>
@@ -413,6 +510,10 @@
             <li>Independent enrolments skew slightly towards female students in several states.</li>
             <li>Switch states to pinpoint where sector mix differs most from the national pattern.</li>
           </ul>
+          <div class="interaction-callout">
+            INTERACTIVE ELEMENT
+            <span>Use the State dropdown to filter different states.</span>
+          </div>
         </aside>
       </div>
     </section>
@@ -424,40 +525,38 @@
       </p>
     </section>
 
+    <div class="narrative-link">
+      <a href="school_counts_marimekko.html">Preview composition view</a>
+    </div>
+
     <section class="card span-12" aria-labelledby="counts-heading">
       <div>
         <h3 id="counts-heading">School Counts by State, Sector, and Type</h3>
         <p class="caption">
-          Use the slider to examine how primary, secondary, combined, and special schools are distributed across sectors for each state.
+          Compare how each state's schools are split across sectors and see the national breakdown of school types.
         </p>
       </div>
       <div class="card-content">
         <div class="viz-container">
-          <div
-            id="school-counts"
-            class="viz"
-            aria-label="Grouped and stacked bar chart showing Australian school counts by state, sector, and school type"
-          ></div>
-          <div class="card-actions year-sync-actions">
-            <label for="yearSync">Year</label>
-            <input
-              id="yearSync"
-              type="range"
-              min="2010"
-              max="2024"
-              step="1"
-              value="2024"
-              aria-label="Select year for school comparison charts"
-            />
-            <output id="yearSyncValue">2024</output>
+          <div class="composition-grid">
+            <div
+              id="school-counts-composition"
+              class="viz"
+              aria-label="Normalised stacked bar chart showing 2024 school sector mix by state"
+            ></div>
+            <div
+              id="school-type-pie"
+              class="viz"
+              aria-label="Pie chart showing national school type distribution"
+            ></div>
           </div>
         </div>
-        <aside class="insight-box" aria-label="Insights for school counts chart">
+        <aside class="insight-box" aria-label="Insights for school composition charts">
           <h4>What to notice</h4>
           <ul>
-            <li>Government sectors operate the majority of schools across every state.</li>
-            <li>Independent campuses make up a larger share of schools in New South Wales and Queensland.</li>
-            <li>Slide through the years to see how sector mix shifts over time.</li>
+            <li>Government schools make up roughly two-thirds of every state, with Catholic and independent shares varying modestly.</li>
+            <li>Nationally, primary schools dominate the school landscape, with relatively few special schools.</li>
+            <li>Look for states where independent or Catholic proportions diverge most from the national pattern.</li>
           </ul>
         </aside>
       </div>
@@ -487,6 +586,11 @@
             class="viz"
             aria-label="Grouped bar chart showing student to teacher ratios by state and sector"
           ></div>
+          <div class="year-slider">
+            <label for="ratioYear">Year</label>
+            <input id="ratioYear" type="range" min="2006" max="2024" step="1" value="2024" />
+            <output id="ratioYearValue">2024</output>
+          </div>
         </div>
         <aside class="insight-box" aria-label="Insights for student to teacher ratio chart">
           <h4>What to notice</h4>
@@ -515,11 +619,23 @@
           NAPLAN domains for Years 3, 5, 7, and 9.
         </p>
       </div>
-      <div
-        id="naplan-domain"
-        class="viz"
-        aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
-      ></div>
+      <div class="card-content">
+        <div class="viz-container">
+          <div
+            id="naplan-domain"
+            class="viz"
+            aria-label="Facet grid of grouped bar charts showing 2025 NAPLAN average scores by domain and gender with a state selector and separate panels for Years 3, 5, 7, and 9"
+          ></div>
+        </div>
+        <aside class="insight-box" aria-label="Insights for NAPLAN domain chart">
+          <h4>What to notice</h4>
+          <ul>
+            <li>Females lead Reading and Grammar scores in every state, while males typically edge ahead in Numeracy.</li>
+            <li>State gaps between genders widen in Writing, especially for the senior year levels.</li>
+            <li>Switch states to see how the overall score profile shifts across domains.</li>
+          </ul>
+        </aside>
+      </div>
     </section>
 
     <section class="narrative span-12">
@@ -532,39 +648,33 @@
       </p>
     </section>
 
-    <section class="card span-12" aria-labelledby="histogram-heading">
+    <section class="card span-12" aria-labelledby="map-hist-heading">
       <div>
-        <h3 id="histogram-heading">Median Study Score Distribution</h3>
-        <p class="caption">Drag across the histogram to filter the map and focus on particular performance bands.</p>
-      </div>
-      <div id="histogram" class="viz" aria-label="Histogram of Victorian school median VCE study scores"></div>
-      <div class="card-actions histogram-actions">
-        <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
-      </div>
-    </section>
-
-    <section class="narrative span-12">
-      <p>
-        It is interesting to note that many top performing schools are often located closer to Melbourne's centre, in more
-        affluent suburbs. Let's view schools along with their median study score, as they are distributed across the state.
-      </p>
-    </section>
-
-    <section class="card span-12" aria-labelledby="map-heading">
-      <div>
-        <h3 id="map-heading">Map of Schools by Region</h3>
-        <p class="caption">Hover for school details; filters stay in sync with the histogram.</p>
+        <h3 id="map-hist-heading">VCE Scores and School Locations</h3>
+        <p class="caption">
+          Brush the histogram to highlight schools within a score range and see where they cluster across Victoria.
+        </p>
       </div>
       <div class="card-content">
-        <div class="viz-container">
+        <div class="viz-container map-hist-stack">
+          <div>
+            <div
+              id="histogram"
+              class="viz"
+              aria-label="Histogram of Victorian school median VCE study scores"
+            ></div>
+            <div class="card-actions histogram-actions">
+              <button id="resetScores" type="button" aria-label="Reset VCE score filter">Reset VCE Filter</button>
+            </div>
+          </div>
           <div id="map" class="viz" aria-label="Interactive map of Victorian schools by region"></div>
         </div>
-        <aside class="insight-box" aria-label="Insights for school map">
-          <h4>Key Observations</h4>
+        <aside class="insight-box" aria-label="Insights for VCE score and map views">
+          <h4>What to notice</h4>
           <ul>
-            <li>Schools around metropolitan Melbourne trend towards higher ICSEA and VCE outcomes.</li>
-            <li>Exception cases emerge where median scores remain average despite advantaged contexts.</li>
-            <li>Regional clusters of similar performance are easier to spot once the histogram filter narrows the score range.</li>
+            <li>Most schools sit in the mid-20 score range; brushing the tails reveals higher or lower performing outliers.</li>
+            <li>Filtering the histogram immediately updates the map so you can spot where top or struggling schools cluster.</li>
+            <li>Metropolitan Melbourne concentrates many high scorers, while regional areas show a broader spread.</li>
           </ul>
         </aside>
       </div>
@@ -670,47 +780,62 @@
         ensureHistogramHeight();
         window.addEventListener("resize", ensureHistogramHeight);
 
+        const schoolCountsPromise = vegaEmbed(
+          "#school-counts-composition",
+          "school_counts_normalised.json?v=1",
+          embedOptions
+        ).then((result) =>
+          vegaEmbed("#school-type-pie", "school_counts_pie.json?v=1", embedOptions).then(() => result)
+        );
+
+        const studentCountsPromise = vegaEmbed(
+          "#student-counts-detail",
+          "student_counts_chart.json?v=2",
+          embedOptions
+        ).then((result) =>
+          vegaEmbed(
+            "#student-counts-gender-pie",
+            "student_counts_gender_pie.json?v=1",
+            embedOptions
+          ).then(() => result)
+        );
+
         return Promise.all([
-          vegaEmbed("#school-counts", "school_counts_chart.json?v=2", embedOptions),
+          schoolCountsPromise,
           vegaEmbed("#student-teacher", "student_teacher_ratio_chart.json?v=1", embedOptions),
-          vegaEmbed("#student-counts-detail", "student_counts_chart.json?v=2", embedOptions),
+          studentCountsPromise,
           vegaEmbed("#naplan-domain", "naplan_gender_domain_chart.json?v=2", embedOptions)
         ]);
       })
-      .then(([countsResult, ratioResult, studentCountsResult]) => {
+      .then(([countsResult, ratioResult, studentCountsResult, naplanResult]) => {
         schoolCountsView = countsResult.view;
         studentTeacherView = ratioResult.view;
         studentCountsDetailView = studentCountsResult.view;
 
-        const yearSlider = document.getElementById("yearSync");
-        const yearOutput = document.getElementById("yearSyncValue");
+        const ratioSlider = document.getElementById("ratioYear");
+        const ratioOutput = document.getElementById("ratioYearValue");
 
-        const updateYear = (year) => {
-          if (!Number.isFinite(year)) return;
-          if (yearOutput) {
-            yearOutput.textContent = String(year);
-          }
-          if (schoolCountsView) {
-            schoolCountsView.signal("selectedYear", year);
-            schoolCountsView.runAsync();
-          }
-          if (studentTeacherView) {
-            studentTeacherView.signal("ratioYear", year);
-            studentTeacherView.runAsync();
+        const updateRatioYear = (year) => {
+          if (!Number.isFinite(year) || !studentTeacherView) return;
+          studentTeacherView.signal("ratioYear", year);
+          studentTeacherView.runAsync();
+          if (ratioOutput) {
+            ratioOutput.textContent = String(year);
           }
         };
 
-        const initialYear =
-          (schoolCountsView && schoolCountsView.signal("selectedYear")) || 2024;
+        const initialRatioYear =
+          (studentTeacherView && studentTeacherView.signal("ratioYear")) || 2024;
 
-        updateYear(initialYear);
+        updateRatioYear(initialRatioYear);
 
-        if (yearSlider) {
-          yearSlider.value = initialYear;
-          yearSlider.addEventListener("input", (event) => {
-            updateYear(Number(event.target.value));
+        if (ratioSlider) {
+          ratioSlider.value = initialRatioYear;
+          ratioSlider.addEventListener("input", (event) => {
+            updateRatioYear(Number(event.target.value));
           });
         }
+
       })
       .catch((error) => {
         console.error("Failed to load the Vega visualisations:", error);

@@ -1,0 +1,22 @@
+[
+  {
+    "SchoolType": "Combined",
+    "Count": 1431,
+    "Year": 2024
+  },
+  {
+    "SchoolType": "Primary",
+    "Count": 6234,
+    "Year": 2024
+  },
+  {
+    "SchoolType": "Secondary",
+    "Count": 1457,
+    "Year": 2024
+  },
+  {
+    "SchoolType": "Special",
+    "Count": 531,
+    "Year": 2024
+  }
+]

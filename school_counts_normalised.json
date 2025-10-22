@@ -1,0 +1,90 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Normalised stacked bar chart showing the composition of school sectors within each Australian state for 2024.",
+  "title": "2024 School Sector Composition by State",
+  "width": "container",
+  "height": 420,
+  "background": "#ffffff",
+  "data": {
+    "url": "data/Australia_states_data/school_counts_sector_totals_2024.json"
+  },
+  "mark": {
+    "type": "bar"
+  },
+  "encoding": {
+    "x": {
+      "field": "State",
+      "type": "nominal",
+      "title": "State",
+      "sort": "-y",
+      "axis": {
+        "labelAngle": -60,
+        "labelAlign": "right",
+        "labelBaseline": "middle"
+      }
+    },
+    "y": {
+      "aggregate": "sum",
+      "field": "Count",
+      "type": "quantitative",
+      "stack": "normalize",
+      "title": "Share of schools",
+      "axis": {
+        "format": "%"
+      }
+    },
+    "color": {
+      "field": "Sector",
+      "type": "nominal",
+      "title": "Sector",
+      "scale": {
+        "domain": [
+          "Government",
+          "Catholic",
+          "Independent"
+        ],
+        "range": [
+          "#1f77b4",
+          "#ff7f0e",
+          "#2ca02c"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "State",
+        "type": "nominal",
+        "title": "State"
+      },
+      {
+        "field": "Sector",
+        "type": "nominal",
+        "title": "Sector"
+      },
+      {
+        "field": "Count",
+        "type": "quantitative",
+        "title": "Schools",
+        "format": ","
+      },
+      {
+        "field": "StateTotal",
+        "type": "quantitative",
+        "title": "Total schools",
+        "format": ","
+      },
+      {
+        "field": "SectorShare",
+        "type": "quantitative",
+        "title": "Sector share",
+        "format": ".1%"
+      }
+    ]
+  },
+  "config": {
+    "legend": {
+      "orient": "bottom",
+      "direction": "horizontal"
+    }
+  }
+}

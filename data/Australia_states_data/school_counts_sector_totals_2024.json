@@ -1,0 +1,170 @@
+[
+  {
+    "State": "New South Wales",
+    "Sector": "Government",
+    "Count": 2156,
+    "StateTotal": 3132,
+    "SectorShare": 0.6884
+  },
+  {
+    "State": "New South Wales",
+    "Sector": "Catholic",
+    "Count": 597,
+    "StateTotal": 3132,
+    "SectorShare": 0.1906
+  },
+  {
+    "State": "New South Wales",
+    "Sector": "Independent",
+    "Count": 379,
+    "StateTotal": 3132,
+    "SectorShare": 0.121
+  },
+  {
+    "State": "Victoria",
+    "Sector": "Government",
+    "Count": 1568,
+    "StateTotal": 2292,
+    "SectorShare": 0.6841
+  },
+  {
+    "State": "Victoria",
+    "Sector": "Catholic",
+    "Count": 496,
+    "StateTotal": 2292,
+    "SectorShare": 0.2164
+  },
+  {
+    "State": "Victoria",
+    "Sector": "Independent",
+    "Count": 228,
+    "StateTotal": 2292,
+    "SectorShare": 0.0995
+  },
+  {
+    "State": "Queensland",
+    "Sector": "Government",
+    "Count": 1252,
+    "StateTotal": 1798,
+    "SectorShare": 0.6963
+  },
+  {
+    "State": "Queensland",
+    "Sector": "Catholic",
+    "Count": 313,
+    "StateTotal": 1798,
+    "SectorShare": 0.1741
+  },
+  {
+    "State": "Queensland",
+    "Sector": "Independent",
+    "Count": 233,
+    "StateTotal": 1798,
+    "SectorShare": 0.1296
+  },
+  {
+    "State": "South Australia",
+    "Sector": "Government",
+    "Count": 508,
+    "StateTotal": 714,
+    "SectorShare": 0.7115
+  },
+  {
+    "State": "South Australia",
+    "Sector": "Catholic",
+    "Count": 101,
+    "StateTotal": 714,
+    "SectorShare": 0.1415
+  },
+  {
+    "State": "South Australia",
+    "Sector": "Independent",
+    "Count": 105,
+    "StateTotal": 714,
+    "SectorShare": 0.1471
+  },
+  {
+    "State": "Western Australia",
+    "Sector": "Government",
+    "Count": 813,
+    "StateTotal": 1125,
+    "SectorShare": 0.7227
+  },
+  {
+    "State": "Western Australia",
+    "Sector": "Catholic",
+    "Count": 164,
+    "StateTotal": 1125,
+    "SectorShare": 0.1458
+  },
+  {
+    "State": "Western Australia",
+    "Sector": "Independent",
+    "Count": 148,
+    "StateTotal": 1125,
+    "SectorShare": 0.1316
+  },
+  {
+    "State": "Tasmania",
+    "Sector": "Government",
+    "Count": 189,
+    "StateTotal": 261,
+    "SectorShare": 0.7241
+  },
+  {
+    "State": "Tasmania",
+    "Sector": "Catholic",
+    "Count": 38,
+    "StateTotal": 261,
+    "SectorShare": 0.1456
+  },
+  {
+    "State": "Tasmania",
+    "Sector": "Independent",
+    "Count": 34,
+    "StateTotal": 261,
+    "SectorShare": 0.1303
+  },
+  {
+    "State": "Northern Territory",
+    "Sector": "Government",
+    "Count": 150,
+    "StateTotal": 193,
+    "SectorShare": 0.7772
+  },
+  {
+    "State": "Northern Territory",
+    "Sector": "Catholic",
+    "Count": 18,
+    "StateTotal": 193,
+    "SectorShare": 0.0933
+  },
+  {
+    "State": "Northern Territory",
+    "Sector": "Independent",
+    "Count": 25,
+    "StateTotal": 193,
+    "SectorShare": 0.1295
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Sector": "Government",
+    "Count": 91,
+    "StateTotal": 138,
+    "SectorShare": 0.6594
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Sector": "Catholic",
+    "Count": 32,
+    "StateTotal": 138,
+    "SectorShare": 0.2319
+  },
+  {
+    "State": "Australian Capital Territory",
+    "Sector": "Independent",
+    "Count": 15,
+    "StateTotal": 138,
+    "SectorShare": 0.1087
+  }
+]

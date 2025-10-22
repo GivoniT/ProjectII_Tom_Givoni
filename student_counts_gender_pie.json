@@ -1,0 +1,75 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Donut chart showing male vs female student counts across Australia in 2024.",
+  "title": "National Student Gender Split (2024)",
+  "width": 240,
+  "height": 240,
+  "background": "#ffffff",
+  "data": {
+    "url": "data/Australia_states_data/student_counts_gender_totals_2024.json"
+  },
+  "transform": [
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "Students",
+          "as": "Total"
+        }
+      ]
+    },
+    {
+      "calculate": "datum.Students / datum.Total",
+      "as": "Share"
+    }
+  ],
+  "mark": {
+    "type": "arc",
+    "innerRadius": 70,
+    "outerRadius": 110
+  },
+  "encoding": {
+    "theta": {
+      "field": "Students",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Gender",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Male",
+          "Female"
+        ],
+        "range": [
+          "#3772ff",
+          "#f472b6"
+        ]
+      },
+      "legend": {
+        "title": "Gender",
+        "orient": "bottom",
+        "direction": "horizontal"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Gender",
+        "type": "nominal",
+        "title": "Gender"
+      },
+      {
+        "field": "Students",
+        "type": "quantitative",
+        "title": "Students",
+        "format": ","
+      },
+      {
+        "field": "Share",
+        "type": "quantitative",
+        "title": "Share",
+        "format": ".1%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Pie chart showing the distribution of school types across Australia in 2024.",
+  "title": "2024 School Types (Australia)",
+  "width": 300,
+  "height": 300,
+  "background": "#ffffff",
+  "data": {
+    "url": "data/Australia_states_data/school_counts_type_totals_2024.json"
+  },
+  "transform": [
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "Count",
+          "as": "Total"
+        }
+      ]
+    },
+    {
+      "calculate": "datum.Count / datum.Total",
+      "as": "Share"
+    }
+  ],
+  "mark": {
+    "type": "arc",
+    "outerRadius": 120,
+    "innerRadius": 40
+  },
+  "encoding": {
+    "theta": {
+      "field": "Count",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "SchoolType",
+      "type": "nominal",
+      "title": "School type",
+      "scale": {
+        "domain": [
+          "Primary",
+          "Secondary",
+          "Combined",
+          "Special"
+        ],
+        "range": [
+          "#6c5ce7",
+          "#00b894",
+          "#fdcb6e",
+          "#e17055"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "SchoolType",
+        "type": "nominal",
+        "title": "School type"
+      },
+      {
+        "field": "Count",
+        "type": "quantitative",
+        "title": "Schools",
+        "format": ","
+      },
+      {
+        "field": "Share",
+        "type": "quantitative",
+        "title": "Share",
+        "format": ".1%"
+      }
+    ]
+  },
+  "config": {
+    "legend": {
+      "orient": "bottom",
+      "direction": "horizontal"
+    }
+  }
+}
